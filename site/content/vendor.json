@@ -1,0 +1,375 @@
+{
+  "id": "vendor",
+  "title": {
+    "en": "TaxiMobility Company & Fleet Owner Guide",
+    "es": "Guía para Empresas y Propietarios de Flotilla de TaxiMobility"
+  },
+  "tagline": {
+    "en": "A complete reference for operating the TaxiMobility Company panel — fleet tracking, dispatch, revenue, analytics, and settings for taxi companies and fleet owners.",
+    "es": "Una referencia completa para operar el panel de Empresa de TaxiMobility: seguimiento de flotilla, despacho, ingresos, analítica y configuración para empresas de taxis y propietarios de flotilla."
+  },
+  "sections": [
+    {
+      "id": "introduction",
+      "number": "1",
+      "title": {
+        "en": "Introduction",
+        "es": "Introducción"
+      },
+      "content": {
+        "en": "The Company panel gives a taxi company (fleet owner / vendor) complete control over its own operation within the TaxiMobility platform — its dispatchers, drivers, passengers, fleets, and transactions. Every detail recorded through the company's dispatcher channels is stored in this web-based company portal, giving the company a single, authoritative view of its business.\n\nFrom this panel, a company can:\n\n- Add and manage dispatchers, drivers, and fleets.\n- Access transaction details and account reports.\n- Manage user accounts.\n- View driver ratings, contact information, and other driver details.",
+        "es": "El panel de Empresa otorga a una compañía de taxis (propietario de flotilla / vendor) el control total sobre su propia operación dentro de la plataforma TaxiMobility: sus despachadores, conductores, pasajeros, flotillas y transacciones. Todos los detalles registrados a través de los canales de despacho de la empresa se guardan en este portal web de empresa, ofreciendo una vista única y autorizada de su negocio.\n\nDesde este panel, una empresa puede:\n\n- Agregar y administrar despachadores, conductores y flotillas.\n- Consultar el detalle de las transacciones y los reportes de cuenta.\n- Administrar las cuentas de usuario.\n- Ver las calificaciones de los conductores, sus datos de contacto y demás información."
+      }
+    },
+    {
+      "id": "login",
+      "number": "2",
+      "title": {
+        "en": "Login",
+        "es": "Inicio de sesión"
+      },
+      "content": {
+        "en": "Sign in to the company dashboard using the login credentials provided to you (registered email address and password) from the **Company Owner Log In** screen.\n\n- **Forgot Password?** — If you have forgotten your registered password, click **Forgot?** on the login screen. Enter your registered email address and click **Send** to receive a password-reset link at that address.\n- **Remember Me** — Check this box on the login page to have the portal store your login details for future sessions.\n- A **Dispatcher Log In** link is also available on the same screen for dispatcher accounts.\n\n![Company Owner Log In screen with email, password, and Remember Me fields](assets/vendor/p003-1.jpeg)\n![Forgot Password screen requesting a registered email address](assets/vendor/p003-2.jpeg)",
+        "es": "Inicie sesión en el panel de la empresa utilizando las credenciales que se le proporcionaron (correo electrónico registrado y contraseña) desde la pantalla **Company Owner Log In** (Inicio de sesión del propietario de la empresa).\n\n- **¿Olvidó su contraseña? (Forgot?)** — Si olvidó su contraseña registrada, haga clic en **Forgot?** en la pantalla de inicio de sesión. Ingrese su correo electrónico registrado y haga clic en **Send** (Enviar) para recibir en esa dirección un enlace de restablecimiento de contraseña.\n- **Remember Me (Recordarme)** — Marque esta casilla en la pantalla de inicio de sesión para que el portal guarde sus datos de acceso en futuras sesiones.\n- En la misma pantalla también está disponible el enlace **Dispatcher Log In** (Inicio de sesión de despachador) para las cuentas de despachador.\n\n![Pantalla de inicio de sesión del propietario de la empresa, con correo, contraseña y la opción Remember Me](assets/vendor/p003-1.jpeg)\n![Pantalla de recuperación de contraseña que solicita el correo electrónico registrado](assets/vendor/p003-2.jpeg)"
+      }
+    },
+    {
+      "id": "dashboard",
+      "number": "3",
+      "title": {
+        "en": "Dashboard",
+        "es": "Panel de control"
+      },
+      "content": {
+        "en": "The Dashboard is the company's home screen and gives a precise, at-a-glance statistical summary of the operation — payments received, commission paid to the platform administrator, number of new users, rides, active passengers, cancelled rides, driver wallet recharge amounts, and more. Every chart and graph on the dashboard links through to a more detailed report on the data it displays.\n\nThe dashboard includes the following widgets:\n\n- **Live dispatch** — A map showing the location and status of every driver (available, on trip, active, or shift out) using distinct pointer icons, with live tracking of vehicle movement.\n- **Assigned vs. unassigned assets** — A graph showing the total number of fleets and drivers, broken out into assigned and unassigned counts.\n- **Payments** — All post-ride transactions, segregated into payments by trip, card, and cash, as well as payments received through referral and promotional programs; filterable by date and time.\n- **Trip requests from city** — A pie chart of passenger requests grouped by city of origin; filterable by date, time, or brand, and exportable to various file formats.\n- **Company revenue graph** — Total monthly revenue, broken down by number of rides, new user registrations, and income generated per day.\n- **Driver revenue graph** — Monthly revenue generated per driver, including trip count and income per day; a filter lets you select a driver from a drop-down along with a from/to date range.\n\n![Company dashboard overview with payments, commission, trips, and passenger statistics](assets/vendor/p004-1.jpeg)\n![Live Dispatch map showing driver pointer icons for Available, On Trip, In Active, and Shift Out](assets/vendor/p004-2.jpeg)\n![Payments donut chart broken down by cash, card, promotional, and referral payments](assets/vendor/p005-2.jpeg)\n![Company Revenue Graph showing trip revenue, number of trips, and new users signed per day](assets/vendor/p006-2.jpeg)",
+        "es": "El panel de control es la pantalla de inicio de la empresa y ofrece un resumen estadístico preciso, de un vistazo, de la operación: pagos recibidos, comisión pagada al administrador de la plataforma, número de usuarios nuevos, viajes, pasajeros activos, viajes cancelados, montos de recarga de la cartera del conductor y más. Cada gráfica del panel enlaza a un informe más detallado de los datos que representa.\n\nEl panel incluye los siguientes widgets:\n\n- **Despacho en vivo (Live dispatch)** — Un mapa que muestra la ubicación y el estado de cada conductor (disponible, en viaje, activo o fuera de turno) mediante íconos distintivos, con seguimiento en vivo del movimiento de los vehículos.\n- **Activos asignados frente a no asignados** — Una gráfica que muestra el número total de flotillas y conductores, desglosado en asignados y no asignados.\n- **Pagos (Payments)** — Todas las transacciones posteriores al viaje, separadas en pagos por viaje, con tarjeta y en efectivo, así como los pagos recibidos mediante programas de referidos y promociones; filtrable por fecha y hora.\n- **Solicitudes de viaje por ciudad** — Una gráfica circular de las solicitudes de pasajeros agrupadas por ciudad de origen; filtrable por fecha, hora o marca, y exportable a distintos formatos de archivo.\n- **Gráfica de ingresos de la empresa** — Los ingresos totales mensuales, desglosados por número de viajes, registros de nuevos usuarios e ingresos generados por día.\n- **Gráfica de ingresos por conductor** — Los ingresos mensuales generados por cada conductor, incluyendo el número de viajes y los ingresos por día; un filtro permite elegir un conductor de una lista desplegable junto con un rango de fechas.\n\n![Panorama del panel de la empresa con pagos, comisión, viajes y estadísticas de pasajeros](assets/vendor/p004-1.jpeg)\n![Mapa de Despacho en Vivo con íconos de conductor para Disponible, En Viaje, Inactivo y Fuera de Turno](assets/vendor/p004-2.jpeg)\n![Gráfica circular de Pagos desglosada por efectivo, tarjeta, promociones y referidos](assets/vendor/p005-2.jpeg)\n![Gráfica de Ingresos de la Empresa con los ingresos por viaje, número de viajes y usuarios nuevos por día](assets/vendor/p006-2.jpeg)"
+      }
+    },
+    {
+      "id": "fleet-tracking",
+      "number": "4",
+      "title": {
+        "en": "Fleet Tracking",
+        "es": "Seguimiento de flotilla"
+      },
+      "content": {
+        "en": "",
+        "es": ""
+      },
+      "children": [
+        {
+          "id": "fleet-tracking-dashboard",
+          "number": "4.1",
+          "title": {
+            "en": "Dashboard",
+            "es": "Panel de control"
+          },
+          "content": {
+            "en": "The Fleet Tracking dashboard presents statistics on fleets, fleet availability, idle running time, driver unavailability, and bookings, using graphs and a vehicle heatmap.\n\n- **Total Kilometers** — The total distance travelled by fleets during rides, including empty kilometers.\n- **Empty Kilometers** — The distance a vehicle travels empty, either to reach a pickup or with no ride at all.\n- **Fleet availability** — A graph showing the count of vehicles that were available but did not receive any rides during the selected time interval; a date-range filter is available.\n- **Driver unavailability** — A graph showing the number of drivers who were available on a given day but did not accept any passenger request.\n- **Vehicle heatmap** — Visualizes the position of vehicles by location, indicating fleet availability in each area.\n\n![Fleet Tracking dashboard with total, assigned, active, and available fleet counts](assets/vendor/p007-2.jpeg)\n![Fleet Availability graph showing available vehicles that received no rides](assets/vendor/p008-1.jpeg)\n![Vehicle heatmap showing clusters of available vehicles by area](assets/vendor/p009-1.jpeg)",
+            "es": "El panel de Seguimiento de flotilla presenta estadísticas sobre las flotillas, la disponibilidad de la flotilla, el tiempo de inactividad, la indisponibilidad de conductores y las reservas, mediante gráficas y un mapa de calor vehicular.\n\n- **Kilómetros totales** — La distancia total recorrida por las flotillas durante los viajes, incluidos los kilómetros en vacío.\n- **Kilómetros en vacío** — La distancia que recorre un vehículo sin pasajero, ya sea para llegar a un punto de recogida o sin ningún viaje asociado.\n- **Disponibilidad de flotilla** — Una gráfica que muestra cuántos vehículos estuvieron disponibles pero no recibieron ningún viaje durante el intervalo seleccionado; se puede filtrar por rango de fechas.\n- **Indisponibilidad de conductores** — Una gráfica que muestra cuántos conductores estuvieron disponibles en un día determinado pero no aceptaron ninguna solicitud de pasajero.\n- **Mapa de calor vehicular** — Visualiza la posición de los vehículos por ubicación, indicando la disponibilidad de la flotilla en cada zona.\n\n![Panel de Seguimiento de Flotilla con el total de flotillas, asignadas, activas y disponibles](assets/vendor/p007-2.jpeg)\n![Gráfica de Disponibilidad de Flotilla que muestra los vehículos disponibles que no recibieron viajes](assets/vendor/p008-1.jpeg)\n![Mapa de calor vehicular con agrupaciones de vehículos disponibles por zona](assets/vendor/p009-1.jpeg)"
+          }
+        },
+        {
+          "id": "track",
+          "number": "4.2",
+          "title": {
+            "en": "Track",
+            "es": "Rastreo"
+          },
+          "content": {
+            "en": "The **Track** screen lets the admin locate vehicles by selecting a vehicle model, or individually by taxi number or driver name. Vehicles can also be tracked by driver availability status: clicking **Free**, **Active**, or **Busy** highlights the matching fleets on the map.\n\n![Track screen with vehicle type filters and Free/Active/Busy status buttons over the map](assets/vendor/p009-2.jpeg)",
+            "es": "La pantalla **Track** (Rastreo) permite al administrador ubicar vehículos seleccionando un modelo de vehículo, o de forma individual por número de taxi o nombre del conductor. Los vehículos también se pueden rastrear por el estado de disponibilidad del conductor: al hacer clic en **Free** (Libre), **Active** (Activo) o **Busy** (Ocupado) se resaltan en el mapa las flotillas correspondientes.\n\n![Pantalla de Rastreo con filtros por tipo de vehículo y botones de estado Free/Active/Busy sobre el mapa](assets/vendor/p009-2.jpeg)"
+          }
+        },
+        {
+          "id": "fleet-management",
+          "number": "4.3",
+          "title": {
+            "en": "Fleet Management",
+            "es": "Gestión de flotilla"
+          },
+          "content": {
+            "en": "",
+            "es": ""
+          },
+          "children": [
+            {
+              "id": "fleet-models",
+              "number": null,
+              "title": {
+                "en": "Fleet models",
+                "es": "Modelos de flotilla"
+              },
+              "content": {
+                "en": "**Fleet Models** lets the company set the fare for each vehicle type. Click the **Action** button next to a model to open a more elaborate record, including the vehicle name, model size, and fare details.\n\n**Fare calculation methods**\n\n- **By distance (below/above range):** A base fare covers a fixed distance for the vehicle model; any ride within that distance is charged only the base fare. Beyond that point, a minimum KM and a minimum fare are fixed: a ride completed within the minimum KM is charged the below-KM fare (in addition to the minimum fare and base fare), while a ride that exceeds the minimum KM is charged the above-KM fare (also in addition to the minimum fare and base fare).\n- **Per km/mile rate:** Instead of below/above-KM pricing, a minimum fare is set for a fixed distance, and every additional km/mile is charged at the configured per-km/mile fare.\n- A **cancellation fee** can be set for any ride that is cancelled, and **waiting charges per hour** can be fixed. Separate charges for **night** and **evening** rides can also be recorded, if preferred.\n\n![Manage Fare list showing fleet models with status and edit action](assets/vendor/p010-1.jpeg)\n![Add Fare form with base fare, minimum KM, cancellation fee, and night/evening charge fields](assets/vendor/p010-2.jpeg)",
+                "es": "**Modelos de flotilla (Fleet Models)** permite a la empresa establecer la tarifa de cada tipo de vehículo. Haga clic en el botón **Action** (Acción) junto a un modelo para abrir un registro más detallado, que incluye el nombre del vehículo, el tamaño del modelo y los datos de la tarifa.\n\n**Métodos de cálculo de tarifa**\n\n- **Por distancia (rango por debajo/por encima):** Una tarifa base cubre una distancia fija para el modelo de vehículo; cualquier viaje dentro de esa distancia se cobra únicamente la tarifa base. A partir de ese punto se fijan un KM mínimo y una tarifa mínima: un viaje completado dentro del KM mínimo se cobra con la tarifa \"por debajo de KM\" (además de la tarifa mínima y la tarifa base), mientras que un viaje que supere el KM mínimo se cobra con la tarifa \"por encima de KM\" (también además de la tarifa mínima y la tarifa base).\n- **Tarifa por km/milla:** En lugar de la tarificación por debajo/por encima de KM, se fija una tarifa mínima para una distancia determinada, y cada km/milla adicional se cobra a la tarifa configurada por km/milla.\n- Se puede establecer una **tarifa de cancelación** para cualquier viaje cancelado, y fijar **cargos de espera por hora**. También se pueden registrar cargos independientes para viajes **nocturnos** y **vespertinos**, si así se prefiere.\n\n![Lista Manage Fare con los modelos de flotilla, su estado y la acción de edición](assets/vendor/p010-1.jpeg)\n![Formulario Add Fare con tarifa base, KM mínimo, tarifa de cancelación y cargos nocturno/vespertino](assets/vendor/p010-2.jpeg)"
+              }
+            },
+            {
+              "id": "fare-management-glossary",
+              "number": null,
+              "title": {
+                "en": "Fare management glossary",
+                "es": "Glosario de gestión de tarifas"
+              },
+              "content": {
+                "en": "| Term | Description |\n|---|---|\n| Minimum KM | The minimum kilometer range set for short trips. |\n| Minimum fare | The fare for distance travelled below the Minimum KM; it can be increased or decreased as required, and applies whenever a passenger takes a short ride below that threshold. |\n| Base fare | The basic service charge applicable to all rides that cover a distance above the Minimum KM. |\n| Below KM / Above KM range | Acts as the divider used to calculate KM-based fare tiers — for example, a value of 10 KM. |\n| Below KM fare | Applies when the distance covered is below the configured range (for example, 8 KM when the range is 10 KM). |\n| Above KM fare | Applies when the distance covered is above the configured range (for example, 18 KM when the range is 10 KM). |\n| KM-wise fare | The fare is calculated purely by distance: a minimum fare is set for a fixed distance and every additional km/mile is charged at the per-km/mile fare. |\n| Tax | The tax percentage included in the total ride fare. |\n| Cancellation fee | Charged when a passenger cancels the trip. |\n| Waiting fee | Applied when the vehicle is put on waiting, or when it runs below the minimum fleet speed. |\n| Night fare | A percentage surcharge for rides booked during a night window that the admin defines; included in the total ride fare. |\n| Evening fare | A percentage surcharge the admin can set for rides booked during the evening; added to the total ride fare. |\n| City-based fare (%) | Defined in Manage City; the percentage is added on top of the distance, night, and evening fare. |",
+                "es": "| Término | Descripción |\n|---|---|\n| KM mínimo | El rango mínimo de kilómetros establecido para viajes cortos. |\n| Tarifa mínima | La tarifa por la distancia recorrida por debajo del KM mínimo; se puede aumentar o disminuir según se requiera, y aplica cuando un pasajero realiza un viaje corto por debajo de ese umbral. |\n| Tarifa base | El cargo básico por servicio aplicable a todos los viajes que cubran una distancia superior al KM mínimo. |\n| Rango por debajo/por encima de KM | Actúa como el divisor utilizado para calcular los niveles de tarifa por KM, por ejemplo, un valor de 10 KM. |\n| Tarifa por debajo de KM | Aplica cuando la distancia recorrida es menor al rango configurado (por ejemplo, 8 KM si el rango es 10 KM). |\n| Tarifa por encima de KM | Aplica cuando la distancia recorrida supera el rango configurado (por ejemplo, 18 KM si el rango es 10 KM). |\n| Tarifa por KM | La tarifa se calcula únicamente por distancia: se fija una tarifa mínima para una distancia determinada y cada km/milla adicional se cobra a la tarifa por km/milla. |\n| Impuesto | El porcentaje de impuesto incluido en la tarifa total del viaje. |\n| Tarifa de cancelación | Se cobra cuando un pasajero cancela el viaje. |\n| Tarifa de espera | Se aplica cuando el vehículo permanece en espera, o cuando circula por debajo de la velocidad mínima de la flotilla. |\n| Tarifa nocturna | Un recargo porcentual para los viajes reservados dentro de un horario nocturno que define el administrador; se incluye en la tarifa total del viaje. |\n| Tarifa vespertina | Un recargo porcentual que el administrador puede fijar para los viajes reservados por la tarde; se agrega a la tarifa total del viaje. |\n| Tarifa por ciudad (%) | Definida en Administrar Ciudad; el porcentaje se agrega además de la tarifa por distancia, nocturna y vespertina. |"
+              }
+            },
+            {
+              "id": "fleets",
+              "number": null,
+              "title": {
+                "en": "Fleets",
+                "es": "Flotillas"
+              },
+              "content": {
+                "en": "**Fleets** lets the company manage its vehicles efficiently, listing each one with detailed information including the vehicle number, vehicle type, and model. Use the keyword search to locate a specific vehicle quickly.\n\nEach vehicle record can capture: the fleet number, minimum fleet speed, fleet speed per hour, model name, owner name, manufacturer, colour, insurance details, license details, and load capacity — along with one or more vehicle images.\n\nFrom this screen the company admin can also assign a fleet to a driver: the available drivers appear in a drop-down list, from which the admin selects a driver and assigns the chosen vehicle to them.\n\nVehicles can be bulk-imported into the database; the admin is notified of any import errors, such as an invalid taxi number or an invalid company email address.\n\n![Manage Fleets list with keyword search, status, fleet number, type, and model columns](assets/vendor/p012-1.jpeg)\n![Add Fleet form capturing fleet number, model, manufacturer, insurance, licence, and image](assets/vendor/p013-1.jpeg)",
+                "es": "**Flotillas (Fleets)** permite a la empresa administrar sus vehículos de forma eficiente, listando cada uno con información detallada que incluye el número de unidad, el tipo de vehículo y el modelo. Utilice la búsqueda por palabra clave para localizar rápidamente un vehículo específico.\n\nCada registro de vehículo puede incluir: número de unidad, velocidad mínima de la flotilla, velocidad de la flotilla por hora, nombre del modelo, nombre del propietario, fabricante, color, datos del seguro, datos de la licencia y capacidad de carga, junto con una o varias imágenes del vehículo.\n\nDesde esta pantalla, el administrador de la empresa también puede asignar una flotilla a un conductor: los conductores disponibles aparecen en una lista desplegable, de la cual el administrador selecciona uno y le asigna el vehículo elegido.\n\nLos vehículos se pueden importar de forma masiva a la base de datos; el administrador recibe notificación de cualquier error de importación, como un número de taxi inválido o un correo electrónico de empresa inválido.\n\n![Lista Manage Fleets con búsqueda por palabra clave y columnas de estado, número, tipo y modelo](assets/vendor/p012-1.jpeg)\n![Formulario Add Fleet con número de unidad, modelo, fabricante, seguro, licencia e imagen](assets/vendor/p013-1.jpeg)"
+              }
+            },
+            {
+              "id": "package-plan",
+              "number": null,
+              "title": {
+                "en": "Package plan",
+                "es": "Plan de paquete"
+              },
+              "content": {
+                "en": "Passengers can be offered two special ride packages:\n\n- **Rental** — With a single booking, the passenger has the cab at their disposal for as long as they want and can travel to different destinations under that one booking. If the time or distance exceeds the package limit, nominal additional charges apply and the trip can continue beyond the package limit. The package can be booked immediately or in advance.\n- **Outstation** — The passenger books a cab for intercity travel. This package allows the user to book a cab prior to the travel date or time.\n\nAdditional package plans with different options can also be added to the list.\n\n![Manage Package Plans table with Rental/Outstation type, duration, and base fare columns](assets/vendor/p014-1.jpeg)",
+                "es": "A los pasajeros se les pueden ofrecer dos paquetes especiales de viaje:\n\n- **Renta (Rental)** — Con una sola reserva, el pasajero tiene el taxi a su disposición durante el tiempo que desee y puede viajar a distintos destinos bajo esa misma reserva. Si el tiempo o la distancia superan el límite del paquete, se aplican cargos adicionales nominales y el viaje puede continuar más allá del límite del paquete. El paquete se puede reservar de inmediato o con anticipación.\n- **Foráneo (Outstation)** — El pasajero reserva un taxi para viajes interurbanos. Este paquete permite al usuario reservar un taxi antes de la fecha u hora del viaje.\n\nTambién se pueden agregar a la lista otros planes de paquete con diferentes opciones.\n\n![Tabla Manage Package Plans con el tipo Rental/Outstation, la duración y la tarifa base](assets/vendor/p014-1.jpeg)"
+              }
+            },
+            {
+              "id": "manage-assigned-fleets",
+              "number": null,
+              "title": {
+                "en": "Manage assigned fleets",
+                "es": "Administrar flotillas asignadas"
+              },
+              "content": {
+                "en": "**Manage Assigned Fleets** lists the taxis that are currently assigned to drivers. The admin can set the number of days or hours a vehicle is assigned to a particular driver, and can modify or extend that period if required.\n\nFleets can also be assigned manually to a driver by selecting from the list of vehicles and providing the required information (country, state, city, driver, fleet, and the from/end dates of the assignment).\n\n![Manage Assigned Fleets list showing driver name, fleet number, and assigned-by columns](assets/vendor/p015-2.jpeg)\n![Assign Fleet form with country, state, city, driver, fleet, and from/end date fields](assets/vendor/p016-1.jpeg)",
+                "es": "**Administrar flotillas asignadas (Manage Assigned Fleets)** lista los taxis que están actualmente asignados a conductores. El administrador puede establecer el número de días u horas que un vehículo permanece asignado a un conductor en particular, y puede modificar o extender ese período si es necesario.\n\nLas flotillas también se pueden asignar manualmente a un conductor seleccionando de la lista de vehículos y proporcionando la información requerida (país, estado, ciudad, conductor, flotilla y las fechas de inicio/fin de la asignación).\n\n![Lista Manage Assigned Fleets con las columnas de nombre del conductor, número de flotilla y asignado por](assets/vendor/p015-2.jpeg)\n![Formulario Assign Fleet con país, estado, ciudad, conductor, flotilla y fechas de inicio/fin](assets/vendor/p016-1.jpeg)"
+              }
+            }
+          ]
+        },
+        {
+          "id": "workforce",
+          "number": "4.4",
+          "title": {
+            "en": "Workforce",
+            "es": "Fuerza laboral"
+          },
+          "content": {
+            "en": "",
+            "es": ""
+          },
+          "children": [
+            {
+              "id": "manage-dispatchers",
+              "number": null,
+              "title": {
+                "en": "Manage dispatchers",
+                "es": "Administrar despachadores"
+              },
+              "content": {
+                "en": "The details of each taxi dispatcher are listed here and can be edited or modified as needed; use the keyword search to locate a dispatcher by name.\n\nThe admin can add any number of dispatchers, recording particulars such as name, address, country, state, city, and company, along with personal information such as email, password, mobile number, and address.\n\n![Manage Dispatchers list with name, email, address, country, state, and city columns](assets/vendor/p016-2.jpeg)\n![Add Dispatcher form with personal information and address fields](assets/vendor/p017-1.jpeg)",
+                "es": "Los datos de cada despachador de taxis se listan aquí y se pueden editar o modificar según sea necesario; utilice la búsqueda por palabra clave para localizar a un despachador por su nombre.\n\nEl administrador puede agregar cualquier número de despachadores, registrando datos como nombre, dirección, país, estado, ciudad y empresa, junto con información personal como correo electrónico, contraseña, número de celular y dirección.\n\n![Lista Manage Dispatchers con columnas de nombre, correo, dirección, país, estado y ciudad](assets/vendor/p016-2.jpeg)\n![Formulario Add Dispatcher con la información personal y los datos de dirección](assets/vendor/p017-1.jpeg)"
+              }
+            },
+            {
+              "id": "manage-consumers",
+              "number": null,
+              "title": {
+                "en": "Manage consumers",
+                "es": "Administrar pasajeros"
+              },
+              "content": {
+                "en": "All passengers registered with the application are listed here, with particulars such as their name, email address, phone number, and date of registration. The consumer profile can be edited as required.\n\n![Passengers List showing name, email, phone, created date, and status columns](assets/vendor/p017-2.jpeg)\n![Edit Profile form for a passenger with name, email, mobile number, and address](assets/vendor/p018-1.jpeg)",
+                "es": "Todos los pasajeros registrados en la aplicación se listan aquí, con datos como su nombre, correo electrónico, número telefónico y fecha de registro. El perfil del pasajero se puede editar según se requiera.\n\n![Lista Passengers List con columnas de nombre, correo, teléfono, fecha de creación y estado](assets/vendor/p017-2.jpeg)\n![Formulario Edit Profile de un pasajero con nombre, correo, número de celular y dirección](assets/vendor/p018-1.jpeg)"
+              }
+            },
+            {
+              "id": "manage-drivers",
+              "number": null,
+              "title": {
+                "en": "Manage drivers",
+                "es": "Administrar conductores"
+              },
+              "content": {
+                "en": "Information on each driver can be edited and modified at the admin's discretion. Clicking a driver's image opens a more elaborate report, including status, transactions, trip statistics, and shift history. The admin can import a fleet list or export driver details as required. Drivers whose wallet amount has fallen below the fixed minimum are highlighted in yellow in the list.\n\n**Driver wallet & recharge**\n\nClicking the wallet icon lets the admin manually recharge a driver's wallet with a specified amount. When a driver receives the ride fare in cash from a passenger, the admin's commission is deducted from that driver's wallet; when the passenger pays by card, the driver's commission is instead added to the driver's wallet. A driver can send a request to the admin to withdraw funds from the wallet.\n\n**Current status & ongoing journey**\n\nClicking a driver's name shows the admin the driver's current status, including their location and the time it was last updated (the driver can log out at any time to control this visibility). The admin can also view the progress of an ongoing journey. If a driver's mobile phone is switched off during a ride, the driver can inform the admin, who can then force-complete the ride by manually entering the drop-off location, distance, and ride fare.\n\n**Adding drivers**\n\nThe admin can add any number of drivers, including their personal information and identity credentials — photo and driving license details — to increase credibility and safety during a trip.\n\n**Driver Type filter**\n\nThe **Driver Type** drop-down lets the admin filter results to show commission-based or subscription-based drivers, to manage driver information accordingly.\n\n**Driver ratings**\n\nEvery driver's feedback, rated out of 5 by passengers, is recorded here.\n\n**Driver wallet view**\n\nA dedicated view displays the driver's wallet along with any withdrawal requested from it, the requested date and time, and its status — which updates automatically once the request is approved or rejected.\n\n![Manage Drivers list with wallet amount, status, and drivers below the minimum highlighted in yellow](assets/vendor/p018-2.jpeg)\n![Add Driver form with personal information, license, insurance, and photo upload fields](assets/vendor/p020-2.jpeg)\n![Current Status of Driver map showing the driver's live location and last-updated time](assets/vendor/p019-2.jpeg)\n![View driver ratings list showing rating points out of 5](assets/vendor/p021-2.jpeg)",
+                "es": "La información de cada conductor puede editarse y modificarse según el criterio del administrador. Al hacer clic en la fotografía de un conductor se abre un informe más detallado, que incluye el estado, las transacciones, las estadísticas de viajes y el historial de turnos. El administrador puede importar una lista de flotilla o exportar los datos de los conductores según se requiera. Los conductores cuyo saldo de cartera haya caído por debajo del mínimo fijado se resaltan en amarillo en la lista.\n\n**Cartera del conductor y recarga**\n\nAl hacer clic en el ícono de la cartera, el administrador puede recargar manualmente la cartera del conductor con un monto determinado. Cuando el conductor recibe la tarifa del viaje en efectivo de manos del pasajero, la comisión del administrador se descuenta de la cartera de ese conductor; cuando el pasajero paga con tarjeta, la comisión del conductor se agrega, en cambio, a su cartera. El conductor puede enviar al administrador una solicitud para retirar fondos de su cartera.\n\n**Estado actual y viaje en curso**\n\nAl hacer clic en el nombre de un conductor, el administrador puede ver su estado actual, incluyendo su ubicación y la hora de la última actualización (el conductor puede cerrar sesión en cualquier momento para controlar esta visibilidad). El administrador también puede ver el progreso de un viaje en curso. Si el teléfono móvil de un conductor se apaga durante un viaje, el conductor puede informarlo al administrador, quien entonces puede forzar la finalización del viaje ingresando manualmente el lugar de destino, la distancia y la tarifa del viaje.\n\n**Agregar conductores**\n\nEl administrador puede agregar cualquier número de conductores, incluyendo su información personal y sus credenciales de identidad —fotografía y datos de la licencia de conducir— para aumentar la credibilidad y la seguridad durante un viaje.\n\n**Filtro de Tipo de conductor**\n\nLa lista desplegable **Driver Type** (Tipo de conductor) permite al administrador filtrar los resultados para mostrar conductores por comisión o por suscripción, y así administrar su información en consecuencia.\n\n**Calificaciones de conductores**\n\nAquí se registran las calificaciones de cada conductor, evaluadas por los pasajeros en una escala de 5.\n\n**Vista de cartera del conductor**\n\nUna vista específica muestra la cartera del conductor junto con cualquier retiro solicitado de ella, la fecha y hora de la solicitud, y su estado, el cual se actualiza automáticamente en cuanto la solicitud es aprobada o rechazada.\n\n![Lista Manage Drivers con el monto de cartera, el estado y los conductores por debajo del mínimo resaltados en amarillo](assets/vendor/p018-2.jpeg)\n![Formulario Add Driver con información personal, licencia, seguro y carga de foto](assets/vendor/p020-2.jpeg)\n![Mapa Current Status of Driver con la ubicación en vivo del conductor y la hora de la última actualización](assets/vendor/p019-2.jpeg)\n![Lista View driver ratings con los puntos de calificación sobre 5](assets/vendor/p021-2.jpeg)"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dispatcher",
+      "number": "5",
+      "title": {
+        "en": "Dispatcher",
+        "es": "Despachador"
+      },
+      "content": {
+        "en": "",
+        "es": ""
+      },
+      "children": [
+        {
+          "id": "dispatcher-dashboard",
+          "number": "5.1",
+          "title": {
+            "en": "Dashboard",
+            "es": "Panel de control"
+          },
+          "content": {
+            "en": "The Dispatcher dashboard presents an overview of all missed, rejected, or cancelled bookings, payments received through different payment modes, booking types, and a booking heatmap.\n\n- **Bookings and missed bookings** — Shows the count of all completed rides and the rides that were missed, either because they were rejected by the driver or cancelled by the rider.\n- **Booking type and payment mode** — Shows bookings made via the website, mobile app, street pickups, and call centers individually, together with payments received through referral programs, promotions, card, and cash; a filter narrows results to a specific date and time.\n- **Booking heatmap** — Indicates the locations with the highest booking rate.\n\n![Dispatcher dashboard cards for total trips, trips completed, and rejected/cancelled trips](assets/vendor/p022-2.jpeg)\n![Missed Bookings chart broken down into trips cancelled, rejected, and unavailability](assets/vendor/p023-2.jpeg)\n![Booking Heat Map showing the density of bookings across the service area](assets/vendor/p024-1.jpeg)",
+            "es": "El panel del Despachador presenta un resumen de todas las reservas perdidas, rechazadas o canceladas, los pagos recibidos por los distintos medios de pago, los tipos de reserva y un mapa de calor de reservas.\n\n- **Reservas y reservas perdidas** — Muestra el número total de viajes completados y los viajes que se perdieron, ya sea porque el conductor los rechazó o el pasajero los canceló.\n- **Tipo de reserva y medio de pago** — Muestra por separado las reservas realizadas por sitio web, app móvil, recogidas en la calle y centros de llamadas, junto con los pagos recibidos por programas de referidos, promociones, tarjeta y efectivo; un filtro permite acotar los resultados a una fecha y hora específicas.\n- **Mapa de calor de reservas** — Indica las ubicaciones con la mayor tasa de reservas.\n\n![Tarjetas del panel del despachador con el total de viajes, viajes completados y rechazados/cancelados](assets/vendor/p022-2.jpeg)\n![Gráfica de Reservas Perdidas desglosada en viajes cancelados, rechazados e indisponibilidad](assets/vendor/p023-2.jpeg)\n![Mapa de calor de reservas que muestra la densidad de reservas en el área de servicio](assets/vendor/p024-1.jpeg)"
+          }
+        },
+        {
+          "id": "dispatch",
+          "number": "5.2",
+          "title": {
+            "en": "Dispatch",
+            "es": "Despacho"
+          },
+          "content": {
+            "en": "Refined filter and search capabilities based on vehicle status, booking status, driver status, and vehicle model let the admin view and manage vehicle status, and assign or reassign a ride for on-demand or scheduled bookings. The admin can also view live tracking of vehicle movements from this screen.\n\nThe admin can manually add a booking by entering the passenger's information, the pickup/drop-off location details, the date and time, and selecting the vehicle from a drop-down list — along with the nearest-driver options, an estimated fare, and the estimated driver arrival time.\n\nThe admin can also look up the details of an already-assigned booking using the search option.\n\n![Dispatch screen with live job list, vehicle map, and Dispatch/In Progress/Reassign actions](assets/vendor/p025-1.jpeg)\n![Add booking form with passenger information alongside nearest-driver and fare-estimate panel](assets/vendor/p025-2.jpeg)",
+            "es": "Las funciones avanzadas de filtro y búsqueda por estado del vehículo, estado de la reserva, estado del conductor y modelo de vehículo permiten al administrador ver y gestionar el estado de los vehículos, y asignar o reasignar un viaje para reservas inmediatas o programadas. El administrador también puede ver el rastreo en vivo de los movimientos del vehículo desde esta pantalla.\n\nEl administrador puede agregar manualmente una reserva ingresando la información del pasajero, los detalles de los lugares de recogida y destino, la fecha y hora, y seleccionando el vehículo de una lista desplegable, junto con las opciones de conductor más cercano, una tarifa estimada y la hora estimada de llegada del conductor.\n\nEl administrador también puede consultar los detalles de una reserva ya asignada mediante la opción de búsqueda.\n\n![Pantalla Dispatch con la lista de viajes en vivo, el mapa de vehículos y las acciones Dispatch/In Progress/Reassign](assets/vendor/p025-1.jpeg)\n![Formulario para agregar una reserva con la información del pasajero junto al panel de conductor más cercano y tarifa estimada](assets/vendor/p025-2.jpeg)"
+          }
+        },
+        {
+          "id": "fleet-dispatch-settings",
+          "number": "5.3",
+          "title": {
+            "en": "Fleet dispatch settings",
+            "es": "Configuración de despacho de flotilla"
+          },
+          "content": {
+            "en": "Dispatch settings control whether new trips are dispatched **Auto**matically or **Manual**ly; a notification is sent to the driver based on this setting.\n\n- **Auto** — Automatically assigns the trip to the nearest free driver.\n- **Manual** — Shows the available drivers so the admin can assign the trip.\n- **Auto & Manual** — At the time of each trip dispatch, the system prompts the admin to choose one of the two options.\n\nFor scheduled or advance bookings, the admin can also set the **later booking time interval** — the interval between the moment a notification to accept the ride request is sent to the assigned driver and the scheduled pickup time.\n\n![Fleet Dispatch Settings screen with Auto/Manual checkboxes and later booking time interval](assets/vendor/p026-2.jpeg)",
+            "es": "La configuración de despacho controla si los nuevos viajes se despachan de forma **Auto**mática o **Manual**; se envía una notificación al conductor según esta configuración.\n\n- **Auto** — Asigna automáticamente el viaje al conductor libre más cercano.\n- **Manual** — Muestra los conductores disponibles para que el administrador asigne el viaje.\n- **Auto & Manual (Automático y manual)** — En cada despacho de viaje, el sistema le pide al administrador elegir una de las dos opciones.\n\nPara las reservas programadas o anticipadas, el administrador también puede configurar el **intervalo de tiempo de reserva posterior** (later booking time interval): el intervalo entre el momento en que se envía al conductor asignado la notificación para aceptar la solicitud de viaje y la hora programada de recogida.\n\n![Pantalla Fleet Dispatch Settings con las casillas Auto/Manual y el intervalo de reserva posterior](assets/vendor/p026-2.jpeg)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "revenue",
+      "number": "6",
+      "title": {
+        "en": "Revenue",
+        "es": "Ingresos"
+      },
+      "content": {
+        "en": "",
+        "es": ""
+      },
+      "children": [
+        {
+          "id": "revenue-dashboard",
+          "number": "6.1",
+          "title": {
+            "en": "Dashboard",
+            "es": "Panel de control"
+          },
+          "content": {
+            "en": "The Revenue dashboard shows the average revenue received per user, per trip, and per fleet, as well as the average revenue lost to ride cancellations.\n\n- **Revenue graph** — Shows the number of rides and the corresponding earnings for the month; a filter lets you view details for selected dates.\n- **User average revenue graph** — Renders the average revenue received per user, together with the trip count.\n- **Missed Revenues** — Shows the revenue missed from rides that were either rejected by the driver or cancelled by the passenger.\n- **Payments** — Shows revenue generated from payments received through referral programs, promotions, card, and cash; a filter narrows results to a specific date and time.\n\n![Revenue Dashboard cards showing average revenue per user, per trip, and per fleet](assets/vendor/p027-1.jpeg)\n![Revenue Graph plotting trip revenues and number of trips over time](assets/vendor/p027-2.jpeg)\n![Missed Revenues graph showing revenue lost to rejected or cancelled rides](assets/vendor/p028-1.jpeg)",
+            "es": "El panel de Ingresos muestra el ingreso promedio recibido por usuario, por viaje y por flotilla, así como el ingreso promedio perdido por cancelaciones de viaje.\n\n- **Gráfica de ingresos (Revenue graph)** — Muestra el número de viajes y las ganancias correspondientes del mes; un filtro permite ver los detalles de las fechas seleccionadas.\n- **Gráfica de ingreso promedio por usuario** — Representa el ingreso promedio recibido por usuario, junto con el número de viajes.\n- **Ingresos perdidos (Missed Revenues)** — Muestra los ingresos perdidos por los viajes que fueron rechazados por el conductor o cancelados por el pasajero.\n- **Pagos (Payments)** — Muestra los ingresos generados por los pagos recibidos a través de programas de referidos, promociones, tarjeta y efectivo; un filtro acota los resultados a una fecha y hora específicas.\n\n![Tarjetas del panel de Ingresos con el ingreso promedio por usuario, por viaje y por flotilla](assets/vendor/p027-1.jpeg)\n![Gráfica de Ingresos que representa los ingresos por viaje y el número de viajes a lo largo del tiempo](assets/vendor/p027-2.jpeg)\n![Gráfica de Ingresos Perdidos por viajes rechazados o cancelados](assets/vendor/p028-1.jpeg)"
+          }
+        },
+        {
+          "id": "transactions",
+          "number": "6.2",
+          "title": {
+            "en": "Transactions",
+            "es": "Transacciones"
+          },
+          "content": {
+            "en": "A report of every transaction is listed here, including ride details such as pickup and drop-off locations, passenger name, journey date, transaction ID, payment type, and driver and company names, alongside a chart comparing completed and cancelled amounts over the selected date range.\n\n![All Transactions report with a completed-vs-cancelled amount chart and a detailed transaction table](assets/vendor/p029-1.jpeg)",
+            "es": "Aquí se lista un reporte de todas las transacciones, incluyendo los detalles del viaje, como los lugares de recogida y destino, el nombre del pasajero, la fecha del viaje, el ID de la transacción, el tipo de pago, y los nombres del conductor y de la empresa, junto con una gráfica que compara los montos completados y cancelados en el rango de fechas seleccionado.\n\n![Reporte All Transactions con una gráfica de montos completados frente a cancelados y una tabla detallada de transacciones](assets/vendor/p029-1.jpeg)"
+          }
+        },
+        {
+          "id": "withdrawal-requests",
+          "number": "6.3",
+          "title": {
+            "en": "Withdrawal requests",
+            "es": "Solicitudes de retiro"
+          },
+          "content": {
+            "en": "**Company withdrawals** — Withdrawal requests raised by the company to the admin, requesting a withdrawal from the wallet, are tabulated here with the amount and status of each request. The company admin can view the total number of withdrawal requests, along with how many were denied, approved, and are still pending. Clicking **Withdrawal requests** lets the company send a request to the admin, indicating the amount to be withdrawn (the dialog also shows payments availed and payment requests still pending). Notifications are sent to the admin for every request, and to the company/driver once a request is approved or rejected.\n\n**Driver withdrawals** — Withdrawal requests raised by drivers are tabulated with the total number of requests placed, approved, denied, and pending, along with the full transaction details for each driver.\n\n![Withdrawal requests dialog showing payments availed, pending requests, and the amount to withdraw](assets/vendor/p030-1.jpeg)\n![Driver Withdrawals table with request totals (approved/denied) and per-driver withdrawal details](assets/vendor/p030-2.jpeg)",
+            "es": "**Retiros de la empresa (Company withdrawals)** — Las solicitudes de retiro que la empresa envía al administrador, pidiendo un retiro de la cartera, se tabulan aquí con el monto y el estado de cada solicitud. El administrador de la empresa puede ver el número total de solicitudes de retiro, así como cuántas fueron denegadas, aprobadas y cuántas siguen pendientes. Al hacer clic en **Withdrawal requests** (Solicitudes de retiro), la empresa puede enviar una solicitud al administrador, indicando el monto a retirar (el cuadro de diálogo también muestra los pagos disponibles y las solicitudes de pago aún pendientes). Se envían notificaciones al administrador por cada solicitud, y a la empresa/conductor en cuanto una solicitud es aprobada o rechazada.\n\n**Retiros de conductores (Driver withdrawals)** — Las solicitudes de retiro que hacen los conductores se tabulan con el número total de solicitudes realizadas, aprobadas, denegadas y pendientes, junto con el detalle completo de las transacciones de cada conductor.\n\n![Cuadro de diálogo Withdrawal requests con los pagos disponibles, las solicitudes pendientes y el monto a retirar](assets/vendor/p030-1.jpeg)\n![Tabla Driver Withdrawals con los totales de solicitudes (aprobadas/denegadas) y el detalle por conductor](assets/vendor/p030-2.jpeg)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "analytics",
+      "number": "7",
+      "title": {
+        "en": "Analytics",
+        "es": "Analítica"
+      },
+      "content": {
+        "en": "",
+        "es": ""
+      },
+      "children": [
+        {
+          "id": "analytics-dashboard",
+          "number": "7.1",
+          "title": {
+            "en": "Dashboard",
+            "es": "Panel de control"
+          },
+          "content": {
+            "en": "Analytics consolidates all of the company's operational data onto a single platform, helping the admin make better-informed decisions. The Analytics dashboard brings together the graphs for fleet availability, driver unavailability, bookings, missed bookings, booking type, payment mode, revenue, average revenue per user, revenues vs. expenses, missed revenues, revenue from campaigns, and user activity.\n\n![Analytics dashboard cards summarizing fleets, kilometers, trips, and driver revenue](assets/vendor/p031-1.jpeg)",
+            "es": "La Analítica consolida en una sola plataforma todos los datos operativos de la empresa, ayudando al administrador a tomar mejores decisiones. El panel de Analítica reúne las gráficas de disponibilidad de flotilla, indisponibilidad de conductores, reservas, reservas perdidas, tipo de reserva, medio de pago, ingresos, ingreso promedio por usuario, ingresos frente a gastos, ingresos perdidos, ingresos por campañas y actividad de usuarios.\n\n![Tarjetas del panel de Analítica que resumen flotillas, kilómetros, viajes e ingresos por conductor](assets/vendor/p031-1.jpeg)"
+          }
+        },
+        {
+          "id": "reports",
+          "number": "7.2",
+          "title": {
+            "en": "Reports",
+            "es": "Reportes"
+          },
+          "content": {
+            "en": "- **Transaction history** — Lists a report of every transaction by company name, vehicle, driver, and passenger, together with the location and date; it displays logs and statistical information on all completed and cancelled transactions.\n- **Fleet report** — Lists every vehicle with detailed information, including the vehicle number, vehicle type, and model. Clicking a fleet number opens an elaborate fleet report including the name of the assigned driver, fleet model, fleet motor expiry date, route map, and transactions.\n- **Driver report** — Lists information on each driver, including an elaborate report on status, transactions, trip statistics, the progress of any ongoing journey, and shift history.\n\n![Manage Fleets report list with fleet number, type, and model](assets/vendor/p032-1.jpeg)\n![Driver Report list with name, email, phone, driver license ID, photo, and status](assets/vendor/p032-2.jpeg)",
+            "es": "- **Historial de transacciones (Transaction history)** — Enumera un reporte de todas las transacciones por nombre de empresa, vehículo, conductor y pasajero, junto con la ubicación y la fecha; muestra los registros e información estadística de todas las transacciones completadas y canceladas.\n- **Reporte de flotilla (Fleet report)** — Enumera todos los vehículos con información detallada, incluyendo el número de unidad, el tipo de vehículo y el modelo. Al hacer clic en un número de flotilla se abre un reporte de flotilla detallado que incluye el nombre del conductor asignado, el modelo de la flotilla, la fecha de vencimiento del motor, el mapa de la ruta y las transacciones.\n- **Reporte de conductor (Driver report)** — Enumera la información de cada conductor, incluyendo un reporte detallado de su estado, transacciones, estadísticas de viajes, el progreso de cualquier viaje en curso y el historial de turnos.\n\n![Lista de reporte Manage Fleets con número, tipo y modelo de flotilla](assets/vendor/p032-1.jpeg)\n![Lista Driver Report con nombre, correo, teléfono, ID de licencia, foto y estado](assets/vendor/p032-2.jpeg)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "settings",
+      "number": "8",
+      "title": {
+        "en": "Settings",
+        "es": "Configuración"
+      },
+      "content": {
+        "en": "",
+        "es": ""
+      },
+      "children": [
+        {
+          "id": "company-settings",
+          "number": "8.1",
+          "title": {
+            "en": "Company settings",
+            "es": "Configuración de la empresa"
+          },
+          "content": {
+            "en": "Company settings let the admin adjust content visibility and rating anonymity to their preference, with options to edit the site name, description, tag, email address, currency, and more. The trip fare can be set either by the platform admin or by the taxi company, depending on configuration.\n\n- **Default unit** — Choose kilometers or miles as the default distance unit.\n- **Skip credit card** — Enable or disable the option to skip adding a credit card, at the company admin's discretion.\n- **Fare calculation** — Choose whether fares are calculated based on distance or time.\n- **Timezone and date/time format** — Select the company's timezone and preferred date/time display format.\n- **Copyright information** — Copyright details can also be included here.\n\n> Whether **Admin** or **Company** is selected in the admin back-end determines who fixes the tax, cancellation fee, fare calculation, and driver commission. If **Admin** is selected, fares cannot be modified by the Company.\n\n![Company Settings form with tax, default unit, driver commission, fare calculation, timezone, and date/time format fields](assets/vendor/p033-1.jpeg)",
+            "es": "La configuración de la empresa permite al administrador ajustar la visibilidad del contenido y el anonimato de las calificaciones según su preferencia, con opciones para editar el nombre del sitio, la descripción, la etiqueta, el correo electrónico, la moneda y más. La tarifa del viaje se puede fijar ya sea por el administrador de la plataforma o por la empresa de taxis, según la configuración.\n\n- **Unidad predeterminada (Default unit)** — Elija kilómetros o millas como unidad de distancia predeterminada.\n- **Omitir tarjeta de crédito (Skip credit card)** — Habilite o deshabilite la opción de omitir el registro de una tarjeta de crédito, según el criterio del administrador de la empresa.\n- **Cálculo de tarifa (Fare Calculation)** — Elija si la tarifa se calcula por distancia o por tiempo.\n- **Zona horaria y formato de fecha/hora** — Seleccione la zona horaria de la empresa y el formato de fecha/hora preferido.\n- **Información de derechos de autor** — También se puede incluir aquí la información de copyright.\n\n> La opción seleccionada en el back-end del administrador —**Admin** (Administrador) o **Company** (Empresa)— determina quién fija el impuesto, la tarifa de cancelación, el cálculo de tarifa y la comisión del conductor. Si se selecciona **Admin**, la Empresa no podrá modificar las tarifas.\n\n![Formulario Company Settings con impuesto, unidad predeterminada, comisión del conductor, cálculo de tarifa, zona horaria y formato de fecha/hora](assets/vendor/p033-1.jpeg)"
+          }
+        }
+      ]
+    }
+  ]
+}

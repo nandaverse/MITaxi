@@ -1,0 +1,1128 @@
+{
+  "guide": "admin",
+  "source": "TaxiMobility-Dispatch, Admin, Fleetmanagement.pdf",
+  "pageCount": 96,
+  "pages": {
+    "4": [
+      {
+        "path": "assets/admin/p004-1.jpeg",
+        "width": 567,
+        "height": 387
+      },
+      {
+        "path": "assets/admin/p004-2.jpeg",
+        "width": 562,
+        "height": 258
+      }
+    ],
+    "5": [
+      {
+        "path": "assets/admin/p005-1.jpeg",
+        "width": 1136,
+        "height": 494
+      },
+      {
+        "path": "assets/admin/p005-2.jpeg",
+        "width": 1084,
+        "height": 466
+      }
+    ],
+    "6": [
+      {
+        "path": "assets/admin/p006-1.jpeg",
+        "width": 1082,
+        "height": 493
+      },
+      {
+        "path": "assets/admin/p006-2.jpeg",
+        "width": 1115,
+        "height": 524
+      }
+    ],
+    "7": [
+      {
+        "path": "assets/admin/p007-1.jpeg",
+        "width": 1029,
+        "height": 456
+      },
+      {
+        "path": "assets/admin/p007-2.jpeg",
+        "width": 1110,
+        "height": 432
+      }
+    ],
+    "8": [
+      {
+        "path": "assets/admin/p008-1.jpeg",
+        "width": 1112,
+        "height": 430
+      },
+      {
+        "path": "assets/admin/p008-2.jpeg",
+        "width": 1117,
+        "height": 424
+      },
+      {
+        "path": "assets/admin/p008-3.jpeg",
+        "width": 1341,
+        "height": 542
+      }
+    ],
+    "9": [
+      {
+        "path": "assets/admin/p009-1.jpeg",
+        "width": 1137,
+        "height": 540
+      },
+      {
+        "path": "assets/admin/p009-2.jpeg",
+        "width": 1113,
+        "height": 429
+      }
+    ],
+    "10": [
+      {
+        "path": "assets/admin/p010-1.jpeg",
+        "width": 1109,
+        "height": 427
+      },
+      {
+        "path": "assets/admin/p010-2.jpeg",
+        "width": 1115,
+        "height": 434
+      }
+    ],
+    "11": [
+      {
+        "path": "assets/admin/p011-1.jpeg",
+        "width": 1117,
+        "height": 381
+      },
+      {
+        "path": "assets/admin/p011-2.jpeg",
+        "width": 1109,
+        "height": 534
+      }
+    ],
+    "12": [
+      {
+        "path": "assets/admin/p012-1.jpeg",
+        "width": 1111,
+        "height": 526
+      },
+      {
+        "path": "assets/admin/p012-2.jpeg",
+        "width": 576,
+        "height": 615
+      }
+    ],
+    "13": [
+      {
+        "path": "assets/admin/p013-1.jpeg",
+        "width": 1111,
+        "height": 526
+      },
+      {
+        "path": "assets/admin/p013-2.jpeg",
+        "width": 1111,
+        "height": 528
+      }
+    ],
+    "14": [
+      {
+        "path": "assets/admin/p014-1.jpeg",
+        "width": 1168,
+        "height": 321
+      }
+    ],
+    "15": [
+      {
+        "path": "assets/admin/p015-1.jpeg",
+        "width": 1168,
+        "height": 321
+      }
+    ],
+    "16": [
+      {
+        "path": "assets/admin/p016-1.jpeg",
+        "width": 862,
+        "height": 336
+      },
+      {
+        "path": "assets/admin/p016-2.jpeg",
+        "width": 1148,
+        "height": 304
+      },
+      {
+        "path": "assets/admin/p016-3.jpeg",
+        "width": 1146,
+        "height": 306
+      }
+    ],
+    "17": [
+      {
+        "path": "assets/admin/p017-1.jpeg",
+        "width": 580,
+        "height": 712
+      },
+      {
+        "path": "assets/admin/p017-2.jpeg",
+        "width": 1149,
+        "height": 414
+      }
+    ],
+    "18": [
+      {
+        "path": "assets/admin/p018-1.jpeg",
+        "width": 953,
+        "height": 259
+      },
+      {
+        "path": "assets/admin/p018-2.jpeg",
+        "width": 1151,
+        "height": 309
+      },
+      {
+        "path": "assets/admin/p018-3.jpeg",
+        "width": 1152,
+        "height": 331
+      }
+    ],
+    "19": [
+      {
+        "path": "assets/admin/p019-1.jpeg",
+        "width": 1150,
+        "height": 483
+      },
+      {
+        "path": "assets/admin/p019-2.jpeg",
+        "width": 1150,
+        "height": 483
+      }
+    ],
+    "20": [
+      {
+        "path": "assets/admin/p020-1.jpeg",
+        "width": 580,
+        "height": 364
+      },
+      {
+        "path": "assets/admin/p020-2.jpeg",
+        "width": 1150,
+        "height": 483
+      },
+      {
+        "path": "assets/admin/p020-3.jpeg",
+        "width": 1093,
+        "height": 463
+      }
+    ],
+    "21": [
+      {
+        "path": "assets/admin/p021-1.jpeg",
+        "width": 1086,
+        "height": 543
+      },
+      {
+        "path": "assets/admin/p021-2.jpeg",
+        "width": 1089,
+        "height": 544
+      }
+    ],
+    "22": [
+      {
+        "path": "assets/admin/p022-1.jpeg",
+        "width": 1088,
+        "height": 816
+      },
+      {
+        "path": "assets/admin/p022-2.jpeg",
+        "width": 1086,
+        "height": 543
+      }
+    ],
+    "23": [
+      {
+        "path": "assets/admin/p023-1.jpeg",
+        "width": 1084,
+        "height": 546
+      },
+      {
+        "path": "assets/admin/p023-2.jpeg",
+        "width": 1089,
+        "height": 461
+      }
+    ],
+    "24": [
+      {
+        "path": "assets/admin/p024-1.jpeg",
+        "width": 1089,
+        "height": 461
+      },
+      {
+        "path": "assets/admin/p024-2.jpeg",
+        "width": 655,
+        "height": 671
+      }
+    ],
+    "25": [
+      {
+        "path": "assets/admin/p025-1.jpeg",
+        "width": 1089,
+        "height": 461
+      },
+      {
+        "path": "assets/admin/p025-2.jpeg",
+        "width": 683,
+        "height": 761
+      }
+    ],
+    "26": [
+      {
+        "path": "assets/admin/p026-1.jpeg",
+        "width": 1151,
+        "height": 496
+      },
+      {
+        "path": "assets/admin/p026-2.jpeg",
+        "width": 1343,
+        "height": 591
+      },
+      {
+        "path": "assets/admin/p026-3.jpeg",
+        "width": 1140,
+        "height": 305
+      }
+    ],
+    "27": [
+      {
+        "path": "assets/admin/p027-1.jpeg",
+        "width": 967,
+        "height": 155
+      },
+      {
+        "path": "assets/admin/p027-2.jpeg",
+        "width": 1182,
+        "height": 456
+      },
+      {
+        "path": "assets/admin/p027-3.jpeg",
+        "width": 1151,
+        "height": 496
+      }
+    ],
+    "28": [
+      {
+        "path": "assets/admin/p028-1.jpeg",
+        "width": 627,
+        "height": 1103
+      }
+    ],
+    "29": [
+      {
+        "path": "assets/admin/p029-1.jpeg",
+        "width": 1142,
+        "height": 497
+      },
+      {
+        "path": "assets/admin/p029-2.jpeg",
+        "width": 1151,
+        "height": 496
+      }
+    ],
+    "30": [
+      {
+        "path": "assets/admin/p030-1.jpeg",
+        "width": 629,
+        "height": 1089
+      }
+    ],
+    "31": [
+      {
+        "path": "assets/admin/p031-1.jpeg",
+        "width": 1164,
+        "height": 284
+      },
+      {
+        "path": "assets/admin/p031-2.jpeg",
+        "width": 1164,
+        "height": 284
+      },
+      {
+        "path": "assets/admin/p031-3.jpeg",
+        "width": 617,
+        "height": 334
+      },
+      {
+        "path": "assets/admin/p031-4.jpeg",
+        "width": 1164,
+        "height": 284
+      }
+    ],
+    "32": [
+      {
+        "path": "assets/admin/p032-1.jpeg",
+        "width": 626,
+        "height": 308
+      },
+      {
+        "path": "assets/admin/p032-2.jpeg",
+        "width": 1106,
+        "height": 294
+      },
+      {
+        "path": "assets/admin/p032-3.jpeg",
+        "width": 1106,
+        "height": 294
+      },
+      {
+        "path": "assets/admin/p032-4.jpeg",
+        "width": 1067,
+        "height": 266
+      }
+    ],
+    "33": [
+      {
+        "path": "assets/admin/p033-1.jpeg",
+        "width": 485,
+        "height": 141
+      },
+      {
+        "path": "assets/admin/p033-2.jpeg",
+        "width": 1111,
+        "height": 163
+      }
+    ],
+    "34": [
+      {
+        "path": "assets/admin/p034-1.jpeg",
+        "width": 530,
+        "height": 503
+      },
+      {
+        "path": "assets/admin/p034-2.jpeg",
+        "width": 531,
+        "height": 528
+      },
+      {
+        "path": "assets/admin/p034-3.jpeg",
+        "width": 531,
+        "height": 520
+      },
+      {
+        "path": "assets/admin/p034-4.jpeg",
+        "width": 525,
+        "height": 527
+      }
+    ],
+    "35": [
+      {
+        "path": "assets/admin/p035-1.jpeg",
+        "width": 1081,
+        "height": 475
+      },
+      {
+        "path": "assets/admin/p035-2.jpeg",
+        "width": 1086,
+        "height": 492
+      }
+    ],
+    "36": [
+      {
+        "path": "assets/admin/p036-1.jpeg",
+        "width": 1085,
+        "height": 550
+      },
+      {
+        "path": "assets/admin/p036-2.jpeg",
+        "width": 1087,
+        "height": 546
+      }
+    ],
+    "37": [
+      {
+        "path": "assets/admin/p037-1.jpeg",
+        "width": 1031,
+        "height": 650
+      },
+      {
+        "path": "assets/admin/p037-2.jpeg",
+        "width": 1280,
+        "height": 654
+      }
+    ],
+    "38": [
+      {
+        "path": "assets/admin/p038-1.jpeg",
+        "width": 708,
+        "height": 655
+      },
+      {
+        "path": "assets/admin/p038-2.jpeg",
+        "width": 450,
+        "height": 250
+      }
+    ],
+    "39": [
+      {
+        "path": "assets/admin/p039-1.jpeg",
+        "width": 1261,
+        "height": 551
+      },
+      {
+        "path": "assets/admin/p039-2.jpeg",
+        "width": 1262,
+        "height": 549
+      }
+    ],
+    "40": [
+      {
+        "path": "assets/admin/p040-1.jpeg",
+        "width": 1261,
+        "height": 544
+      },
+      {
+        "path": "assets/admin/p040-2.jpeg",
+        "width": 1028,
+        "height": 380
+      }
+    ],
+    "41": [
+      {
+        "path": "assets/admin/p041-1.jpeg",
+        "width": 1103,
+        "height": 449
+      },
+      {
+        "path": "assets/admin/p041-2.jpeg",
+        "width": 1084,
+        "height": 477
+      }
+    ],
+    "42": [
+      {
+        "path": "assets/admin/p042-1.jpeg",
+        "width": 1083,
+        "height": 522
+      },
+      {
+        "path": "assets/admin/p042-2.jpeg",
+        "width": 1087,
+        "height": 478
+      }
+    ],
+    "43": [
+      {
+        "path": "assets/admin/p043-1.jpeg",
+        "width": 1090,
+        "height": 500
+      },
+      {
+        "path": "assets/admin/p043-2.jpeg",
+        "width": 1084,
+        "height": 579
+      }
+    ],
+    "44": [
+      {
+        "path": "assets/admin/p044-1.jpeg",
+        "width": 1084,
+        "height": 488
+      },
+      {
+        "path": "assets/admin/p044-2.jpeg",
+        "width": 1078,
+        "height": 581
+      }
+    ],
+    "45": [
+      {
+        "path": "assets/admin/p045-1.png",
+        "width": 509,
+        "height": 161
+      },
+      {
+        "path": "assets/admin/p045-2.png",
+        "width": 513,
+        "height": 126
+      }
+    ],
+    "46": [
+      {
+        "path": "assets/admin/p046-1.jpeg",
+        "width": 1109,
+        "height": 550
+      },
+      {
+        "path": "assets/admin/p046-2.jpeg",
+        "width": 708,
+        "height": 816
+      }
+    ],
+    "47": [
+      {
+        "path": "assets/admin/p047-1.jpeg",
+        "width": 1104,
+        "height": 160
+      },
+      {
+        "path": "assets/admin/p047-2.jpeg",
+        "width": 1085,
+        "height": 474
+      }
+    ],
+    "48": [
+      {
+        "path": "assets/admin/p048-1.jpeg",
+        "width": 1084,
+        "height": 476
+      },
+      {
+        "path": "assets/admin/p048-2.jpeg",
+        "width": 1084,
+        "height": 476
+      }
+    ],
+    "49": [
+      {
+        "path": "assets/admin/p049-1.jpeg",
+        "width": 1101,
+        "height": 326
+      },
+      {
+        "path": "assets/admin/p049-2.jpeg",
+        "width": 1101,
+        "height": 326
+      },
+      {
+        "path": "assets/admin/p049-3.jpeg",
+        "width": 643,
+        "height": 387
+      }
+    ],
+    "50": [
+      {
+        "path": "assets/admin/p050-1.jpeg",
+        "width": 1101,
+        "height": 326
+      },
+      {
+        "path": "assets/admin/p050-2.jpeg",
+        "width": 656,
+        "height": 623
+      }
+    ],
+    "51": [
+      {
+        "path": "assets/admin/p051-1.jpeg",
+        "width": 1108,
+        "height": 302
+      },
+      {
+        "path": "assets/admin/p051-2.jpeg",
+        "width": 1086,
+        "height": 474
+      }
+    ],
+    "52": [
+      {
+        "path": "assets/admin/p052-1.jpeg",
+        "width": 1086,
+        "height": 474
+      },
+      {
+        "path": "assets/admin/p052-2.jpeg",
+        "width": 649,
+        "height": 445
+      }
+    ],
+    "53": [
+      {
+        "path": "assets/admin/p053-1.jpeg",
+        "width": 922,
+        "height": 452
+      },
+      {
+        "path": "assets/admin/p053-2.jpeg",
+        "width": 933,
+        "height": 453
+      }
+    ],
+    "54": [
+      {
+        "path": "assets/admin/p054-1.png",
+        "width": 483,
+        "height": 180
+      }
+    ],
+    "55": [
+      {
+        "path": "assets/admin/p055-1.jpeg",
+        "width": 1103,
+        "height": 850
+      }
+    ],
+    "56": [
+      {
+        "path": "assets/admin/p056-1.jpeg",
+        "width": 1091,
+        "height": 660
+      },
+      {
+        "path": "assets/admin/p056-2.jpeg",
+        "width": 1089,
+        "height": 659
+      }
+    ],
+    "57": [
+      {
+        "path": "assets/admin/p057-1.jpeg",
+        "width": 1072,
+        "height": 471
+      },
+      {
+        "path": "assets/admin/p057-2.jpeg",
+        "width": 902,
+        "height": 209
+      }
+    ],
+    "58": [
+      {
+        "path": "assets/admin/p058-1.jpeg",
+        "width": 1077,
+        "height": 370
+      },
+      {
+        "path": "assets/admin/p058-2.jpeg",
+        "width": 1065,
+        "height": 323
+      }
+    ],
+    "59": [
+      {
+        "path": "assets/admin/p059-1.jpeg",
+        "width": 1068,
+        "height": 405
+      },
+      {
+        "path": "assets/admin/p059-2.jpeg",
+        "width": 1063,
+        "height": 268
+      }
+    ],
+    "60": [
+      {
+        "path": "assets/admin/p060-1.png",
+        "width": 483,
+        "height": 139
+      },
+      {
+        "path": "assets/admin/p060-2.png",
+        "width": 483,
+        "height": 136
+      },
+      {
+        "path": "assets/admin/p060-3.jpeg",
+        "width": 1127,
+        "height": 380
+      }
+    ],
+    "61": [
+      {
+        "path": "assets/admin/p061-1.jpeg",
+        "width": 1113,
+        "height": 376
+      },
+      {
+        "path": "assets/admin/p061-2.jpeg",
+        "width": 1110,
+        "height": 391
+      },
+      {
+        "path": "assets/admin/p061-3.jpeg",
+        "width": 1111,
+        "height": 387
+      }
+    ],
+    "62": [
+      {
+        "path": "assets/admin/p062-1.jpeg",
+        "width": 897,
+        "height": 522
+      },
+      {
+        "path": "assets/admin/p062-2.jpeg",
+        "width": 735,
+        "height": 578
+      },
+      {
+        "path": "assets/admin/p062-3.jpeg",
+        "width": 728,
+        "height": 221
+      },
+      {
+        "path": "assets/admin/p062-4.jpeg",
+        "width": 716,
+        "height": 214
+      }
+    ],
+    "63": [
+      {
+        "path": "assets/admin/p063-1.jpeg",
+        "width": 890,
+        "height": 290
+      },
+      {
+        "path": "assets/admin/p063-2.jpeg",
+        "width": 1128,
+        "height": 300
+      },
+      {
+        "path": "assets/admin/p063-3.jpeg",
+        "width": 1130,
+        "height": 293
+      }
+    ],
+    "64": [
+      {
+        "path": "assets/admin/p064-1.jpeg",
+        "width": 824,
+        "height": 427
+      },
+      {
+        "path": "assets/admin/p064-2.jpeg",
+        "width": 1343,
+        "height": 625
+      }
+    ],
+    "65": [
+      {
+        "path": "assets/admin/p065-1.jpeg",
+        "width": 1087,
+        "height": 424
+      },
+      {
+        "path": "assets/admin/p065-2.jpeg",
+        "width": 1088,
+        "height": 983
+      }
+    ],
+    "66": [
+      {
+        "path": "assets/admin/p066-1.jpeg",
+        "width": 1085,
+        "height": 431
+      }
+    ],
+    "67": [
+      {
+        "path": "assets/admin/p067-1.jpeg",
+        "width": 1087,
+        "height": 1023
+      }
+    ],
+    "68": [
+      {
+        "path": "assets/admin/p068-1.jpeg",
+        "width": 1049,
+        "height": 452
+      },
+      {
+        "path": "assets/admin/p068-2.jpeg",
+        "width": 1149,
+        "height": 450
+      }
+    ],
+    "69": [
+      {
+        "path": "assets/admin/p069-1.jpeg",
+        "width": 680,
+        "height": 1515
+      }
+    ],
+    "70": [
+      {
+        "path": "assets/admin/p070-1.jpeg",
+        "width": 699,
+        "height": 1248
+      }
+    ],
+    "71": [
+      {
+        "path": "assets/admin/p071-1.jpeg",
+        "width": 646,
+        "height": 1111
+      }
+    ],
+    "72": [
+      {
+        "path": "assets/admin/p072-1.jpeg",
+        "width": 457,
+        "height": 815
+      },
+      {
+        "path": "assets/admin/p072-2.jpeg",
+        "width": 452,
+        "height": 827
+      }
+    ],
+    "73": [
+      {
+        "path": "assets/admin/p073-1.jpeg",
+        "width": 1077,
+        "height": 1339
+      }
+    ],
+    "74": [
+      {
+        "path": "assets/admin/p074-1.jpeg",
+        "width": 1360,
+        "height": 768
+      },
+      {
+        "path": "assets/admin/p074-2.jpeg",
+        "width": 1360,
+        "height": 768
+      },
+      {
+        "path": "assets/admin/p074-3.jpeg",
+        "width": 676,
+        "height": 486
+      }
+    ],
+    "75": [
+      {
+        "path": "assets/admin/p075-1.jpeg",
+        "width": 977,
+        "height": 443
+      }
+    ],
+    "76": [
+      {
+        "path": "assets/admin/p076-1.jpeg",
+        "width": 1090,
+        "height": 677
+      },
+      {
+        "path": "assets/admin/p076-2.jpeg",
+        "width": 1019,
+        "height": 1385
+      }
+    ],
+    "77": [
+      {
+        "path": "assets/admin/p077-1.jpeg",
+        "width": 644,
+        "height": 730
+      },
+      {
+        "path": "assets/admin/p077-2.jpeg",
+        "width": 925,
+        "height": 332
+      }
+    ],
+    "78": [
+      {
+        "path": "assets/admin/p078-1.jpeg",
+        "width": 916,
+        "height": 272
+      },
+      {
+        "path": "assets/admin/p078-2.jpeg",
+        "width": 723,
+        "height": 450
+      }
+    ],
+    "79": [
+      {
+        "path": "assets/admin/p079-1.jpeg",
+        "width": 1141,
+        "height": 217
+      },
+      {
+        "path": "assets/admin/p079-2.jpeg",
+        "width": 1141,
+        "height": 217
+      },
+      {
+        "path": "assets/admin/p079-3.jpeg",
+        "width": 1360,
+        "height": 768
+      },
+      {
+        "path": "assets/admin/p079-4.jpeg",
+        "width": 777,
+        "height": 229
+      }
+    ],
+    "80": [
+      {
+        "path": "assets/admin/p080-1.jpeg",
+        "width": 1128,
+        "height": 247
+      },
+      {
+        "path": "assets/admin/p080-2.jpeg",
+        "width": 893,
+        "height": 706
+      }
+    ],
+    "81": [
+      {
+        "path": "assets/admin/p081-1.jpeg",
+        "width": 1075,
+        "height": 392
+      },
+      {
+        "path": "assets/admin/p081-2.jpeg",
+        "width": 1073,
+        "height": 374
+      },
+      {
+        "path": "assets/admin/p081-3.jpeg",
+        "width": 655,
+        "height": 360
+      }
+    ],
+    "82": [
+      {
+        "path": "assets/admin/p082-1.jpeg",
+        "width": 1075,
+        "height": 392
+      },
+      {
+        "path": "assets/admin/p082-2.jpeg",
+        "width": 631,
+        "height": 345
+      },
+      {
+        "path": "assets/admin/p082-3.jpeg",
+        "width": 1089,
+        "height": 418
+      }
+    ],
+    "83": [
+      {
+        "path": "assets/admin/p083-1.jpeg",
+        "width": 1079,
+        "height": 418
+      },
+      {
+        "path": "assets/admin/p083-2.jpeg",
+        "width": 1077,
+        "height": 410
+      },
+      {
+        "path": "assets/admin/p083-3.jpeg",
+        "width": 1083,
+        "height": 419
+      }
+    ],
+    "84": [
+      {
+        "path": "assets/admin/p084-1.jpeg",
+        "width": 554,
+        "height": 232
+      },
+      {
+        "path": "assets/admin/p084-2.jpeg",
+        "width": 1100,
+        "height": 183
+      },
+      {
+        "path": "assets/admin/p084-3.jpeg",
+        "width": 1100,
+        "height": 183
+      }
+    ],
+    "85": [
+      {
+        "path": "assets/admin/p085-1.jpeg",
+        "width": 634,
+        "height": 1600
+      }
+    ],
+    "86": [
+      {
+        "path": "assets/admin/p086-1.jpeg",
+        "width": 1017,
+        "height": 1600
+      }
+    ],
+    "87": [
+      {
+        "path": "assets/admin/p087-1.jpeg",
+        "width": 1045,
+        "height": 467
+      }
+    ],
+    "88": [
+      {
+        "path": "assets/admin/p088-1.jpeg",
+        "width": 695,
+        "height": 888
+      }
+    ],
+    "89": [
+      {
+        "path": "assets/admin/p089-1.jpeg",
+        "width": 693,
+        "height": 601
+      },
+      {
+        "path": "assets/admin/p089-2.jpeg",
+        "width": 1101,
+        "height": 335
+      }
+    ],
+    "90": [
+      {
+        "path": "assets/admin/p090-1.jpeg",
+        "width": 1087,
+        "height": 450
+      }
+    ],
+    "91": [
+      {
+        "path": "assets/admin/p091-1.jpeg",
+        "width": 1087,
+        "height": 1076
+      }
+    ],
+    "92": [
+      {
+        "path": "assets/admin/p092-1.jpeg",
+        "width": 1006,
+        "height": 1238
+      }
+    ],
+    "93": [
+      {
+        "path": "assets/admin/p093-1.jpeg",
+        "width": 1059,
+        "height": 1334
+      }
+    ],
+    "94": [
+      {
+        "path": "assets/admin/p094-1.jpeg",
+        "width": 1094,
+        "height": 331
+      }
+    ],
+    "95": [
+      {
+        "path": "assets/admin/p095-1.jpeg",
+        "width": 1078,
+        "height": 1255
+      }
+    ],
+    "96": [
+      {
+        "path": "assets/admin/p096-1.jpeg",
+        "width": 758,
+        "height": 378
+      }
+    ]
+  }
+}

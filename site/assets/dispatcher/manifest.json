@@ -1,0 +1,271 @@
+{
+  "guide": "dispatcher",
+  "source": "TaxiMobility_Dispatch.pdf",
+  "pageCount": 24,
+  "pages": {
+    "3": [
+      {
+        "path": "assets/dispatcher/p003-1.jpeg",
+        "width": 562,
+        "height": 381
+      },
+      {
+        "path": "assets/dispatcher/p003-2.jpeg",
+        "width": 562,
+        "height": 258
+      }
+    ],
+    "4": [
+      {
+        "path": "assets/dispatcher/p004-1.jpeg",
+        "width": 1326,
+        "height": 331
+      },
+      {
+        "path": "assets/dispatcher/p004-2.jpeg",
+        "width": 1114,
+        "height": 386
+      }
+    ],
+    "5": [
+      {
+        "path": "assets/dispatcher/p005-1.jpeg",
+        "width": 1292,
+        "height": 618
+      },
+      {
+        "path": "assets/dispatcher/p005-2.jpeg",
+        "width": 1072,
+        "height": 466
+      }
+    ],
+    "6": [
+      {
+        "path": "assets/dispatcher/p006-1.jpeg",
+        "width": 1077,
+        "height": 449
+      },
+      {
+        "path": "assets/dispatcher/p006-2.jpeg",
+        "width": 1077,
+        "height": 191
+      },
+      {
+        "path": "assets/dispatcher/p006-3.jpeg",
+        "width": 1103,
+        "height": 166
+      }
+    ],
+    "7": [
+      {
+        "path": "assets/dispatcher/p007-1.jpeg",
+        "width": 526,
+        "height": 466
+      },
+      {
+        "path": "assets/dispatcher/p007-2.jpeg",
+        "width": 516,
+        "height": 466
+      },
+      {
+        "path": "assets/dispatcher/p007-3.jpeg",
+        "width": 518,
+        "height": 477
+      },
+      {
+        "path": "assets/dispatcher/p007-4.jpeg",
+        "width": 529,
+        "height": 533
+      }
+    ],
+    "8": [
+      {
+        "path": "assets/dispatcher/p008-1.jpeg",
+        "width": 1031,
+        "height": 650
+      }
+    ],
+    "9": [
+      {
+        "path": "assets/dispatcher/p009-1.jpeg",
+        "width": 1280,
+        "height": 802
+      },
+      {
+        "path": "assets/dispatcher/p009-2.jpeg",
+        "width": 708,
+        "height": 655
+      }
+    ],
+    "10": [
+      {
+        "path": "assets/dispatcher/p010-1.jpeg",
+        "width": 450,
+        "height": 250
+      },
+      {
+        "path": "assets/dispatcher/p010-2.jpeg",
+        "width": 1028,
+        "height": 380
+      }
+    ],
+    "11": [
+      {
+        "path": "assets/dispatcher/p011-1.jpeg",
+        "width": 1118,
+        "height": 450
+      },
+      {
+        "path": "assets/dispatcher/p011-2.jpeg",
+        "width": 1077,
+        "height": 449
+      }
+    ],
+    "12": [
+      {
+        "path": "assets/dispatcher/p012-1.jpeg",
+        "width": 1077,
+        "height": 446
+      },
+      {
+        "path": "assets/dispatcher/p012-2.jpeg",
+        "width": 1034,
+        "height": 647
+      }
+    ],
+    "13": [
+      {
+        "path": "assets/dispatcher/p013-1.jpeg",
+        "width": 1073,
+        "height": 339
+      },
+      {
+        "path": "assets/dispatcher/p013-2.jpeg",
+        "width": 1194,
+        "height": 642
+      }
+    ],
+    "14": [
+      {
+        "path": "assets/dispatcher/p014-1.jpeg",
+        "width": 646,
+        "height": 901
+      },
+      {
+        "path": "assets/dispatcher/p014-2.jpeg",
+        "width": 1000,
+        "height": 429
+      }
+    ],
+    "15": [
+      {
+        "path": "assets/dispatcher/p015-1.jpeg",
+        "width": 1028,
+        "height": 581
+      }
+    ],
+    "16": [
+      {
+        "path": "assets/dispatcher/p016-1.jpeg",
+        "width": 754,
+        "height": 383
+      },
+      {
+        "path": "assets/dispatcher/p016-2.jpeg",
+        "width": 1056,
+        "height": 463
+      }
+    ],
+    "17": [
+      {
+        "path": "assets/dispatcher/p017-1.jpeg",
+        "width": 679,
+        "height": 538
+      },
+      {
+        "path": "assets/dispatcher/p017-2.jpeg",
+        "width": 1074,
+        "height": 518
+      }
+    ],
+    "18": [
+      {
+        "path": "assets/dispatcher/p018-1.jpeg",
+        "width": 386,
+        "height": 257
+      },
+      {
+        "path": "assets/dispatcher/p018-2.jpeg",
+        "width": 1035,
+        "height": 431
+      },
+      {
+        "path": "assets/dispatcher/p018-3.jpeg",
+        "width": 967,
+        "height": 155
+      }
+    ],
+    "19": [
+      {
+        "path": "assets/dispatcher/p019-1.jpeg",
+        "width": 1182,
+        "height": 456
+      },
+      {
+        "path": "assets/dispatcher/p019-2.jpeg",
+        "width": 706,
+        "height": 1186
+      }
+    ],
+    "20": [
+      {
+        "path": "assets/dispatcher/p020-1.jpeg",
+        "width": 1024,
+        "height": 562
+      },
+      {
+        "path": "assets/dispatcher/p020-2.jpeg",
+        "width": 1087,
+        "height": 227
+      },
+      {
+        "path": "assets/dispatcher/p020-3.jpeg",
+        "width": 320,
+        "height": 184
+      }
+    ],
+    "21": [
+      {
+        "path": "assets/dispatcher/p021-1.jpeg",
+        "width": 1097,
+        "height": 413
+      }
+    ],
+    "22": [
+      {
+        "path": "assets/dispatcher/p022-1.jpeg",
+        "width": 1113,
+        "height": 639
+      }
+    ],
+    "23": [
+      {
+        "path": "assets/dispatcher/p023-1.jpeg",
+        "width": 1081,
+        "height": 585
+      },
+      {
+        "path": "assets/dispatcher/p023-2.jpeg",
+        "width": 1085,
+        "height": 271
+      }
+    ],
+    "24": [
+      {
+        "path": "assets/dispatcher/p024-1.jpeg",
+        "width": 1071,
+        "height": 395
+      }
+    ]
+  }
+}

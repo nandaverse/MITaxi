@@ -1,0 +1,409 @@
+{
+  "id": "driver",
+  "title": {
+    "en": "MiTaxi Driver App Guide",
+    "es": "Guía de la App MiTaxi para Conductores"
+  },
+  "tagline": {
+    "en": "A complete guide to registering, driving, and earning with the MiTaxiApp Driver App.",
+    "es": "Una guía completa para registrarse, conducir y generar ingresos con la app MiTaxiApp para Conductores."
+  },
+  "sections": [
+    {
+      "id": "introduction",
+      "number": "1",
+      "title": {
+        "en": "Introduction",
+        "es": "Introducción"
+      },
+      "content": {
+        "en": "The MiTaxiApp Driver App is a state-of-the-art mobile application built to empower taxi drivers with GPS-integrated dispatch systems, route optimization, and financial management tools. By integrating with Google Maps and real-time backend servers, the application allows drivers to easily match with nearby passengers, execute trips efficiently, manage fleet assignments, track earnings in detail, and process payouts.\n\nKey attributes of the MiTaxiApp Driver App include:\n\n- **GPS Route Optimization**: Automatic mapping from pickup coordinates to final drop-off destinations.\n- **Flexible Shift Management**: Quick toggle between active availability and offline modes.\n- **Dual Trip Modes**: Handling automated passenger requests or initiating instant street pickups.\n- **Transparent Wallet & Payout System**: Direct monitoring of earnings, bank withdrawal histories, and company settlements.\n- **Safety Integration**: 24/7 SOS system notifying emergency contacts with real-time location.",
+        "es": "La app MiTaxiApp para Conductores es una aplicación móvil de vanguardia diseñada para brindar a los taxistas sistemas de despacho integrados con GPS, optimización de rutas y herramientas de gestión financiera. Al integrarse con Google Maps y con servidores backend en tiempo real, la aplicación permite a los conductores emparejarse fácilmente con pasajeros cercanos, ejecutar viajes de manera eficiente, administrar las asignaciones de su flotilla, llevar un control detallado de sus ganancias y procesar sus pagos.\n\nEntre los atributos clave de la app MiTaxiApp para Conductores se incluyen:\n\n- **Optimización de rutas por GPS**: Trazado automático desde las coordenadas de recogida hasta el destino final.\n- **Gestión flexible de turnos**: Cambio rápido entre disponibilidad activa y modo fuera de línea.\n- **Modos de viaje dobles**: Gestión de solicitudes automáticas de pasajeros o inicio de recogidas instantáneas en la calle.\n- **Sistema transparente de monedero y pagos**: Seguimiento directo de ganancias, historial de retiros bancarios y liquidaciones con la empresa.\n- **Integración de seguridad**: Sistema de SOS disponible las 24 horas que notifica a los contactos de emergencia con la ubicación en tiempo real."
+      }
+    },
+    {
+      "id": "getting-started-registration",
+      "number": "2",
+      "title": {
+        "en": "Getting Started & Registration",
+        "es": "Primeros Pasos y Registro"
+      },
+      "content": {
+        "en": "",
+        "es": ""
+      },
+      "children": [
+        {
+          "id": "mobile-app-registration",
+          "number": "2.1",
+          "title": {
+            "en": "Mobile App Registration",
+            "es": "Registro desde la App Móvil"
+          },
+          "content": {
+            "en": "To register as a driver directly from your mobile device:\n\n1. Open the MiTaxiApp Driver app. On the login screen, tap **Sign Up**.\n2. The app opens a secure web registration form, where you must enter the following details:\n   - First Name & Last Name\n   - Email Address (optional)\n   - Mobile Number\n   - Password (must be at least 6 characters)\n   - Driver License Details & Expiry Date\n   - Profile Image (upload a JPG or PNG image from your camera or gallery)\n3. Review and check the **Terms and Conditions** and **Privacy Policy** box.\n4. Tap **Next/Submit**.\n\nOnce submitted, the registration request is forwarded to the administrator dashboard. Your driver profile will be activated after document validation and background clearance.\n\n![Driver sign-up form with name, contact, password, and license fields](assets/driver/p004-1.jpeg)",
+            "es": "Para registrarse como conductor directamente desde su dispositivo móvil:\n\n1. Abra la app MiTaxiApp para Conductores. En la pantalla de inicio de sesión, toque **Registrarse** (Sign Up).\n2. La app abrirá un formulario de registro web seguro donde deberá ingresar los siguientes datos:\n   - Nombre y apellido\n   - Correo electrónico (opcional)\n   - Número de celular\n   - Contraseña (debe tener al menos 6 caracteres)\n   - Datos de la licencia de conducir y fecha de vencimiento\n   - Foto de perfil (suba una imagen en formato JPG o PNG desde la cámara o la galería)\n3. Revise y marque la casilla de los **Términos y Condiciones** y el **Aviso de Privacidad**.\n4. Toque **Siguiente/Enviar** (Next/Submit).\n\nUna vez enviada la solicitud, esta se remite al panel del administrador. Su perfil de conductor será activado después de la validación de documentos y la verificación de antecedentes.\n\n![Formulario de registro del conductor con datos personales, contraseña y licencia](assets/driver/p004-1.jpeg)"
+          }
+        },
+        {
+          "id": "web-portal-registration",
+          "number": "2.2",
+          "title": {
+            "en": "Web Portal Registration",
+            "es": "Registro desde el Portal Web"
+          },
+          "content": {
+            "en": "Drivers can also register via the MiTaxiApp Web Portal:\n\n1. Navigate to the MiTaxiApp landing homepage and click **Become a Driver** in the top-right corner.\n2. Fill in the registration form, including your name, contact details, driver license documents, and profile image.\n3. Once the back-end system verifies your files, you will receive an SMS and email notification confirming activation of your credentials.\n\n![Web-based \"Become a Driver\" registration form with document upload and app store badges](assets/driver/p005-1.jpeg)",
+            "es": "Los conductores también pueden registrarse a través del Portal Web de MiTaxiApp:\n\n1. Vaya a la página principal de MiTaxiApp y haga clic en **Conviértase en Conductor** (Become a Driver), en la esquina superior derecha.\n2. Complete el formulario de registro, incluyendo su nombre, datos de contacto, documentos de la licencia de conducir y foto de perfil.\n3. Una vez que el sistema back-end verifique sus archivos, recibirá una notificación por SMS y correo electrónico confirmando la activación de sus credenciales.\n\n![Formulario web \"Conviértase en Conductor\", con carga de documentos e insignias de tiendas de apps](assets/driver/p005-1.jpeg)"
+          }
+        },
+        {
+          "id": "data-consent-security",
+          "number": "2.3",
+          "title": {
+            "en": "Data Consent & Security (Store & Secure)",
+            "es": "Consentimiento de Datos y Seguridad (Almacenar y Proteger)"
+          },
+          "content": {
+            "en": "Upon first boot or during registration, MiTaxiApp requires you to explicitly grant the following permissions via check-boxes, in compliance with privacy laws:\n\n- **Location**: Required to calculate accurate fares, track route progress, and match jobs.\n- **Device Info**: Used to monitor ongoing calls, so trips are not dispatched while you are on a call.\n- **Storage & Camera**: Necessary for uploading license documents and profile pictures.\n- **Contacts**: Accessed strictly to let you select contact numbers for emergency SOS notifications.",
+            "es": "Al iniciar la app por primera vez o durante el registro, MiTaxiApp solicita que usted otorgue explícitamente los siguientes permisos mediante casillas de verificación, en cumplimiento con las leyes de privacidad:\n\n- **Ubicación**: Necesaria para calcular tarifas precisas, dar seguimiento al progreso de la ruta y asignar viajes.\n- **Información del dispositivo**: Se utiliza para monitorear llamadas en curso, de manera que no se le asignen viajes mientras está en una llamada.\n- **Almacenamiento y cámara**: Necesarios para subir los documentos de la licencia y la foto de perfil.\n- **Contactos**: Se accede a ellos únicamente para que usted pueda seleccionar números de contacto para las notificaciones de emergencia SOS."
+          }
+        }
+      ]
+    },
+    {
+      "id": "signing-in-account-setup",
+      "number": "3",
+      "title": {
+        "en": "Signing In & Account Setup",
+        "es": "Inicio de Sesión y Configuración de la Cuenta"
+      },
+      "content": {
+        "en": "Once your account has been approved and activated, you can sign in as follows:\n\n1. Launch the application to display the **Sign In** screen.\n2. Select your country code, enter your **Mobile Number**, and enter your **Password**.\n3. Tap **Sign In** to go to the driver home dashboard.\n\n**Forgot Password?** If you have forgotten your password, tap the **Forgot Password?** link on the sign-in page. You will be prompted to enter your registered mobile number to receive a secure link or SMS notification to reset it.\n\n> NOTE: If your phone's system time is inaccurate, the app will alert you to adjust your clock settings, to ensure secure communications with MiTaxiApp servers.\n\n![Sign In screen with the Sign Up link and mobile number/password fields](assets/driver/p006-1.jpeg)\n\n![Validation prompt asking the driver to enter a mobile number before signing in](assets/driver/p006-2.jpeg)",
+        "es": "Una vez que su cuenta haya sido aprobada y activada, podrá iniciar sesión de la siguiente manera:\n\n1. Abra la aplicación para mostrar la pantalla de **Inicio de Sesión** (Sign In).\n2. Seleccione su código de país, ingrese su **Número de celular** y su **Contraseña**.\n3. Toque **Iniciar Sesión** (Sign In) para acceder al panel principal del conductor.\n\n**¿Olvidó su contraseña?** Si olvidó su contraseña, toque el enlace **¿Olvidó su contraseña?** (Forgot Password?) en la pantalla de inicio de sesión. Se le pedirá que ingrese su número de celular registrado para recibir un enlace seguro o una notificación SMS con la cual restablecerla.\n\n> NOTA: Si la hora del sistema de su teléfono es incorrecta, la app le alertará para que ajuste la configuración de reloj, con el fin de garantizar comunicaciones seguras con los servidores de MiTaxiApp.\n\n![Pantalla de Inicio de Sesión con el enlace de Registrarse y los campos de número de celular/contraseña](assets/driver/p006-1.jpeg)\n\n![Aviso de validación que solicita al conductor ingresar un número de celular antes de iniciar sesión](assets/driver/p006-2.jpeg)"
+      }
+    },
+    {
+      "id": "home-dashboard",
+      "number": "4",
+      "title": {
+        "en": "Home Dashboard",
+        "es": "Panel Principal"
+      },
+      "content": {
+        "en": "From the Home Dashboard you can also open **Trip History**, which lists your on-going ride as well as every completed past booking — including the time, date, pickup and drop-off locations, payment type, and payment status of each trip. Tap any past trip to open its detailed trip summary.\n\nThe map view also doubles as a **My Location** tracker: it follows your current position on Google Maps while you are moving, so you can choose the most convenient route both to the passenger's pickup point and on to the final destination. For quick reference, it shows a glance of your five most recent trips along with a link through to the complete ride history.\n\n![Home map view showing the last trip amount and a link to Trip History](assets/driver/p019-1.jpeg)\n\n![Trip History screen with On Going and Past Bookings tabs](assets/driver/p009-1.jpeg)",
+        "es": "Desde el Panel Principal también puede abrir el **Historial de Viajes** (Trip History), que enumera el viaje en curso, así como todas las reservas pasadas completadas —incluyendo la hora, fecha, lugares de recogida y destino, tipo de pago y estado de pago de cada viaje—. Toque cualquier viaje anterior para abrir su resumen detallado.\n\nLa vista del mapa también funciona como un rastreador de **Mi Ubicación** (My Location): sigue su posición actual en Google Maps mientras se desplaza, de manera que pueda elegir la ruta más conveniente tanto hacia el punto de recogida del pasajero como hacia el destino final. Como referencia rápida, muestra un vistazo de sus cinco viajes más recientes junto con un enlace al historial completo de viajes.\n\n![Vista del mapa principal que muestra el monto del último viaje y un enlace al Historial de Viajes](assets/driver/p019-1.jpeg)\n\n![Pantalla de Historial de Viajes con las pestañas En Curso y Reservas Pasadas](assets/driver/p009-1.jpeg)"
+      },
+      "children": [
+        {
+          "id": "online-offline-shift-toggle",
+          "number": "4.1",
+          "title": {
+            "en": "Online/Offline Shift Toggle",
+            "es": "Interruptor de Turno En línea/Fuera de línea"
+          },
+          "content": {
+            "en": "The Home Dashboard is the default view once you are logged in. It features an interactive map that displays your current location, active shift status, and quick access to the main menu.\n\nAt the top of the map view, you will find your Shift Status switch:\n\n- **Shift In (Online)**: Slide or tap the button to go online. The indicator turns green and shows \"You are on shift.\" You are now active on the dispatch network and can receive ride requests from nearby passengers.\n- **Shift Off (Offline)**: Slide or tap the button to go offline. The indicator displays \"You are offline.\" While offline, you will not receive any dispatch requests, allowing you to take breaks.\n\n![Shift toggle set to Online, with the \"You are now on shift\" confirmation](assets/driver/p007-1.jpeg)\n\n![Shift toggle set to Offline, with the \"You are in shift out\" confirmation](assets/driver/p007-2.jpeg)",
+            "es": "El Panel Principal (Home Dashboard) es la vista predeterminada una vez que inicia sesión. Presenta un mapa interactivo que muestra su ubicación actual, el estado de su turno activo y acceso rápido al menú principal.\n\nEn la parte superior de la vista del mapa se encuentra el interruptor de Estado de Turno:\n\n- **Turno Activo (En línea)**: Deslice o toque el botón para conectarse. El indicador se pone verde y muestra \"Está en turno\" (\"You are on shift\"). Ahora está activo en la red de despacho y puede recibir solicitudes de viaje de pasajeros cercanos.\n- **Turno Inactivo (Fuera de línea)**: Deslice o toque el botón para desconectarse. El indicador muestra \"Está desconectado\" (\"You are offline\"). Mientras está desconectado, no recibirá solicitudes de despacho, lo que le permite tomar descansos.\n\n![Interruptor de turno en modo En línea, con la confirmación \"You are now on shift\"](assets/driver/p007-1.jpeg)\n\n![Interruptor de turno en modo Fuera de línea, con la confirmación \"You are in shift out\"](assets/driver/p007-2.jpeg)"
+          }
+        },
+        {
+          "id": "sos-emergency-button",
+          "number": "4.2",
+          "title": {
+            "en": "SOS / Emergency Button",
+            "es": "Botón SOS / Emergencia"
+          },
+          "content": {
+            "en": "In the top-right corner of the home map is the **SOS** button, for use in emergencies.\n\n1. In the event of an emergency, tap **SOS**.\n2. The system asks you to confirm the emergency alert.\n3. Upon approval, the app automatically sends a distress notification containing your live GPS coordinates (latitude and longitude) to your pre-saved emergency contacts and to the central administration console, via text message.\n\nEmergency contacts can be added and modified in Profile Settings, up to a limit of 3 contacts.\n\n![Emergency Alert confirmation dialog before notifying saved contacts](assets/driver/p008-1.jpeg)",
+            "es": "En la esquina superior derecha del mapa principal se encuentra el botón **SOS**, para usarse en caso de emergencia.\n\n1. En caso de emergencia, toque **SOS**.\n2. El sistema le pedirá que confirme la alerta de emergencia.\n3. Una vez confirmada, la app envía automáticamente una notificación de auxilio con sus coordenadas GPS en tiempo real (latitud y longitud) a sus contactos de emergencia previamente guardados y a la consola central de administración, mediante mensaje de texto.\n\nLos contactos de emergencia se pueden agregar y modificar en la Configuración del Perfil, hasta un límite de 3 contactos.\n\n![Cuadro de diálogo de confirmación de la Alerta de Emergencia antes de notificar a los contactos guardados](assets/driver/p008-1.jpeg)"
+          }
+        },
+        {
+          "id": "main-navigation-menu",
+          "number": "4.3",
+          "title": {
+            "en": "Main Navigation Menu",
+            "es": "Menú de Navegación Principal"
+          },
+          "content": {
+            "en": "The bottom navigation bar contains four key sections:\n\n- **Home**: The main map view and shift toggles.\n- **Earnings**: Details of transactions, wallet, and settlements.\n- **Profile**: Driver profile information, taxi details, languages, and settings.\n- **Street Pickup**: Instant booking interface for curbside passenger pick-ups.",
+            "es": "La barra de navegación inferior contiene cuatro secciones principales:\n\n- **Inicio (Home)**: La vista principal del mapa y los interruptores de turno.\n- **Ganancias (Earnings)**: Detalles de transacciones, monedero y liquidaciones.\n- **Perfil (Profile)**: Información del perfil del conductor, datos del vehículo, idiomas y configuraciones.\n- **Recogida en la Calle (Street Pickup)**: Interfaz de reserva instantánea para recoger pasajeros en la vía pública."
+          }
+        }
+      ]
+    },
+    {
+      "id": "fleet-vehicle-management",
+      "number": "5",
+      "title": {
+        "en": "Fleet & Vehicle Management",
+        "es": "Gestión de Flotilla y Vehículos"
+      },
+      "content": {
+        "en": "",
+        "es": ""
+      },
+      "children": [
+        {
+          "id": "registering-a-vehicle",
+          "number": "5.1",
+          "title": {
+            "en": "Registering a Vehicle (Add Fleet)",
+            "es": "Registro de un Vehículo (Agregar Flotilla)"
+          },
+          "content": {
+            "en": "Drivers must have a vehicle assigned before going on shift.\n\nIf you do not have an assigned vehicle, the dashboard displays a \"No Taxi Assigned\" warning page.\n\n1. Tap **Add Fleet** or **My Fleet**.\n2. Enter the vehicle details:\n   - Vehicle Number / Registration Number\n   - Vehicle Manufacturer & Brand Model\n   - Upload an image of the vehicle (only JPG or PNG formats are supported)\n3. Tap **Submit**.\n\nOnce approved, this fleet assignment is bound to your driver ID.",
+            "es": "Los conductores deben tener un vehículo asignado antes de iniciar su turno.\n\nSi no tiene un vehículo asignado, el panel mostrará una página de advertencia \"Sin Taxi Asignado\" (\"No Taxi Assigned\").\n\n1. Toque **Agregar Flotilla** (Add Fleet) o **Mi Flotilla** (My Fleet).\n2. Ingrese los datos del vehículo:\n   - Número de vehículo / número de placas\n   - Fabricante y modelo del vehículo\n   - Suba una foto del vehículo (solo se admiten formatos JPG o PNG)\n3. Toque **Enviar** (Submit).\n\nUna vez aprobada, esta asignación de flotilla queda vinculada a su ID de conductor."
+          }
+        },
+        {
+          "id": "vehicle-overview",
+          "number": "5.2",
+          "title": {
+            "en": "Vehicle Overview (My Fleet)",
+            "es": "Resumen del Vehículo (Mi Flotilla)"
+          },
+          "content": {
+            "en": "Within **My Fleet**, you can view your assigned taxi details, including:\n\n- Taxi Model\n- Plate Number\n- Assigned From Date\n- Assigned To Date\n\nIf you need to switch vehicles, use the **Change Fleet** button to upload information for a new vehicle.\n\n![Taxi Details popup showing the assigned taxi model, plate number, and assignment dates](assets/driver/p014-2.jpeg)",
+            "es": "Dentro de **Mi Flotilla** (My Fleet), puede consultar los detalles de su taxi asignado, incluyendo:\n\n- Modelo del taxi\n- Número de placas\n- Fecha de asignación desde\n- Fecha de asignación hasta\n\nSi necesita cambiar de vehículo, use el botón **Cambiar Flotilla** (Change Fleet) para subir la información de un nuevo vehículo.\n\n![Ventana emergente de Detalles del Taxi con el modelo, número de placas y fechas de asignación](assets/driver/p014-2.jpeg)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "earnings-financial-management",
+      "number": "6",
+      "title": {
+        "en": "Earnings & Financial Management",
+        "es": "Ganancias y Gestión Financiera"
+      },
+      "content": {
+        "en": "",
+        "es": ""
+      },
+      "children": [
+        {
+          "id": "wallet-balance-recharge",
+          "number": "6.1",
+          "title": {
+            "en": "Wallet Balance & Recharge",
+            "es": "Saldo del Monedero y Recarga"
+          },
+          "content": {
+            "en": "The Earnings section is a comprehensive portal that lets drivers track daily and weekly revenue, manage their virtual wallet, request payouts, and resolve commission balances.\n\nMiTaxiApp includes an in-app driver wallet:\n\n- **Wallet Balance**: Displays your current credit amount.\n- **Recharge Wallet**: If you operate under a commission-based driving structure, you must maintain a minimum wallet threshold. Tap **Recharge** to add money directly to your account using a saved or new credit card.\n\n![Wallet screen with current balance, a Recharge Money field, and Add Money button](assets/driver/p012-1.jpeg)\n\nDepending on how your fleet operator has configured your account, you may instead be enrolled as a **subscription-based driver**. In this model, instead of maintaining a commission wallet balance, you subscribe to one of the available plans for a fixed duration and can take unlimited trips during that period. Your Profile screen includes a **Subscription** button leading to **Plan Details** — showing the current plan name, price, and expiry date — and you can switch to a new plan once the current one expires.\n\n![Plan Details screen listing the current subscription plan, its price, and expiry date](assets/driver/p017-1.jpeg)",
+            "es": "La sección de Ganancias (Earnings) es un portal integral que permite a los conductores dar seguimiento a sus ingresos diarios y semanales, administrar su monedero virtual, solicitar retiros y resolver saldos de comisión.\n\nMiTaxiApp incluye un monedero de conductor dentro de la app:\n\n- **Saldo del Monedero (Wallet Balance)**: Muestra el monto de crédito actual.\n- **Recargar Monedero (Recharge Wallet)**: Si opera bajo un esquema de conducción basado en comisiones, debe mantener un saldo mínimo en su monedero. Toque **Recargar** (Recharge) para agregar dinero directamente a su cuenta usando una tarjeta de crédito guardada o nueva.\n\n![Pantalla del Monedero con el saldo actual, un campo para Recargar Dinero y el botón Agregar Dinero](assets/driver/p012-1.jpeg)\n\nSegún cómo su operador de flotilla haya configurado su cuenta, es posible que en su lugar esté inscrito como **conductor con suscripción** (subscription-based driver). En este esquema, en lugar de mantener un saldo de monedero por comisión, usted se suscribe a uno de los planes disponibles por una duración fija y puede realizar viajes ilimitados durante ese período. Su pantalla de Perfil incluye un botón de **Suscripción** (Subscription) que lleva a **Detalles del Plan** (Plan Details) —donde se muestra el nombre del plan actual, su precio y fecha de vencimiento— y puede cambiar a un nuevo plan una vez que el actual expire.\n\n![Pantalla de Detalles del Plan con el plan de suscripción actual, su precio y fecha de vencimiento](assets/driver/p017-1.jpeg)"
+          }
+        },
+        {
+          "id": "withdrawal-requests",
+          "number": "6.2",
+          "title": {
+            "en": "Withdrawal Requests",
+            "es": "Solicitudes de Retiro"
+          },
+          "content": {
+            "en": "When you accumulate earnings from electronic trip payments or referral rewards, you can request manual withdrawals:\n\n1. Go to the **Withdrawal** menu and tap **Raise Request**.\n2. Enter the withdrawal amount.\n3. The request is sent to the administration queue.\n\nYou can monitor the status of past requests (**Not yet approved**, **Approved**, or **Deny/Rejected**) and view detailed history — including requested date, transaction IDs, comments, and payment modes — in the **Withdraw History** view.\n\n![Earnings screen with the Withdraw button highlighted](assets/driver/p013-5.jpeg)\n\n![Withdraw screen listing available referral and trip amounts with a Withdraw action for each](assets/driver/p013-1.jpeg)",
+            "es": "Cuando acumule ganancias provenientes de pagos electrónicos de viajes o recompensas por referidos, puede solicitar retiros manuales:\n\n1. Vaya al menú de **Retiros** (Withdrawal) y toque **Generar Solicitud** (Raise Request).\n2. Ingrese el monto a retirar.\n3. La solicitud se envía a la cola de administración.\n\nPuede consultar el estado de sus solicitudes anteriores (**Aún no aprobada**, **Aprobada** o **Rechazada/Denegada**) y ver el historial detallado —incluyendo fecha de solicitud, números de transacción, comentarios y formas de pago— en la vista de **Historial de Retiros** (Withdraw History).\n\n![Pantalla de Ganancias con el botón Retirar (Withdraw) resaltado](assets/driver/p013-5.jpeg)\n\n![Pantalla de Retiro con los montos de referidos y de viajes disponibles, cada uno con su acción de Retirar](assets/driver/p013-1.jpeg)"
+          }
+        },
+        {
+          "id": "settlement-requests",
+          "number": "6.3",
+          "title": {
+            "en": "Settlement Requests",
+            "es": "Solicitudes de Liquidación"
+          },
+          "content": {
+            "en": "The Settlement module tracks payables and receivables between the driver and the company:\n\n- Displays **Admin Commission** (the amount you owe the company) and **Driver Commission / Yet to pay by admin** (the amount the company owes you).\n- Tap **Request to Admin** to submit a settlement request and balance your accounts.\n\n> NOTE: Only one settlement request can be raised per day, and the selected dates must fall within a 31-day window.\n\n![Earnings screen with the Settlement button highlighted](assets/driver/p013-3.jpeg)\n\n![Settlement Request screen showing total earnings, driver commission, and a Request to Admin button](assets/driver/p013-4.jpeg)",
+            "es": "El módulo de Liquidaciones (Settlement) da seguimiento a los montos por pagar y por cobrar entre el conductor y la empresa:\n\n- Muestra la **Comisión del Administrador** (Admin Commission: el monto que usted debe a la empresa) y la **Comisión del Conductor / Pendiente por Pagar por el Administrador** (Driver Commission / Yet to pay by admin: el monto que la empresa le debe a usted).\n- Toque **Solicitar al Administrador** (Request to Admin) para enviar una solicitud de liquidación y saldar las cuentas.\n\n> NOTA: Solo se puede generar una solicitud de liquidación por día, y las fechas seleccionadas deben estar dentro de una ventana de 31 días.\n\n![Pantalla de Ganancias con el botón Liquidación (Settlement) resaltado](assets/driver/p013-3.jpeg)\n\n![Pantalla de Solicitud de Liquidación con las ganancias totales, la comisión del conductor y el botón Solicitar al Administrador](assets/driver/p013-4.jpeg)"
+          }
+        },
+        {
+          "id": "earnings-reports-graph-views",
+          "number": "6.4",
+          "title": {
+            "en": "Earnings Reports & Graph Views",
+            "es": "Reportes de Ganancias y Vistas Gráficas"
+          },
+          "content": {
+            "en": "In the Earnings tab, you can view your revenue records summarized by daily totals, week-to-date earnings, and trip counts. A clean, color-coded bar chart displays earnings per day (Monday through Sunday) for visual tracking of your peak days.\n\n![Earnings tab with a weekly bar chart, today's trip amount, and a Trip History shortcut](assets/driver/p011-1.jpeg)",
+            "es": "En la pestaña de Ganancias, puede ver sus registros de ingresos resumidos por totales diarios, ganancias de la semana en curso y número de viajes. Una gráfica de barras clara y codificada por colores muestra las ganancias por día (de lunes a domingo), para identificar visualmente sus días de mayor actividad.\n\n![Pestaña de Ganancias con una gráfica de barras semanal, el monto de viajes de hoy y un acceso directo al Historial de Viajes](assets/driver/p011-1.jpeg)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "street-pickup",
+      "number": "7",
+      "title": {
+        "en": "Street Pickup",
+        "es": "Recogida en la Calle"
+      },
+      "content": {
+        "en": "The Street Pickup feature lets drivers accept immediate, unscheduled bookings directly from the street, without going through a dispatcher.\n\n1. Tap **Street Pickup** on the bottom navigation bar (only available when you are not on an active trip).\n2. The app determines your current GPS pickup location.\n3. Enter the passenger's **Drop Location** (optional).\n4. Tap **Start Trip** to immediately begin tracking the journey.\n\nThe app calculates the distance and travel time. Upon arrival, tap **End Trip** to go to the Fare Calculator and charge the customer.\n\n> NOTE: Street pickups still count toward your working hours as long as you remain on shift, and waiting charges are calculated for street pickups in the same way as for dispatched trips.\n\n![Street Pickup screen with pickup/drop location fields and a Start Trip button](assets/driver/p017-2.jpeg)\n\n![Trip in progress after a street pickup, showing live speed and waiting time](assets/driver/p018-1.jpeg)",
+        "es": "La función de Recogida en la Calle (Street Pickup) permite a los conductores aceptar reservas inmediatas y no programadas directamente desde la calle, sin pasar por un despachador.\n\n1. Toque **Recogida en la Calle** (Street Pickup) en la barra de navegación inferior (disponible solo cuando no se encuentra en un viaje activo).\n2. La app determina su ubicación actual de recogida por GPS.\n3. Ingrese el **Lugar de Destino** (Drop Location) del pasajero (opcional).\n4. Toque **Iniciar Viaje** (Start Trip) para comenzar de inmediato el seguimiento del recorrido.\n\nLa app calcula la distancia y el tiempo de trayecto. Al llegar, toque **Finalizar Viaje** (End Trip) para ir a la Calculadora de Tarifa y cobrar al cliente.\n\n> NOTA: Las recogidas en la calle también cuentan como horas trabajadas mientras usted permanezca en turno, y los cargos por espera se calculan para las recogidas en la calle de la misma manera que para los viajes despachados.\n\n![Pantalla de Recogida en la Calle con los campos de recogida/destino y el botón Iniciar Viaje](assets/driver/p017-2.jpeg)\n\n![Viaje en curso tras una recogida en la calle, mostrando la velocidad y el tiempo de espera en tiempo real](assets/driver/p018-1.jpeg)"
+      }
+    },
+    {
+      "id": "ride-request-lifecycle",
+      "number": "8",
+      "title": {
+        "en": "Ride Request Lifecycle",
+        "es": "Ciclo de Vida de la Solicitud de Viaje"
+      },
+      "content": {
+        "en": "",
+        "es": ""
+      },
+      "children": [
+        {
+          "id": "incoming-job-request",
+          "number": "8.1",
+          "title": {
+            "en": "Incoming Job Request",
+            "es": "Solicitud de Viaje Entrante"
+          },
+          "content": {
+            "en": "Executing a regular trip follows a structured, step-by-step lifecycle within the app.\n\nWhen a booking matches your location, a notification with a warning sound pops up, displaying the **Pickup Location**, **Drop Location**, and the passenger's details.\n\nA 30-second countdown is displayed. You must tap **Accept** before the timer expires, or the trip will automatically route to the next closest driver. You can also manually tap **Decline**.\n\n> NOTE: By default, a ride request is sent to the driver located within 3 km of the passenger; both this search radius and the countdown duration can be adjusted by the administrator.\n\n![Trip Request screen with a countdown circle, pickup/drop locations, and a Decline button](assets/driver/p020-1.jpeg)",
+            "es": "Ejecutar un viaje regular sigue un ciclo de vida estructurado y por pasos dentro de la app.\n\nCuando una reserva coincide con su ubicación, aparece una notificación con un sonido de alerta que muestra el **Lugar de Recogida**, el **Lugar de Destino** y los datos del pasajero.\n\nSe muestra una cuenta regresiva de 30 segundos. Debe tocar **Aceptar** (Accept) antes de que expire el tiempo, o el viaje se enrutará automáticamente al siguiente conductor más cercano. También puede tocar **Rechazar** (Decline) manualmente.\n\n> NOTA: De forma predeterminada, la solicitud de viaje se envía al conductor ubicado dentro de un radio de 3 km del pasajero; tanto este radio de búsqueda como la duración de la cuenta regresiva pueden ser ajustados por el administrador.\n\n![Pantalla de Solicitud de Viaje con un círculo de cuenta regresiva, los lugares de recogida/destino y el botón Rechazar](assets/driver/p020-1.jpeg)"
+          }
+        },
+        {
+          "id": "picking-up-passenger-arrival",
+          "number": "8.2",
+          "title": {
+            "en": "Picking up Passenger (Arrival)",
+            "es": "Recogida del Pasajero (Llegada)"
+          },
+          "content": {
+            "en": "Once you accept, the app draws a map route from your location to the passenger's location.\n\nWhen you arrive at the pickup spot, tap the **Arrived** (or **I've Arrived**) button. This sends an SMS/notification to the passenger informing them of your arrival.\n\n![Pickup Passenger screen with Call and Cancel options and an I've Arrived button](assets/driver/p021-1.jpeg)",
+            "es": "Una vez que acepta, la app traza una ruta en el mapa desde su ubicación hasta la del pasajero.\n\nAl llegar al punto de recogida, toque el botón **Llegué** (**Arrived** o **I've Arrived**). Esto envía un SMS/notificación al pasajero informándole de su llegada.\n\n![Pantalla de Recogida del Pasajero con las opciones Llamar y Cancelar y el botón Llegué](assets/driver/p021-1.jpeg)"
+          }
+        },
+        {
+          "id": "waiting-for-passenger",
+          "number": "8.3",
+          "title": {
+            "en": "Waiting for Passenger",
+            "es": "Esperando al Pasajero"
+          },
+          "content": {
+            "en": "After marking your arrival, a **Waiting Timer** appears.\n\nIf the passenger does not board immediately, you can start the waiting stopwatch. The system automatically calculates waiting charges based on the duration of the wait.\n\nAn option to **Call** the passenger is available if you cannot locate them. If the passenger does not show up, a **Cancel** option also lets you cancel the trip under reasonable circumstances.\n\n![Waiting For Passenger screen with Call and Cancel options and a Start Trip button](assets/driver/p022-1.jpeg)",
+            "es": "Después de marcar su llegada, aparece un **Cronómetro de Espera** (Waiting Timer).\n\nSi el pasajero no sube de inmediato, puede iniciar el cronómetro de espera. El sistema calcula automáticamente los cargos por espera con base en la duración de esta.\n\nSe encuentra disponible la opción de **Llamar** (Call) al pasajero si no logra ubicarlo. Si el pasajero no se presenta, la opción **Cancelar** (Cancel) también le permite cancelar el viaje bajo circunstancias razonables.\n\n![Pantalla de Espera al Pasajero con las opciones Llamar y Cancelar y el botón Iniciar Viaje](assets/driver/p022-1.jpeg)"
+          }
+        },
+        {
+          "id": "trip-in-progress",
+          "number": "8.4",
+          "title": {
+            "en": "Trip in Progress",
+            "es": "Viaje en Curso"
+          },
+          "content": {
+            "en": "Once the passenger is onboard, tap the **Start Trip** (or **Pass Onboard**) button.\n\nThe map updates to display the optimal route to the drop-off destination. The screen shows real-time trip parameters: current speed, travel duration, and route progress.\n\n![Trip in Progress screen showing live speed, waiting time, and the route on the map](assets/driver/p023-1.jpeg)",
+            "es": "Una vez que el pasajero ha subido, toque el botón **Iniciar Viaje** (**Start Trip** o **Pass Onboard**).\n\nEl mapa se actualiza para mostrar la ruta óptima hacia el destino. La pantalla muestra parámetros del viaje en tiempo real: velocidad actual, duración del trayecto y progreso de la ruta.\n\n![Pantalla de Viaje en Curso con la velocidad y el tiempo de espera en tiempo real y la ruta en el mapa](assets/driver/p023-1.jpeg)"
+          }
+        },
+        {
+          "id": "fare-calculator-summary",
+          "number": "8.5",
+          "title": {
+            "en": "Fare Calculator & Summary",
+            "es": "Calculadora de Tarifa y Resumen"
+          },
+          "content": {
+            "en": "Upon reaching the destination, tap **End Trip**. The screen immediately displays a detailed Fare Calculator invoice, made up of the following components:\n\n| Component | Description |\n|---|---|\n| Base Fare | Flat entry fare. |\n| Distance Fare | Total distance traveled, multiplied by the distance rate. |\n| Minutes/Time Fare | Charges based on elapsed transit time. |\n| Waiting Charges | Calculated from the waiting period prior to departure. |\n| Evening/Night Charges | Dynamic evening/night surcharges, if applicable. |\n| Tax/Discounts | Includes tax percentages and deductions from promo codes. |\n| Sub Total & Net Amount | Final total amount to be collected. |\n\n![Fare Calculator screen with the trip breakdown and cash/card payment options](assets/driver/p024-1.jpeg)",
+            "es": "Al llegar al destino, toque **Finalizar Viaje** (End Trip). La pantalla muestra de inmediato un desglose detallado de la Calculadora de Tarifa, compuesto por los siguientes elementos:\n\n| Componente | Descripción |\n|---|---|\n| Tarifa Base (Base Fare) | Tarifa fija de entrada. |\n| Tarifa por Distancia (Distance Fare) | Distancia total recorrida, multiplicada por la tarifa por distancia. |\n| Tarifa por Minutos/Tiempo (Minutes/Time Fare) | Cargos según el tiempo transcurrido del trayecto. |\n| Cargos por Espera (Waiting Charges) | Calculados a partir del periodo de espera previo a la salida. |\n| Cargos Nocturnos/Vespertinos (Evening/Night Charges) | Recargos dinámicos nocturnos o vespertinos, si aplican. |\n| Impuestos/Descuentos (Tax/Discounts) | Incluye porcentajes de impuestos y deducciones por códigos promocionales. |\n| Subtotal y Monto Neto (Sub Total & Net Amount) | Monto final a cobrar. |\n\n![Pantalla de la Calculadora de Tarifa con el desglose del viaje y las opciones de pago en efectivo/tarjeta](assets/driver/p024-1.jpeg)"
+          }
+        },
+        {
+          "id": "completing-payments",
+          "number": "8.6",
+          "title": {
+            "en": "Completing Payments (Cash/Card)",
+            "es": "Finalización de Pagos (Efectivo/Tarjeta)"
+          },
+          "content": {
+            "en": "The driver selects the passenger's chosen payment method:\n\n- **Cash**: Collect physical cash directly from the passenger.\n- **Card**: Process the transaction using the passenger's saved card on file.\n- **New Card**: If the passenger wishes to pay with a different card, tap **New Card**, enter the credit card details (Number, Expiry, CVV), and tap **Pay**. The details are validated by the app, and the new card can optionally be set as the default card for future transactions.\n\nOnce payment is authorized, a **Trip Completed** summary screen shows the unique Trip ID and final payment confirmation. Tap **Back to Home** to return to the active map and receive new jobs.\n\n![Trip Completed screen with the final fare amount and a unique Trip ID](assets/driver/p024-2.jpeg)",
+            "es": "El conductor selecciona el método de pago elegido por el pasajero:\n\n- **Efectivo (Cash)**: Cobre el efectivo directamente al pasajero.\n- **Tarjeta (Card)**: Procese la transacción usando la tarjeta guardada del pasajero.\n- **Nueva Tarjeta (New Card)**: Si el pasajero desea pagar con una tarjeta distinta, toque **Nueva Tarjeta** (New Card), ingrese los datos de la tarjeta de crédito (Número, Vencimiento, CVV) y toque **Pagar** (Pay). La app valida los datos ingresados, y la nueva tarjeta puede establecerse opcionalmente como tarjeta predeterminada para transacciones futuras.\n\nUna vez autorizado el pago, aparece una pantalla de resumen de **Viaje Completado** (Trip Completed) que muestra el ID único del viaje y la confirmación final del pago. Toque **Volver al Inicio** (Back to Home) para regresar al mapa activo y recibir nuevos viajes.\n\n![Pantalla de Viaje Completado con el monto final de la tarifa y un ID de viaje único](assets/driver/p024-2.jpeg)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "profile-settings",
+      "number": "9",
+      "title": {
+        "en": "Profile & Settings",
+        "es": "Perfil y Configuración"
+      },
+      "content": {
+        "en": "",
+        "es": ""
+      },
+      "children": [
+        {
+          "id": "editing-profile-details",
+          "number": "9.1",
+          "title": {
+            "en": "Editing Profile Details",
+            "es": "Edición de los Datos del Perfil"
+          },
+          "content": {
+            "en": "The Profile (Me) tab lets you configure your driver profile settings.\n\nDrivers can modify the following details:\n\n- First & Last Name\n- Email Address\n- Mobile Number\n- Profile Picture (via camera or photo gallery)\n- Vehicle details\n\nTap **Save** in the top-right corner to commit your changes.\n\nThe Profile screen also displays your overall **star rating**, as provided by passengers for your service, along with quick links to your Emergency Contacts, Privacy Settings, and Taxi Details.\n\n![Profile screen with driver photo, 5-star rating, and Emergency Contacts link](assets/driver/p014-1.jpeg)",
+            "es": "La pestaña de Perfil (Me) le permite configurar los ajustes de su perfil de conductor.\n\nLos conductores pueden modificar los siguientes datos:\n\n- Nombre y apellido\n- Correo electrónico\n- Número de celular\n- Foto de perfil (mediante cámara o galería de fotos)\n- Datos del vehículo\n\nToque **Guardar** (Save) en la esquina superior derecha para confirmar los cambios.\n\nLa pantalla de Perfil también muestra su **calificación general** en estrellas, otorgada por los pasajeros por su servicio, junto con accesos rápidos a sus Contactos de Emergencia, Configuración de Privacidad y Detalles del Taxi.\n\n![Pantalla de Perfil con la foto del conductor, la calificación de 5 estrellas y el enlace a Contactos de Emergencia](assets/driver/p014-1.jpeg)"
+          }
+        },
+        {
+          "id": "change-password",
+          "number": "9.2",
+          "title": {
+            "en": "Change Password",
+            "es": "Cambio de Contraseña"
+          },
+          "content": {
+            "en": "To change your password:\n\n1. Go to Profile settings and select **Change Password**.\n2. Enter your **Old Password**.\n3. Enter your **New Password** and confirm it (must be at least 6 characters).\n4. Tap **Submit** to finalize.",
+            "es": "Para cambiar su contraseña:\n\n1. Vaya a la configuración del Perfil y seleccione **Cambiar Contraseña** (Change Password).\n2. Ingrese su **Contraseña Anterior** (Old Password).\n3. Ingrese su **Nueva Contraseña** (New Password) y confírmela (debe tener al menos 6 caracteres).\n4. Toque **Enviar** (Submit) para finalizar."
+          }
+        },
+        {
+          "id": "account-deletion",
+          "number": "9.3",
+          "title": {
+            "en": "Account Deletion",
+            "es": "Eliminación de la Cuenta"
+          },
+          "content": {
+            "en": "If you wish to terminate your driver profile, go to Settings and tap **Delete Account**. Confirm the action, and your account will be permanently deactivated from MiTaxiApp systems, in accordance with data policy compliance.",
+            "es": "Si desea dar de baja su perfil de conductor, vaya a Configuración y toque **Eliminar Cuenta** (Delete Account). Confirme la acción, y su cuenta será desactivada de forma permanente de los sistemas de MiTaxiApp, conforme a las políticas de cumplimiento de datos."
+          }
+        },
+        {
+          "id": "language-configurations",
+          "number": "9.4",
+          "title": {
+            "en": "Language Configurations",
+            "es": "Configuración de Idioma"
+          },
+          "content": {
+            "en": "The MiTaxiApp Driver App supports localization. Go to Settings, tap **Languages**, and select your preferred language. The app interface elements and dialog text will automatically load the selected translation.",
+            "es": "La app MiTaxiApp para Conductores es compatible con localización de idiomas. Vaya a Configuración, toque **Idiomas** (Languages) y seleccione su idioma preferido. Los elementos de la interfaz de la app y los textos de los cuadros de diálogo cargarán automáticamente la traducción seleccionada."
+          }
+        },
+        {
+          "id": "referral-program",
+          "number": "9.5",
+          "title": {
+            "en": "Referral Program (Invite Friends)",
+            "es": "Programa de Referidos (Invitar Amigos)"
+          },
+          "content": {
+            "en": "Under the **Invite Friends** menu, drivers can share their unique referral code:\n\n- Select a share channel: SMS, Email, Facebook, WhatsApp, or Twitter.\n\nWhen a new driver downloads the app and signs up using your referral code, both you and the new driver receive a referral bonus in your wallet after they successfully complete their first trip.\n\n![Invite Friends screen showing the referral bonus amount and unique referral code](assets/driver/p015-1.jpeg)\n\n![Share link screen with WhatsApp, Gmail, Messages, and other sharing channels](assets/driver/p015-2.jpeg)",
+            "es": "En el menú **Invitar Amigos** (Invite Friends), los conductores pueden compartir su código de referido único:\n\n- Seleccione un canal para compartir: SMS, correo electrónico, Facebook, WhatsApp o Twitter.\n\nCuando un nuevo conductor descarga la app y se registra usando su código de referido, tanto usted como el nuevo conductor reciben un bono de referido en su monedero, una vez que el nuevo conductor complete exitosamente su primer viaje.\n\n![Pantalla de Invitar Amigos con el monto del bono de referido y el código de referido único](assets/driver/p015-1.jpeg)\n\n![Pantalla de Compartir Enlace con WhatsApp, Gmail, Mensajes y otros canales para compartir](assets/driver/p015-2.jpeg)"
+          }
+        }
+      ]
+    }
+  ]
+}

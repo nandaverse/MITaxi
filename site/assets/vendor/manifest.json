@@ -1,0 +1,377 @@
+{
+  "guide": "vendor",
+  "source": "TaxiMobility_Vendors_Manual.pdf",
+  "pageCount": 33,
+  "pages": {
+    "3": [
+      {
+        "path": "assets/vendor/p003-1.jpeg",
+        "width": 453,
+        "height": 307
+      },
+      {
+        "path": "assets/vendor/p003-2.jpeg",
+        "width": 562,
+        "height": 258
+      }
+    ],
+    "4": [
+      {
+        "path": "assets/vendor/p004-1.jpeg",
+        "width": 1271,
+        "height": 452
+      },
+      {
+        "path": "assets/vendor/p004-2.jpeg",
+        "width": 1114,
+        "height": 386
+      }
+    ],
+    "5": [
+      {
+        "path": "assets/vendor/p005-1.jpeg",
+        "width": 1084,
+        "height": 449
+      },
+      {
+        "path": "assets/vendor/p005-2.jpeg",
+        "width": 1084,
+        "height": 575
+      }
+    ],
+    "6": [
+      {
+        "path": "assets/vendor/p006-1.jpeg",
+        "width": 1077,
+        "height": 463
+      },
+      {
+        "path": "assets/vendor/p006-2.jpeg",
+        "width": 1084,
+        "height": 455
+      }
+    ],
+    "7": [
+      {
+        "path": "assets/vendor/p007-1.jpeg",
+        "width": 1071,
+        "height": 445
+      },
+      {
+        "path": "assets/vendor/p007-2.jpeg",
+        "width": 1278,
+        "height": 451
+      }
+    ],
+    "8": [
+      {
+        "path": "assets/vendor/p008-1.jpeg",
+        "width": 1077,
+        "height": 449
+      },
+      {
+        "path": "assets/vendor/p008-2.jpeg",
+        "width": 1077,
+        "height": 446
+      }
+    ],
+    "9": [
+      {
+        "path": "assets/vendor/p009-1.jpeg",
+        "width": 1034,
+        "height": 647
+      },
+      {
+        "path": "assets/vendor/p009-2.jpeg",
+        "width": 1194,
+        "height": 642
+      }
+    ],
+    "10": [
+      {
+        "path": "assets/vendor/p010-1.jpeg",
+        "width": 1099,
+        "height": 273
+      },
+      {
+        "path": "assets/vendor/p010-2.jpeg",
+        "width": 639,
+        "height": 843
+      }
+    ],
+    "12": [
+      {
+        "path": "assets/vendor/p012-1.jpeg",
+        "width": 1075,
+        "height": 466
+      },
+      {
+        "path": "assets/vendor/p012-2.jpeg",
+        "width": 815,
+        "height": 453
+      }
+    ],
+    "13": [
+      {
+        "path": "assets/vendor/p013-1.jpeg",
+        "width": 639,
+        "height": 905
+      },
+      {
+        "path": "assets/vendor/p013-2.jpeg",
+        "width": 1000,
+        "height": 429
+      }
+    ],
+    "14": [
+      {
+        "path": "assets/vendor/p014-1.jpeg",
+        "width": 1028,
+        "height": 581
+      }
+    ],
+    "15": [
+      {
+        "path": "assets/vendor/p015-1.jpeg",
+        "width": 754,
+        "height": 383
+      },
+      {
+        "path": "assets/vendor/p015-2.jpeg",
+        "width": 1105,
+        "height": 431
+      }
+    ],
+    "16": [
+      {
+        "path": "assets/vendor/p016-1.jpeg",
+        "width": 640,
+        "height": 621
+      },
+      {
+        "path": "assets/vendor/p016-2.jpeg",
+        "width": 1103,
+        "height": 304
+      }
+    ],
+    "17": [
+      {
+        "path": "assets/vendor/p017-1.jpeg",
+        "width": 637,
+        "height": 736
+      },
+      {
+        "path": "assets/vendor/p017-2.jpeg",
+        "width": 1077,
+        "height": 404
+      }
+    ],
+    "18": [
+      {
+        "path": "assets/vendor/p018-1.jpeg",
+        "width": 647,
+        "height": 462
+      },
+      {
+        "path": "assets/vendor/p018-2.jpeg",
+        "width": 1074,
+        "height": 518
+      }
+    ],
+    "19": [
+      {
+        "path": "assets/vendor/p019-1.jpeg",
+        "width": 386,
+        "height": 257
+      },
+      {
+        "path": "assets/vendor/p019-2.jpeg",
+        "width": 1035,
+        "height": 431
+      },
+      {
+        "path": "assets/vendor/p019-3.jpeg",
+        "width": 967,
+        "height": 155
+      }
+    ],
+    "20": [
+      {
+        "path": "assets/vendor/p020-1.jpeg",
+        "width": 1182,
+        "height": 456
+      },
+      {
+        "path": "assets/vendor/p020-2.jpeg",
+        "width": 706,
+        "height": 1186
+      }
+    ],
+    "21": [
+      {
+        "path": "assets/vendor/p021-1.jpeg",
+        "width": 1024,
+        "height": 562
+      },
+      {
+        "path": "assets/vendor/p021-2.jpeg",
+        "width": 1093,
+        "height": 232
+      },
+      {
+        "path": "assets/vendor/p021-3.jpeg",
+        "width": 320,
+        "height": 184
+      }
+    ],
+    "22": [
+      {
+        "path": "assets/vendor/p022-1.jpeg",
+        "width": 1097,
+        "height": 413
+      },
+      {
+        "path": "assets/vendor/p022-2.jpeg",
+        "width": 1103,
+        "height": 166
+      }
+    ],
+    "23": [
+      {
+        "path": "assets/vendor/p023-1.jpeg",
+        "width": 526,
+        "height": 466
+      },
+      {
+        "path": "assets/vendor/p023-2.jpeg",
+        "width": 516,
+        "height": 466
+      },
+      {
+        "path": "assets/vendor/p023-3.jpeg",
+        "width": 518,
+        "height": 477
+      },
+      {
+        "path": "assets/vendor/p023-4.jpeg",
+        "width": 529,
+        "height": 533
+      }
+    ],
+    "24": [
+      {
+        "path": "assets/vendor/p024-1.jpeg",
+        "width": 1031,
+        "height": 650
+      }
+    ],
+    "25": [
+      {
+        "path": "assets/vendor/p025-1.jpeg",
+        "width": 1280,
+        "height": 802
+      },
+      {
+        "path": "assets/vendor/p025-2.jpeg",
+        "width": 708,
+        "height": 655
+      }
+    ],
+    "26": [
+      {
+        "path": "assets/vendor/p026-1.jpeg",
+        "width": 450,
+        "height": 250
+      },
+      {
+        "path": "assets/vendor/p026-2.jpeg",
+        "width": 1028,
+        "height": 380
+      }
+    ],
+    "27": [
+      {
+        "path": "assets/vendor/p027-1.jpeg",
+        "width": 1121,
+        "height": 375
+      },
+      {
+        "path": "assets/vendor/p027-2.jpeg",
+        "width": 1101,
+        "height": 388
+      },
+      {
+        "path": "assets/vendor/p027-3.jpeg",
+        "width": 1105,
+        "height": 403
+      }
+    ],
+    "28": [
+      {
+        "path": "assets/vendor/p028-1.jpeg",
+        "width": 1106,
+        "height": 443
+      },
+      {
+        "path": "assets/vendor/p028-2.jpeg",
+        "width": 1078,
+        "height": 571
+      }
+    ],
+    "29": [
+      {
+        "path": "assets/vendor/p029-1.jpeg",
+        "width": 1078,
+        "height": 581
+      },
+      {
+        "path": "assets/vendor/p029-2.jpeg",
+        "width": 1102,
+        "height": 487
+      }
+    ],
+    "30": [
+      {
+        "path": "assets/vendor/p030-1.jpeg",
+        "width": 428,
+        "height": 325
+      },
+      {
+        "path": "assets/vendor/p030-2.jpeg",
+        "width": 1105,
+        "height": 528
+      }
+    ],
+    "31": [
+      {
+        "path": "assets/vendor/p031-1.jpeg",
+        "width": 1117,
+        "height": 613
+      },
+      {
+        "path": "assets/vendor/p031-2.jpeg",
+        "width": 1100,
+        "height": 572
+      }
+    ],
+    "32": [
+      {
+        "path": "assets/vendor/p032-1.jpeg",
+        "width": 1078,
+        "height": 251
+      },
+      {
+        "path": "assets/vendor/p032-2.jpeg",
+        "width": 1071,
+        "height": 395
+      }
+    ],
+    "33": [
+      {
+        "path": "assets/vendor/p033-1.jpeg",
+        "width": 844,
+        "height": 545
+      }
+    ]
+  }
+}

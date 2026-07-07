@@ -1,0 +1,6115 @@
+{
+  "pdfs": {
+    "driver_mitaxi": {
+      "pages": 10,
+      "headings": [
+        {
+          "number": "2.1",
+          "title": "Mobile App Registration",
+          "page": 1
+        },
+        {
+          "number": "2.2",
+          "title": "Web Portal Registration",
+          "page": 1
+        },
+        {
+          "number": "2.3",
+          "title": "Data Consent & Security (Store & Secure)",
+          "page": 1
+        },
+        {
+          "number": "4.1",
+          "title": "Online/Offline Shift Toggle",
+          "page": 1
+        },
+        {
+          "number": "4.2",
+          "title": "SOS / Emergency Button",
+          "page": 1
+        },
+        {
+          "number": "4.3",
+          "title": "Main Navigation Menu",
+          "page": 1
+        },
+        {
+          "number": "5.1",
+          "title": "Registering a Vehicle (Add Fleet)",
+          "page": 1
+        },
+        {
+          "number": "5.2",
+          "title": "Vehicle Overview (My Fleet)",
+          "page": 1
+        },
+        {
+          "number": "6.1",
+          "title": "Wallet Balance & Recharge",
+          "page": 1
+        },
+        {
+          "number": "6.2",
+          "title": "Withdrawal Requests",
+          "page": 1
+        },
+        {
+          "number": "6.3",
+          "title": "Settlement Requests",
+          "page": 1
+        },
+        {
+          "number": "6.4",
+          "title": "Earnings Reports & Graph Views",
+          "page": 1
+        },
+        {
+          "number": "8.1",
+          "title": "Incoming Job Request",
+          "page": 1
+        },
+        {
+          "number": "8.2",
+          "title": "Picking up Passenger (Arrival)",
+          "page": 1
+        },
+        {
+          "number": "8.3",
+          "title": "Waiting for Passenger",
+          "page": 2
+        },
+        {
+          "number": "8.4",
+          "title": "Trip in Progress",
+          "page": 2
+        },
+        {
+          "number": "8.5",
+          "title": "Fare Calculator & Summary",
+          "page": 2
+        },
+        {
+          "number": "8.6",
+          "title": "Completing Payments (Cash/Card)",
+          "page": 2
+        },
+        {
+          "number": "9.1",
+          "title": "Editing Profile Details",
+          "page": 2
+        },
+        {
+          "number": "9.2",
+          "title": "Change Password",
+          "page": 2
+        },
+        {
+          "number": "9.3",
+          "title": "Account Deletion",
+          "page": 2
+        },
+        {
+          "number": "9.4",
+          "title": "Language Configurations",
+          "page": 2
+        },
+        {
+          "number": "9.5",
+          "title": "Referral Program (Invite Friends)",
+          "page": 2
+        }
+      ],
+      "numbered_headings": [
+        {
+          "number": "2.1",
+          "title": "Mobile App Registration",
+          "page": 1
+        },
+        {
+          "number": "2.2",
+          "title": "Web Portal Registration",
+          "page": 1
+        },
+        {
+          "number": "2.3",
+          "title": "Data Consent & Security (Store & Secure)",
+          "page": 1
+        },
+        {
+          "number": "4.1",
+          "title": "Online/Offline Shift Toggle",
+          "page": 1
+        },
+        {
+          "number": "4.2",
+          "title": "SOS / Emergency Button",
+          "page": 1
+        },
+        {
+          "number": "4.3",
+          "title": "Main Navigation Menu",
+          "page": 1
+        },
+        {
+          "number": "5.1",
+          "title": "Registering a Vehicle (Add Fleet)",
+          "page": 1
+        },
+        {
+          "number": "5.2",
+          "title": "Vehicle Overview (My Fleet)",
+          "page": 1
+        },
+        {
+          "number": "6.1",
+          "title": "Wallet Balance & Recharge",
+          "page": 1
+        },
+        {
+          "number": "6.2",
+          "title": "Withdrawal Requests",
+          "page": 1
+        },
+        {
+          "number": "6.3",
+          "title": "Settlement Requests",
+          "page": 1
+        },
+        {
+          "number": "6.4",
+          "title": "Earnings Reports & Graph Views",
+          "page": 1
+        },
+        {
+          "number": "8.1",
+          "title": "Incoming Job Request",
+          "page": 1
+        },
+        {
+          "number": "8.2",
+          "title": "Picking up Passenger (Arrival)",
+          "page": 1
+        },
+        {
+          "number": "8.3",
+          "title": "Waiting for Passenger",
+          "page": 2
+        },
+        {
+          "number": "8.4",
+          "title": "Trip in Progress",
+          "page": 2
+        },
+        {
+          "number": "8.5",
+          "title": "Fare Calculator & Summary",
+          "page": 2
+        },
+        {
+          "number": "8.6",
+          "title": "Completing Payments (Cash/Card)",
+          "page": 2
+        },
+        {
+          "number": "9.1",
+          "title": "Editing Profile Details",
+          "page": 2
+        },
+        {
+          "number": "9.2",
+          "title": "Change Password",
+          "page": 2
+        },
+        {
+          "number": "9.3",
+          "title": "Account Deletion",
+          "page": 2
+        },
+        {
+          "number": "9.4",
+          "title": "Language Configurations",
+          "page": 2
+        },
+        {
+          "number": "9.5",
+          "title": "Referral Program (Invite Friends)",
+          "page": 2
+        }
+      ],
+      "first_page_snippet": "MiTaxiApp DRIVER APP USER GUIDE \n\u200b\n \nTABLE OF CONTENTS \n1. Introduction \n2. Getting Started & Registration \n2.1 Mobile App Registration \n2.2 Web Portal Registration \n2.3 Data Consent & Security (Store & Secure) \n3. Signing In & Account Setup \n4. Home Dashboard \n4.1 Online/Offline Shift Toggle \n4.2 SOS / Emergency Button \n4.3 Main Navigation Menu \n5. Fleet & Vehicle Management \n5.1 Registering a Vehicle (Add Fleet) \n5.2 Vehicle Overview (My Fleet) \n6. Earnings & Financial Management \n6.1 Wallet B",
+      "last_page_snippet": "to Settings and tap Delete Account. Confirm \nthe action, and your account will be permanently deactivated from MiTaxiApp systems in \naccordance with data policy compliance. \n \n9.4 Language Configurations \nThe MiTaxiApp Driver App supports localization. Go to Settings, tap Languages, and select \nyour preferred language. The app interface elements and dialog text will automatically load \nthe selected translation. \n \n9.5 Referral Program (Invite Friends) \nUnder the Invite Friends menu, drivers can share their unique referral code: \nSelect share channels: SMS, Email, Facebook, WhatsApp, or Twitter. \nWhen a new driver downloads the app and signs up using your referral code, both you and \nthe new driver receive a referral bonus in your wallet after they successfully complete their \nfirst trip. \n",
+      "total_lines": 241,
+      "file": "MiTaxiApp_Driver_Document.docx .pdf"
+    },
+    "driver_platform": {
+      "pages": 24,
+      "headings": [
+        {
+          "number": "2.1",
+          "title": "Mobile App Registration",
+          "page": 2
+        },
+        {
+          "number": "2.2",
+          "title": "Driver Registration in Web",
+          "page": 2
+        },
+        {
+          "number": "4.1",
+          "title": "Online/Offline Mode",
+          "page": 2
+        },
+        {
+          "number": "4.2",
+          "title": "Emergency Button",
+          "page": 2
+        },
+        {
+          "number": "4.3",
+          "title": "Trip History",
+          "page": 2
+        },
+        {
+          "number": "5.1",
+          "title": "Recharge",
+          "page": 2
+        },
+        {
+          "number": "5.2",
+          "title": "Withdrawal requests",
+          "page": 2
+        },
+        {
+          "number": "5.3",
+          "title": "Settlement",
+          "page": 2
+        },
+        {
+          "number": "6.1",
+          "title": "Invite Friends",
+          "page": 2
+        },
+        {
+          "number": "6.2",
+          "title": "Commission and Subscription",
+          "page": 2
+        },
+        {
+          "number": "9.1",
+          "title": "Picking up Passenger",
+          "page": 2
+        },
+        {
+          "number": "9.2",
+          "title": "Waiting for Passenger",
+          "page": 2
+        },
+        {
+          "number": "9.3",
+          "title": "Trip in Progress",
+          "page": 2
+        },
+        {
+          "number": "9.4",
+          "title": "Fare Calculator",
+          "page": 2
+        }
+      ],
+      "numbered_headings": [
+        {
+          "number": "2.1",
+          "title": "Mobile App Registration",
+          "page": 2
+        },
+        {
+          "number": "2.2",
+          "title": "Driver Registration in Web",
+          "page": 2
+        },
+        {
+          "number": "4.1",
+          "title": "Online/Offline Mode",
+          "page": 2
+        },
+        {
+          "number": "4.2",
+          "title": "Emergency Button",
+          "page": 2
+        },
+        {
+          "number": "4.3",
+          "title": "Trip History",
+          "page": 2
+        },
+        {
+          "number": "5.1",
+          "title": "Recharge",
+          "page": 2
+        },
+        {
+          "number": "5.2",
+          "title": "Withdrawal requests",
+          "page": 2
+        },
+        {
+          "number": "5.3",
+          "title": "Settlement",
+          "page": 2
+        },
+        {
+          "number": "6.1",
+          "title": "Invite Friends",
+          "page": 2
+        },
+        {
+          "number": "6.2",
+          "title": "Commission and Subscription",
+          "page": 2
+        },
+        {
+          "number": "9.1",
+          "title": "Picking up Passenger",
+          "page": 2
+        },
+        {
+          "number": "9.2",
+          "title": "Waiting for Passenger",
+          "page": 2
+        },
+        {
+          "number": "9.3",
+          "title": "Trip in Progress",
+          "page": 2
+        },
+        {
+          "number": "9.4",
+          "title": "Fare Calculator",
+          "page": 2
+        }
+      ],
+      "first_page_snippet": " \n \n \n \n \n \n \n \n \nUSER MANUAL FOR DRIVER APP \n                                                              Prepared By\u200b: TaxiMobility \n                                                                      Version\u200b: 9.0 \n \n \u200bPage 1\u200b of\u200b 24 \n \n",
+      "last_page_snippet": " \n \nTaxiMobility Driver App \u2013 V 9.0 \nOnce the payment is confirmed, both drivers and passengers receive notifications and a unique trip id is\n \n \n \n \n \n \n \n \n \n \n \n  \n \n \n  \ncreated for the ride completed.  \n \n \n \n \n \n \n \n \n \n\u00a92019 \u200bwww.taximobility.com \nAll rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, \nincluding photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the \npublisher. \n \u200bPage 24\u200b of\u200b 24 \n \n \n",
+      "total_lines": 240,
+      "file": "TaxiMobility_Driver_Application.pdf"
+    },
+    "passenger_mitaxi": {
+      "pages": 12,
+      "headings": [
+        {
+          "number": "2.1",
+          "title": "Mobile App Registration & Verification",
+          "page": 1
+        },
+        {
+          "number": "2.2",
+          "title": "Web Portal Registration & Credit Cards",
+          "page": 1
+        },
+        {
+          "number": "2.3",
+          "title": "Data Consent, Privacy, & Security (Store & Secure)",
+          "page": 1
+        },
+        {
+          "number": "3.1",
+          "title": "Local/Normal Taxi Booking",
+          "page": 1
+        },
+        {
+          "number": "3.2",
+          "title": "Scheduling Rides (Book Later)",
+          "page": 1
+        },
+        {
+          "number": "3.3",
+          "title": "Vehicle Categories & Fare Estimation",
+          "page": 1
+        },
+        {
+          "number": "4.1",
+          "title": "Multi-Stop Booking (Adding Stops)",
+          "page": 1
+        },
+        {
+          "number": "4.2",
+          "title": "Split Fare with Friends",
+          "page": 1
+        },
+        {
+          "number": "5.1",
+          "title": "Rental Package (Long Hire)",
+          "page": 1
+        },
+        {
+          "number": "5.2",
+          "title": "Outstation (Intercity Travel)",
+          "page": 1
+        },
+        {
+          "number": "6.1",
+          "title": "Airport Pick-ups & Drop-offs (Flight/Gate/Luggage)",
+          "page": 1
+        },
+        {
+          "number": "6.2",
+          "title": "Corporate/Business Account Bookings",
+          "page": 1
+        },
+        {
+          "number": "7.1",
+          "title": "Real-Time Route & Driver Tracking",
+          "page": 1
+        },
+        {
+          "number": "7.2",
+          "title": "In-App Passenger-Driver Chat & Calls",
+          "page": 1
+        },
+        {
+          "number": "7.3",
+          "title": "Ride Cancellations & Penalty Rules",
+          "page": 1
+        },
+        {
+          "number": "8.1",
+          "title": "E-Receipts & Detailed Fare Breakdowns",
+          "page": 2
+        },
+        {
+          "number": "8.2",
+          "title": "Driver Ratings & Quality Feedback",
+          "page": 2
+        },
+        {
+          "number": "9.1",
+          "title": "Wallet Recharge & Payment Gateways (Stripe, Braintree, PayPal)",
+          "page": 2
+        },
+        {
+          "number": "9.2",
+          "title": "Promo Codes & Referrals (Invite Friends)",
+          "page": 2
+        },
+        {
+          "number": "10.1",
+          "title": "Favorite Places & Favorite Drivers",
+          "page": 2
+        },
+        {
+          "number": "10.2",
+          "title": "Emergency Contacts & SOS System",
+          "page": 2
+        },
+        {
+          "number": "11.1",
+          "title": "Profile Editing & Password Updates",
+          "page": 2
+        },
+        {
+          "number": "11.2",
+          "title": "Account Deactivation & Deletion",
+          "page": 2
+        },
+        {
+          "number": "11.3",
+          "title": "Log Out & Session Management",
+          "page": 2
+        },
+        {
+          "number": "6.1",
+          "title": "Airport Pick-ups & Drop-offs",
+          "page": 8
+        },
+        {
+          "number": "9.1",
+          "title": "Wallet Recharge & Payment Gateways",
+          "page": 10
+        }
+      ],
+      "numbered_headings": [
+        {
+          "number": "2.1",
+          "title": "Mobile App Registration & Verification",
+          "page": 1
+        },
+        {
+          "number": "2.2",
+          "title": "Web Portal Registration & Credit Cards",
+          "page": 1
+        },
+        {
+          "number": "2.3",
+          "title": "Data Consent, Privacy, & Security (Store & Secure)",
+          "page": 1
+        },
+        {
+          "number": "3.1",
+          "title": "Local/Normal Taxi Booking",
+          "page": 1
+        },
+        {
+          "number": "3.2",
+          "title": "Scheduling Rides (Book Later)",
+          "page": 1
+        },
+        {
+          "number": "3.3",
+          "title": "Vehicle Categories & Fare Estimation",
+          "page": 1
+        },
+        {
+          "number": "4.1",
+          "title": "Multi-Stop Booking (Adding Stops)",
+          "page": 1
+        },
+        {
+          "number": "4.2",
+          "title": "Split Fare with Friends",
+          "page": 1
+        },
+        {
+          "number": "5.1",
+          "title": "Rental Package (Long Hire)",
+          "page": 1
+        },
+        {
+          "number": "5.2",
+          "title": "Outstation (Intercity Travel)",
+          "page": 1
+        },
+        {
+          "number": "6.1",
+          "title": "Airport Pick-ups & Drop-offs (Flight/Gate/Luggage)",
+          "page": 1
+        },
+        {
+          "number": "6.2",
+          "title": "Corporate/Business Account Bookings",
+          "page": 1
+        },
+        {
+          "number": "7.1",
+          "title": "Real-Time Route & Driver Tracking",
+          "page": 1
+        },
+        {
+          "number": "7.2",
+          "title": "In-App Passenger-Driver Chat & Calls",
+          "page": 1
+        },
+        {
+          "number": "7.3",
+          "title": "Ride Cancellations & Penalty Rules",
+          "page": 1
+        },
+        {
+          "number": "8.1",
+          "title": "E-Receipts & Detailed Fare Breakdowns",
+          "page": 2
+        },
+        {
+          "number": "8.2",
+          "title": "Driver Ratings & Quality Feedback",
+          "page": 2
+        },
+        {
+          "number": "9.1",
+          "title": "Wallet Recharge & Payment Gateways (Stripe, Braintree, PayPal)",
+          "page": 2
+        },
+        {
+          "number": "9.2",
+          "title": "Promo Codes & Referrals (Invite Friends)",
+          "page": 2
+        },
+        {
+          "number": "10.1",
+          "title": "Favorite Places & Favorite Drivers",
+          "page": 2
+        },
+        {
+          "number": "10.2",
+          "title": "Emergency Contacts & SOS System",
+          "page": 2
+        },
+        {
+          "number": "11.1",
+          "title": "Profile Editing & Password Updates",
+          "page": 2
+        },
+        {
+          "number": "11.2",
+          "title": "Account Deactivation & Deletion",
+          "page": 2
+        },
+        {
+          "number": "11.3",
+          "title": "Log Out & Session Management",
+          "page": 2
+        },
+        {
+          "number": "6.1",
+          "title": "Airport Pick-ups & Drop-offs",
+          "page": 8
+        },
+        {
+          "number": "9.1",
+          "title": "Wallet Recharge & Payment Gateways",
+          "page": 10
+        }
+      ],
+      "first_page_snippet": "MiTaxiApp PASSENGER APP USER GUIDE \n\u200b\n \nTABLE OF CONTENTS \nIntroduction \nGetting Started & Registration \n2.1 Mobile App Registration & Verification \n2.2 Web Portal Registration & Credit Cards \n2.3 Data Consent, Privacy, & Security (Store & Secure) \nCore Booking Module \n3.1 Local/Normal Taxi Booking \n3.2 Scheduling Rides (Book Later) \n3.3 Vehicle Categories & Fare Estimation \nAdvanced Booking Features \n4.1 Multi-Stop Booking (Adding Stops) \n4.2 Split Fare with Friends \nSpecialized Travel Packages",
+      "last_page_snippet": "Password Updates: Securely change account passwords by verifying the old password \nbefore setting and confirming a new one. \n \n11.2 Account Deactivation & Deletion \nUnder privacy settings, passengers can delete their profile: \nAccount Deletion Request: Selecting \"Delete Account\" initiates the account termination \nworkflow. \nVerification: The user must enter their account password to confirm the deactivation \nrequest, preventing accidental or unauthorized deletions. \n \n11.3 Log Out & Session Management \nLogging Out: Tap \"Logout\" at the bottom of the navigation drawer. \nSession Clearing: Confirming deactivates the user session on the server and clears locally \ncached tokens, returning the user to the Sign In screen. \n",
+      "total_lines": 299,
+      "file": "MiTaxiApp_Passenger_Document.docx.pdf"
+    },
+    "passenger_platform": {
+      "pages": 28,
+      "headings": [
+        {
+          "number": "2.1",
+          "title": "Mobile Number Registration",
+          "page": 2
+        },
+        {
+          "number": "2.2",
+          "title": "Facebook Registration",
+          "page": 2
+        },
+        {
+          "number": "4.1",
+          "title": "Edit Profile",
+          "page": 2
+        },
+        {
+          "number": "4.2",
+          "title": "Booking Request",
+          "page": 2
+        },
+        {
+          "number": "4.3",
+          "title": "Applying Promo Code",
+          "page": 2
+        },
+        {
+          "number": "4.4",
+          "title": "Payment Mode",
+          "page": 2
+        },
+        {
+          "number": "4.5",
+          "title": "Package Plans",
+          "page": 2
+        },
+        {
+          "number": "4.6",
+          "title": "Booking Confirmation",
+          "page": 2
+        },
+        {
+          "number": "4.7",
+          "title": "Emergency Button",
+          "page": 2
+        },
+        {
+          "number": "4.8",
+          "title": "Trip in Progress",
+          "page": 2
+        },
+        {
+          "number": "4.9",
+          "title": "E-receipts, Rating, and Social Media Sharing",
+          "page": 2
+        },
+        {
+          "number": "5.1",
+          "title": "Upcoming Rides",
+          "page": 2
+        },
+        {
+          "number": "5.2",
+          "title": "Past Bookings",
+          "page": 2
+        },
+        {
+          "number": "6.1",
+          "title": "Add New Card",
+          "page": 2
+        }
+      ],
+      "numbered_headings": [
+        {
+          "number": "2.1",
+          "title": "Mobile Number Registration",
+          "page": 2
+        },
+        {
+          "number": "2.2",
+          "title": "Facebook Registration",
+          "page": 2
+        },
+        {
+          "number": "4.1",
+          "title": "Edit Profile",
+          "page": 2
+        },
+        {
+          "number": "4.2",
+          "title": "Booking Request",
+          "page": 2
+        },
+        {
+          "number": "4.3",
+          "title": "Applying Promo Code",
+          "page": 2
+        },
+        {
+          "number": "4.4",
+          "title": "Payment Mode",
+          "page": 2
+        },
+        {
+          "number": "4.5",
+          "title": "Package Plans",
+          "page": 2
+        },
+        {
+          "number": "4.6",
+          "title": "Booking Confirmation",
+          "page": 2
+        },
+        {
+          "number": "4.7",
+          "title": "Emergency Button",
+          "page": 2
+        },
+        {
+          "number": "4.8",
+          "title": "Trip in Progress",
+          "page": 2
+        },
+        {
+          "number": "4.9",
+          "title": "E-receipts, Rating, and Social Media Sharing",
+          "page": 2
+        },
+        {
+          "number": "5.1",
+          "title": "Upcoming Rides",
+          "page": 2
+        },
+        {
+          "number": "5.2",
+          "title": "Past Bookings",
+          "page": 2
+        },
+        {
+          "number": "6.1",
+          "title": "Add New Card",
+          "page": 2
+        }
+      ],
+      "first_page_snippet": " \n \n \n \n \n \n \n \n \n \n \nUSER MANUAL FOR PASSENGER APP \nPrepared by\u200b: TaxiMobility \nVersion\u200b: 9.0 \n \n \nPage 1\u200b of\u200b 28 \n \n",
+      "last_page_snippet": "p \u2013 V 9.0 \n13. About Us\n \n \nThe About Us page provides an overview of the\n \n \n \n \n \n \n \n \n \napplication, and it also extends to passengers links\n \n  \n \n \n \n \n \nto the application through social networking sites\n \n \n \n \n \n \n \nsuch as Facebook and Twitter allowing them to post\n \n \n \n \n \n \n \n \n \ncomments and share feedback on the rides they\n \n \n \n \n \n \n \n \nundertake. It further provides a brief account of the\n  \n \n  \n \n \n \n \nterms and conditions, and the privacy policy. \n \n \n \n \n \n \n \n \n \n\u00a92019 \u200bwww.taximobility.com \nAll rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, \nincluding photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the \npublisher. \nPage 28\u200b of\u200b 28 \n \n",
+      "total_lines": 271,
+      "file": "TaxiMobility_Customer_Application.pdf"
+    },
+    "admin": {
+      "pages": 84,
+      "headings": [
+        {
+          "number": "12.2",
+          "title": "Map Settings 71 12.3 Map API Keys 72 12.4 Manage Contacts 73 12.5 SMTP Mail Settings 74 12.6",
+          "page": 2
+        },
+        {
+          "number": "12.10",
+          "title": "Manage Popular Places 78 12.11 Manage CMS 79 12.12 Manage City 80 11.13 Manage State 82",
+          "page": 2
+        },
+        {
+          "number": "12.14",
+          "title": "Manage Country 84 12.15 Manage Theme Settings 84 12.16 Payments 89 12.17 Cloud Settings",
+          "page": 2
+        },
+        {
+          "number": "3.1",
+          "title": "Tour",
+          "page": 7
+        },
+        {
+          "number": "4.1",
+          "title": "Dashboard",
+          "page": 8
+        },
+        {
+          "number": "4.2",
+          "title": "Fleet Management",
+          "page": 10
+        },
+        {
+          "number": "4.3",
+          "title": "Workforce",
+          "page": 23
+        },
+        {
+          "number": "32",
+          "title": "of 96",
+          "page": 32
+        },
+        {
+          "number": "5.1",
+          "title": "Dashboard",
+          "page": 33
+        },
+        {
+          "number": "5.2",
+          "title": "Dispatch",
+          "page": 37
+        },
+        {
+          "number": "5.3",
+          "title": "Manage Bookings",
+          "page": 39
+        },
+        {
+          "number": "5.4",
+          "title": "Fleet Dispatch Settings",
+          "page": 40
+        },
+        {
+          "number": "6.1",
+          "title": "Dashboard",
+          "page": 41
+        },
+        {
+          "number": "6.2",
+          "title": "Transactions",
+          "page": 45
+        },
+        {
+          "number": "6.3",
+          "title": "Expense Management",
+          "page": 45
+        },
+        {
+          "number": "7.1",
+          "title": "Dashboard",
+          "page": 48
+        },
+        {
+          "number": "7.2",
+          "title": "Campaigns",
+          "page": 49
+        },
+        {
+          "number": "7.3",
+          "title": "Templates",
+          "page": 51
+        },
+        {
+          "number": "7.4",
+          "title": "Consumers",
+          "page": 52
+        },
+        {
+          "number": "8.1",
+          "title": "Dashboard",
+          "page": 56
+        },
+        {
+          "number": "8.2",
+          "title": "Reports",
+          "page": 57
+        },
+        {
+          "number": "9.1",
+          "title": "Payable",
+          "page": 62
+        },
+        {
+          "number": "9.2",
+          "title": "Settlement Request",
+          "page": 65
+        },
+        {
+          "number": "9.3",
+          "title": "Settlement History",
+          "page": 65
+        },
+        {
+          "number": "11.1",
+          "title": "SOS History",
+          "page": 71
+        },
+        {
+          "number": "12.1",
+          "title": "Site Settings",
+          "page": 72
+        },
+        {
+          "number": "5",
+          "title": "and the maximum is 150.",
+          "page": 73
+        },
+        {
+          "number": "12.2",
+          "title": "Map Settings",
+          "page": 74
+        },
+        {
+          "number": "12.3",
+          "title": "Map API Keys",
+          "page": 75
+        },
+        {
+          "number": "12.4",
+          "title": "Manage Contacts",
+          "page": 77
+        },
+        {
+          "number": "12.5",
+          "title": "SMTP Mail Settings",
+          "page": 78
+        },
+        {
+          "number": "12.6",
+          "title": "Email Templates",
+          "page": 79
+        },
+        {
+          "number": "12.7",
+          "title": "SMS Settings",
+          "page": 80
+        },
+        {
+          "number": "12.8",
+          "title": "SMS Templates",
+          "page": 81
+        },
+        {
+          "number": "12.9",
+          "title": "Social Network Settings",
+          "page": 82
+        },
+        {
+          "number": "12.10",
+          "title": "Manage Popular Places",
+          "page": 82
+        },
+        {
+          "number": "12.11",
+          "title": "Manage CMS",
+          "page": 83
+        },
+        {
+          "number": "12.12",
+          "title": "Manage City",
+          "page": 84
+        }
+      ],
+      "numbered_headings": [
+        {
+          "number": "12.2",
+          "title": "Map Settings 71 12.3 Map API Keys 72 12.4 Manage Contacts 73 12.5 SMTP Mail Settings 74 12.6",
+          "page": 2
+        },
+        {
+          "number": "12.10",
+          "title": "Manage Popular Places 78 12.11 Manage CMS 79 12.12 Manage City 80 11.13 Manage State 82",
+          "page": 2
+        },
+        {
+          "number": "12.14",
+          "title": "Manage Country 84 12.15 Manage Theme Settings 84 12.16 Payments 89 12.17 Cloud Settings",
+          "page": 2
+        },
+        {
+          "number": "3.1",
+          "title": "Tour",
+          "page": 7
+        },
+        {
+          "number": "4.1",
+          "title": "Dashboard",
+          "page": 8
+        },
+        {
+          "number": "4.2",
+          "title": "Fleet Management",
+          "page": 10
+        },
+        {
+          "number": "4.3",
+          "title": "Workforce",
+          "page": 23
+        },
+        {
+          "number": "32",
+          "title": "of 96",
+          "page": 32
+        },
+        {
+          "number": "5.1",
+          "title": "Dashboard",
+          "page": 33
+        },
+        {
+          "number": "5.2",
+          "title": "Dispatch",
+          "page": 37
+        },
+        {
+          "number": "5.3",
+          "title": "Manage Bookings",
+          "page": 39
+        },
+        {
+          "number": "5.4",
+          "title": "Fleet Dispatch Settings",
+          "page": 40
+        },
+        {
+          "number": "6.1",
+          "title": "Dashboard",
+          "page": 41
+        },
+        {
+          "number": "6.2",
+          "title": "Transactions",
+          "page": 45
+        },
+        {
+          "number": "6.3",
+          "title": "Expense Management",
+          "page": 45
+        },
+        {
+          "number": "7.1",
+          "title": "Dashboard",
+          "page": 48
+        },
+        {
+          "number": "7.2",
+          "title": "Campaigns",
+          "page": 49
+        },
+        {
+          "number": "7.3",
+          "title": "Templates",
+          "page": 51
+        },
+        {
+          "number": "7.4",
+          "title": "Consumers",
+          "page": 52
+        },
+        {
+          "number": "8.1",
+          "title": "Dashboard",
+          "page": 56
+        },
+        {
+          "number": "8.2",
+          "title": "Reports",
+          "page": 57
+        },
+        {
+          "number": "9.1",
+          "title": "Payable",
+          "page": 62
+        },
+        {
+          "number": "9.2",
+          "title": "Settlement Request",
+          "page": 65
+        },
+        {
+          "number": "9.3",
+          "title": "Settlement History",
+          "page": 65
+        },
+        {
+          "number": "11.1",
+          "title": "SOS History",
+          "page": 71
+        },
+        {
+          "number": "12.1",
+          "title": "Site Settings",
+          "page": 72
+        },
+        {
+          "number": "5",
+          "title": "and the maximum is 150.",
+          "page": 73
+        },
+        {
+          "number": "12.2",
+          "title": "Map Settings",
+          "page": 74
+        },
+        {
+          "number": "12.3",
+          "title": "Map API Keys",
+          "page": 75
+        },
+        {
+          "number": "12.4",
+          "title": "Manage Contacts",
+          "page": 77
+        },
+        {
+          "number": "12.5",
+          "title": "SMTP Mail Settings",
+          "page": 78
+        },
+        {
+          "number": "12.6",
+          "title": "Email Templates",
+          "page": 79
+        },
+        {
+          "number": "12.7",
+          "title": "SMS Settings",
+          "page": 80
+        },
+        {
+          "number": "12.8",
+          "title": "SMS Templates",
+          "page": 81
+        },
+        {
+          "number": "12.9",
+          "title": "Social Network Settings",
+          "page": 82
+        },
+        {
+          "number": "12.10",
+          "title": "Manage Popular Places",
+          "page": 82
+        },
+        {
+          "number": "12.11",
+          "title": "Manage CMS",
+          "page": 83
+        },
+        {
+          "number": "12.12",
+          "title": "Manage City",
+          "page": 84
+        }
+      ],
+      "first_page_snippet": " \nUSER MANUAL FOR ADMIN PANEL  \nPrepared by: TaxiMobility  \nVersion: 9.0  \nPage 1 of 96 \n \nTaxiMobility Admin Panel \u2013 V 9.0  \nTABLE OF CONTENTS  \n1. Introduction 4 2. Login 4  \n3. Dashboard 4 3.1 Tour 8  \n4. Fleet Tracking 9 4.1 Dashboard 9 4.2 Fleet Management 11 4.3 Workforce 23  \n5. Dispatcher 33 5.1 Dashboard 33 5.2 Dispatch 37 5.3 Manage Bookings 38 5.4 Fleet Dispatch Settings 40  \n6. Revenue 41 6.1 Dashboard 41 6.2 Transactions 44 6.3 Expense Management 44  \n7. Marketing 47 7.1 Dashboard 4",
+      "last_page_snippet": "By clicking on the name of the content, you can view the content inside every topic. \n \nContent can also be edited by clicking on the \u201cEdit\u201d icon in the \u201cAction\u201d column. This option can be used to \nformulate contents furnishing details on the menu with meta title, keywords, and description.  \n12.12 Manage City  \nThis page displays the list of cities and its details including the fare percentage. If you want to change the \ndefault city, enable the city of your choice and click on the \u201cUpdate\u201d button in the bottom-right corner to \nsave changes.  \nPage 80 of 96 \n \n",
+      "total_lines": 830,
+      "file": "TaxiMobility_Admin Panel_V 90 (2)_260706_215135.pdf"
+    },
+    "dispatcher": {
+      "pages": 24,
+      "headings": [
+        {
+          "number": "3.1",
+          "title": "Current Status of Driver",
+          "page": 2
+        },
+        {
+          "number": "3.2",
+          "title": "Total Trip Details",
+          "page": 2
+        },
+        {
+          "number": "3.3",
+          "title": "Transactions",
+          "page": 2
+        },
+        {
+          "number": "3.4",
+          "title": "Available Fleets",
+          "page": 2
+        },
+        {
+          "number": "4.1",
+          "title": "Dashboard",
+          "page": 2
+        },
+        {
+          "number": "4.2",
+          "title": "Dispatch",
+          "page": 2
+        },
+        {
+          "number": "4.3",
+          "title": "Fleet dispatch settings",
+          "page": 2
+        },
+        {
+          "number": "5.1",
+          "title": "Dashboard",
+          "page": 2
+        },
+        {
+          "number": "5.2",
+          "title": "Track",
+          "page": 2
+        },
+        {
+          "number": "5.3",
+          "title": "Fleet Management",
+          "page": 2
+        },
+        {
+          "number": "5.4",
+          "title": "Workforce",
+          "page": 2
+        },
+        {
+          "number": "6.1",
+          "title": "Dashboard",
+          "page": 2
+        },
+        {
+          "number": "6.2",
+          "title": "Reports",
+          "page": 2
+        }
+      ],
+      "numbered_headings": [
+        {
+          "number": "3.1",
+          "title": "Current Status of Driver",
+          "page": 2
+        },
+        {
+          "number": "3.2",
+          "title": "Total Trip Details",
+          "page": 2
+        },
+        {
+          "number": "3.3",
+          "title": "Transactions",
+          "page": 2
+        },
+        {
+          "number": "3.4",
+          "title": "Available Fleets",
+          "page": 2
+        },
+        {
+          "number": "4.1",
+          "title": "Dashboard",
+          "page": 2
+        },
+        {
+          "number": "4.2",
+          "title": "Dispatch",
+          "page": 2
+        },
+        {
+          "number": "4.3",
+          "title": "Fleet dispatch settings",
+          "page": 2
+        },
+        {
+          "number": "5.1",
+          "title": "Dashboard",
+          "page": 2
+        },
+        {
+          "number": "5.2",
+          "title": "Track",
+          "page": 2
+        },
+        {
+          "number": "5.3",
+          "title": "Fleet Management",
+          "page": 2
+        },
+        {
+          "number": "5.4",
+          "title": "Workforce",
+          "page": 2
+        },
+        {
+          "number": "6.1",
+          "title": "Dashboard",
+          "page": 2
+        },
+        {
+          "number": "6.2",
+          "title": "Reports",
+          "page": 2
+        }
+      ],
+      "first_page_snippet": " \n \n \n \n \n \n \n      \n \n  \n         USER MANUAL FOR DISPATCHER \n                                                                Prepared by\u200b: TaxiMobility \n                                                                            Version\u200b: 9.0 \n \n \nPage 1\u200b of\u200b 24 \n \n",
+      "last_page_snippet": " \n \nTaxiMobility Dispatcher \u2013 V 9.0 \n \n \nOn clicking the photo of the driver, dispatcher can view a more elaborate information on the particular driver\n \n \n \n \n \n \n \n \n \n  \n \n \n \n \n \n \n \nas given below. \n \n \n \n \n \n \n \n \n \n \n \n \n \n\u00a92019 \u200bwww.taximobility.com  \n \nAll rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or \nby any means, including photocopying, recording, or other electronic or mechanical methods, without the \nprior written permission of the publisher. \n                            \u200bPage 24\u200b of\u200b 24 \n \n",
+      "total_lines": 261,
+      "file": "TaxiMobility_Dispatch.pdf"
+    },
+    "vendor": {
+      "pages": 33,
+      "headings": [
+        {
+          "number": "4.1",
+          "title": "Dashboard",
+          "page": 2
+        },
+        {
+          "number": "4.2",
+          "title": "Track",
+          "page": 2
+        },
+        {
+          "number": "4.3",
+          "title": "Fleet Management",
+          "page": 2
+        },
+        {
+          "number": "4.4",
+          "title": "Workforce",
+          "page": 2
+        },
+        {
+          "number": "5.1",
+          "title": "Dashboard",
+          "page": 2
+        },
+        {
+          "number": "5.2",
+          "title": "Dispatch",
+          "page": 2
+        },
+        {
+          "number": "5.3",
+          "title": "Fleet dispatch settings",
+          "page": 2
+        },
+        {
+          "number": "6.1",
+          "title": "Dashboard",
+          "page": 2
+        },
+        {
+          "number": "6.2",
+          "title": "Transactions",
+          "page": 2
+        },
+        {
+          "number": "6.3",
+          "title": "Withdrawal requests",
+          "page": 2
+        },
+        {
+          "number": "7.1",
+          "title": "Dashboard",
+          "page": 2
+        },
+        {
+          "number": "7.2",
+          "title": "Reports",
+          "page": 2
+        },
+        {
+          "number": "8.1",
+          "title": "Company settings",
+          "page": 2
+        },
+        {
+          "number": "8",
+          "title": "KM).",
+          "page": 11
+        }
+      ],
+      "numbered_headings": [
+        {
+          "number": "4.1",
+          "title": "Dashboard",
+          "page": 2
+        },
+        {
+          "number": "4.2",
+          "title": "Track",
+          "page": 2
+        },
+        {
+          "number": "4.3",
+          "title": "Fleet Management",
+          "page": 2
+        },
+        {
+          "number": "4.4",
+          "title": "Workforce",
+          "page": 2
+        },
+        {
+          "number": "5.1",
+          "title": "Dashboard",
+          "page": 2
+        },
+        {
+          "number": "5.2",
+          "title": "Dispatch",
+          "page": 2
+        },
+        {
+          "number": "5.3",
+          "title": "Fleet dispatch settings",
+          "page": 2
+        },
+        {
+          "number": "6.1",
+          "title": "Dashboard",
+          "page": 2
+        },
+        {
+          "number": "6.2",
+          "title": "Transactions",
+          "page": 2
+        },
+        {
+          "number": "6.3",
+          "title": "Withdrawal requests",
+          "page": 2
+        },
+        {
+          "number": "7.1",
+          "title": "Dashboard",
+          "page": 2
+        },
+        {
+          "number": "7.2",
+          "title": "Reports",
+          "page": 2
+        },
+        {
+          "number": "8.1",
+          "title": "Company settings",
+          "page": 2
+        },
+        {
+          "number": "8",
+          "title": "KM).",
+          "page": 11
+        }
+      ],
+      "first_page_snippet": " \n \n \n \n \n \n \n \n     \n \n \nUSER MANUAL FOR COMPANY \n                                                                Prepared by\u200b: TaxiMobility \n                                                                            Version\u200b: 9.0 \n \n \nPage 1\u200b of\u200b 33 \n \n",
+      "last_page_snippet": "info\ncan also be included\n \n \n \n \n \n \nhere. Based on whether it is \u200bAdmin \u200bor\n \n \n \n  \n \n \n \nCompany \u200bthat is selected in the Admin\n \n \n \n \n \n \n \nback-end, the\ntax, cancellation fee, fare\n \n \n \n \n \n \ncalculation and driver commission are\n \n \n \n \n \nfixed\neither\nby\nAdmin\nor\nCompany,\n \n \n \n \n \n \nrespectively. If it is enabled as \u201cAdmin\u201d,\n   \n \n \n \n \nthe\nfares\ncannot\nbe\nmodified\nby\n \n \n \n \n \n \nCompany.  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\u00a92019 \u200bwww.taximobility.com \nAll rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, \nincluding photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the \npublisher. \n                            \u200bPage 33\u200b of\u200b 33 \n \n",
+      "total_lines": 477,
+      "file": "TaxiMobility_Vendors_Manual.pdf"
+    },
+    "combined": {
+      "pages": 96,
+      "headings": [
+        {
+          "number": "3.1",
+          "title": "Tour",
+          "page": 2
+        },
+        {
+          "number": "4.1",
+          "title": "Dashboard",
+          "page": 2
+        },
+        {
+          "number": "4.2",
+          "title": "Fleet Management",
+          "page": 2
+        },
+        {
+          "number": "4.3",
+          "title": "Workforce",
+          "page": 2
+        },
+        {
+          "number": "5.1",
+          "title": "Dashboard",
+          "page": 2
+        },
+        {
+          "number": "5.2",
+          "title": "Dispatch",
+          "page": 2
+        },
+        {
+          "number": "5.3",
+          "title": "Manage Bookings",
+          "page": 2
+        },
+        {
+          "number": "5.4",
+          "title": "Fleet Dispatch Settings",
+          "page": 2
+        },
+        {
+          "number": "6.1",
+          "title": "Dashboard",
+          "page": 2
+        },
+        {
+          "number": "6.2",
+          "title": "Transactions",
+          "page": 2
+        },
+        {
+          "number": "6.3",
+          "title": "Expense Management",
+          "page": 2
+        },
+        {
+          "number": "7.1",
+          "title": "Dashboard",
+          "page": 2
+        },
+        {
+          "number": "7.2",
+          "title": "Campaigns",
+          "page": 2
+        },
+        {
+          "number": "7.3",
+          "title": "Templates",
+          "page": 2
+        },
+        {
+          "number": "7.4",
+          "title": "Consumers",
+          "page": 2
+        },
+        {
+          "number": "8.1",
+          "title": "Dashboard",
+          "page": 2
+        },
+        {
+          "number": "8.2",
+          "title": "Reports",
+          "page": 2
+        },
+        {
+          "number": "9.1",
+          "title": "Payable",
+          "page": 2
+        },
+        {
+          "number": "9.2",
+          "title": "Settlement Request",
+          "page": 2
+        },
+        {
+          "number": "9.3",
+          "title": "Settlement History",
+          "page": 2
+        },
+        {
+          "number": "11.1",
+          "title": "SOS History",
+          "page": 2
+        },
+        {
+          "number": "12.1",
+          "title": "Site Settings",
+          "page": 2
+        },
+        {
+          "number": "12.2",
+          "title": "Map Settings",
+          "page": 3
+        },
+        {
+          "number": "12.3",
+          "title": "Map API Keys",
+          "page": 3
+        },
+        {
+          "number": "12.4",
+          "title": "Manage Contacts",
+          "page": 3
+        },
+        {
+          "number": "12.5",
+          "title": "SMTP Mail Settings",
+          "page": 3
+        },
+        {
+          "number": "12.6",
+          "title": "Email Templates",
+          "page": 3
+        },
+        {
+          "number": "12.7",
+          "title": "SMS Settings",
+          "page": 3
+        },
+        {
+          "number": "12.8",
+          "title": "SMS Templates",
+          "page": 3
+        },
+        {
+          "number": "12.9",
+          "title": "Social Network Settings",
+          "page": 3
+        },
+        {
+          "number": "12.10",
+          "title": "Manage Popular Places",
+          "page": 3
+        },
+        {
+          "number": "12.11",
+          "title": "Manage CMS",
+          "page": 3
+        },
+        {
+          "number": "12.12",
+          "title": "Manage City",
+          "page": 3
+        },
+        {
+          "number": "11.13",
+          "title": "Manage State",
+          "page": 3
+        },
+        {
+          "number": "12.14",
+          "title": "Manage Country",
+          "page": 3
+        },
+        {
+          "number": "12.15",
+          "title": "Manage Theme Settings",
+          "page": 3
+        },
+        {
+          "number": "12.16",
+          "title": "Payments",
+          "page": 3
+        },
+        {
+          "number": "12.17",
+          "title": "Cloud Settings",
+          "page": 3
+        },
+        {
+          "number": "5",
+          "title": "and the maximum is 150.",
+          "page": 69
+        }
+      ],
+      "numbered_headings": [
+        {
+          "number": "3.1",
+          "title": "Tour",
+          "page": 2
+        },
+        {
+          "number": "4.1",
+          "title": "Dashboard",
+          "page": 2
+        },
+        {
+          "number": "4.2",
+          "title": "Fleet Management",
+          "page": 2
+        },
+        {
+          "number": "4.3",
+          "title": "Workforce",
+          "page": 2
+        },
+        {
+          "number": "5.1",
+          "title": "Dashboard",
+          "page": 2
+        },
+        {
+          "number": "5.2",
+          "title": "Dispatch",
+          "page": 2
+        },
+        {
+          "number": "5.3",
+          "title": "Manage Bookings",
+          "page": 2
+        },
+        {
+          "number": "5.4",
+          "title": "Fleet Dispatch Settings",
+          "page": 2
+        },
+        {
+          "number": "6.1",
+          "title": "Dashboard",
+          "page": 2
+        },
+        {
+          "number": "6.2",
+          "title": "Transactions",
+          "page": 2
+        },
+        {
+          "number": "6.3",
+          "title": "Expense Management",
+          "page": 2
+        },
+        {
+          "number": "7.1",
+          "title": "Dashboard",
+          "page": 2
+        },
+        {
+          "number": "7.2",
+          "title": "Campaigns",
+          "page": 2
+        },
+        {
+          "number": "7.3",
+          "title": "Templates",
+          "page": 2
+        },
+        {
+          "number": "7.4",
+          "title": "Consumers",
+          "page": 2
+        },
+        {
+          "number": "8.1",
+          "title": "Dashboard",
+          "page": 2
+        },
+        {
+          "number": "8.2",
+          "title": "Reports",
+          "page": 2
+        },
+        {
+          "number": "9.1",
+          "title": "Payable",
+          "page": 2
+        },
+        {
+          "number": "9.2",
+          "title": "Settlement Request",
+          "page": 2
+        },
+        {
+          "number": "9.3",
+          "title": "Settlement History",
+          "page": 2
+        },
+        {
+          "number": "11.1",
+          "title": "SOS History",
+          "page": 2
+        },
+        {
+          "number": "12.1",
+          "title": "Site Settings",
+          "page": 2
+        },
+        {
+          "number": "12.2",
+          "title": "Map Settings",
+          "page": 3
+        },
+        {
+          "number": "12.3",
+          "title": "Map API Keys",
+          "page": 3
+        },
+        {
+          "number": "12.4",
+          "title": "Manage Contacts",
+          "page": 3
+        },
+        {
+          "number": "12.5",
+          "title": "SMTP Mail Settings",
+          "page": 3
+        },
+        {
+          "number": "12.6",
+          "title": "Email Templates",
+          "page": 3
+        },
+        {
+          "number": "12.7",
+          "title": "SMS Settings",
+          "page": 3
+        },
+        {
+          "number": "12.8",
+          "title": "SMS Templates",
+          "page": 3
+        },
+        {
+          "number": "12.9",
+          "title": "Social Network Settings",
+          "page": 3
+        },
+        {
+          "number": "12.10",
+          "title": "Manage Popular Places",
+          "page": 3
+        },
+        {
+          "number": "12.11",
+          "title": "Manage CMS",
+          "page": 3
+        },
+        {
+          "number": "12.12",
+          "title": "Manage City",
+          "page": 3
+        },
+        {
+          "number": "11.13",
+          "title": "Manage State",
+          "page": 3
+        },
+        {
+          "number": "12.14",
+          "title": "Manage Country",
+          "page": 3
+        },
+        {
+          "number": "12.15",
+          "title": "Manage Theme Settings",
+          "page": 3
+        },
+        {
+          "number": "12.16",
+          "title": "Payments",
+          "page": 3
+        },
+        {
+          "number": "12.17",
+          "title": "Cloud Settings",
+          "page": 3
+        },
+        {
+          "number": "5",
+          "title": "and the maximum is 150.",
+          "page": 69
+        }
+      ],
+      "first_page_snippet": " \n \n \n \n \n \n \n \n \n \nUSER MANUAL FOR ADMIN PANEL \nPrepared by\u200b: TaxiMobility \nVersion\u200b: 9.0 \n \n \nPage 1\u200b of\u200b 96 \n \n",
+      "last_page_snippet": " \n \nTaxiMobility Admin Panel \u2013 V 9.0 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\u00a92019 \u200bwww.taximobility.com \nAll rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, \nincluding photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the \npublisher. \n           Page 96\u200b of\u200b 96 \n \n",
+      "total_lines": 1063,
+      "file": "TaxiMobility-Dispatch, Admin, Fleetmanagement.pdf"
+    }
+  },
+  "guides": {
+    "driver": {
+      "top_level_sections": 9,
+      "total_sections": 32,
+      "sections": [
+        {
+          "id": "introduction",
+          "number": "1",
+          "title_en": "Introduction",
+          "title_es": "Introducci\u00f3n",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 0
+        },
+        {
+          "id": "getting-started-registration",
+          "number": "2",
+          "title_en": "Getting Started & Registration",
+          "title_es": "Primeros Pasos y Registro",
+          "children_count": 3,
+          "en_empty": true,
+          "es_empty": true,
+          "has_placeholder": false,
+          "depth": 0
+        },
+        {
+          "id": "mobile-app-registration",
+          "number": "2.1",
+          "title_en": "Mobile App Registration",
+          "title_es": "Registro desde la App M\u00f3vil",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "web-portal-registration",
+          "number": "2.2",
+          "title_en": "Web Portal Registration",
+          "title_es": "Registro desde el Portal Web",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "data-consent-security",
+          "number": "2.3",
+          "title_en": "Data Consent & Security (Store & Secure)",
+          "title_es": "Consentimiento de Datos y Seguridad (Almacenar y Proteger)",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "signing-in-account-setup",
+          "number": "3",
+          "title_en": "Signing In & Account Setup",
+          "title_es": "Inicio de Sesi\u00f3n y Configuraci\u00f3n de la Cuenta",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 0
+        },
+        {
+          "id": "home-dashboard",
+          "number": "4",
+          "title_en": "Home Dashboard",
+          "title_es": "Panel Principal",
+          "children_count": 3,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 0
+        },
+        {
+          "id": "online-offline-shift-toggle",
+          "number": "4.1",
+          "title_en": "Online/Offline Shift Toggle",
+          "title_es": "Interruptor de Turno En l\u00ednea/Fuera de l\u00ednea",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "sos-emergency-button",
+          "number": "4.2",
+          "title_en": "SOS / Emergency Button",
+          "title_es": "Bot\u00f3n SOS / Emergencia",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "main-navigation-menu",
+          "number": "4.3",
+          "title_en": "Main Navigation Menu",
+          "title_es": "Men\u00fa de Navegaci\u00f3n Principal",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "fleet-vehicle-management",
+          "number": "5",
+          "title_en": "Fleet & Vehicle Management",
+          "title_es": "Gesti\u00f3n de Flotilla y Veh\u00edculos",
+          "children_count": 2,
+          "en_empty": true,
+          "es_empty": true,
+          "has_placeholder": false,
+          "depth": 0
+        },
+        {
+          "id": "registering-a-vehicle",
+          "number": "5.1",
+          "title_en": "Registering a Vehicle (Add Fleet)",
+          "title_es": "Registro de un Veh\u00edculo (Agregar Flotilla)",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "vehicle-overview",
+          "number": "5.2",
+          "title_en": "Vehicle Overview (My Fleet)",
+          "title_es": "Resumen del Veh\u00edculo (Mi Flotilla)",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "earnings-financial-management",
+          "number": "6",
+          "title_en": "Earnings & Financial Management",
+          "title_es": "Ganancias y Gesti\u00f3n Financiera",
+          "children_count": 4,
+          "en_empty": true,
+          "es_empty": true,
+          "has_placeholder": false,
+          "depth": 0
+        },
+        {
+          "id": "wallet-balance-recharge",
+          "number": "6.1",
+          "title_en": "Wallet Balance & Recharge",
+          "title_es": "Saldo del Monedero y Recarga",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "withdrawal-requests",
+          "number": "6.2",
+          "title_en": "Withdrawal Requests",
+          "title_es": "Solicitudes de Retiro",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "settlement-requests",
+          "number": "6.3",
+          "title_en": "Settlement Requests",
+          "title_es": "Solicitudes de Liquidaci\u00f3n",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "earnings-reports-graph-views",
+          "number": "6.4",
+          "title_en": "Earnings Reports & Graph Views",
+          "title_es": "Reportes de Ganancias y Vistas Gr\u00e1ficas",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "street-pickup",
+          "number": "7",
+          "title_en": "Street Pickup",
+          "title_es": "Recogida en la Calle",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 0
+        },
+        {
+          "id": "ride-request-lifecycle",
+          "number": "8",
+          "title_en": "Ride Request Lifecycle",
+          "title_es": "Ciclo de Vida de la Solicitud de Viaje",
+          "children_count": 6,
+          "en_empty": true,
+          "es_empty": true,
+          "has_placeholder": false,
+          "depth": 0
+        },
+        {
+          "id": "incoming-job-request",
+          "number": "8.1",
+          "title_en": "Incoming Job Request",
+          "title_es": "Solicitud de Viaje Entrante",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "picking-up-passenger-arrival",
+          "number": "8.2",
+          "title_en": "Picking up Passenger (Arrival)",
+          "title_es": "Recogida del Pasajero (Llegada)",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "waiting-for-passenger",
+          "number": "8.3",
+          "title_en": "Waiting for Passenger",
+          "title_es": "Esperando al Pasajero",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "trip-in-progress",
+          "number": "8.4",
+          "title_en": "Trip in Progress",
+          "title_es": "Viaje en Curso",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "fare-calculator-summary",
+          "number": "8.5",
+          "title_en": "Fare Calculator & Summary",
+          "title_es": "Calculadora de Tarifa y Resumen",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "completing-payments",
+          "number": "8.6",
+          "title_en": "Completing Payments (Cash/Card)",
+          "title_es": "Finalizaci\u00f3n de Pagos (Efectivo/Tarjeta)",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": true,
+          "depth": 1
+        },
+        {
+          "id": "profile-settings",
+          "number": "9",
+          "title_en": "Profile & Settings",
+          "title_es": "Perfil y Configuraci\u00f3n",
+          "children_count": 5,
+          "en_empty": true,
+          "es_empty": true,
+          "has_placeholder": false,
+          "depth": 0
+        },
+        {
+          "id": "editing-profile-details",
+          "number": "9.1",
+          "title_en": "Editing Profile Details",
+          "title_es": "Edici\u00f3n de los Datos del Perfil",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "change-password",
+          "number": "9.2",
+          "title_en": "Change Password",
+          "title_es": "Cambio de Contrase\u00f1a",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "account-deletion",
+          "number": "9.3",
+          "title_en": "Account Deletion",
+          "title_es": "Eliminaci\u00f3n de la Cuenta",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "language-configurations",
+          "number": "9.4",
+          "title_en": "Language Configurations",
+          "title_es": "Configuraci\u00f3n de Idioma",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "referral-program",
+          "number": "9.5",
+          "title_en": "Referral Program (Invite Friends)",
+          "title_es": "Programa de Referidos (Invitar Amigos)",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        }
+      ],
+      "images": {
+        "referenced_count": 28,
+        "disk_count": 38,
+        "manifest_count": 0,
+        "broken_refs": [],
+        "referenced_not_on_disk": [],
+        "unreferenced_on_disk": [
+          "p003-1.jpeg",
+          "p004-2.jpeg",
+          "p004-3.jpeg",
+          "p010-1.jpeg",
+          "p010-2.jpeg",
+          "p012-2.jpeg",
+          "p013-2.jpeg",
+          "p016-1.jpeg",
+          "p018-2.jpeg",
+          "p018-3.jpeg"
+        ],
+        "unreferenced_on_disk_total": 10,
+        "in_manifest_not_disk": [],
+        "referenced_not_in_manifest": []
+      },
+      "bilingual_gaps": [],
+      "empty_leaf_sections": [],
+      "empty_parent_sections": [
+        {
+          "id": "getting-started-registration",
+          "number": "2",
+          "title_en": "Getting Started & Registration",
+          "children": 3
+        },
+        {
+          "id": "fleet-vehicle-management",
+          "number": "5",
+          "title_en": "Fleet & Vehicle Management",
+          "children": 2
+        },
+        {
+          "id": "earnings-financial-management",
+          "number": "6",
+          "title_en": "Earnings & Financial Management",
+          "children": 4
+        },
+        {
+          "id": "ride-request-lifecycle",
+          "number": "8",
+          "title_en": "Ride Request Lifecycle",
+          "children": 6
+        },
+        {
+          "id": "profile-settings",
+          "number": "9",
+          "title_en": "Profile & Settings",
+          "children": 5
+        }
+      ],
+      "placeholders": [
+        {
+          "id": "completing-payments",
+          "title_en": "Completing Payments (Cash/Card)"
+        }
+      ],
+      "status": "pass",
+      "pdf_coverage_pct": 1.0
+    },
+    "passenger": {
+      "top_level_sections": 11,
+      "total_sections": 39,
+      "sections": [
+        {
+          "id": "introduction",
+          "number": "1",
+          "title_en": "Introduction",
+          "title_es": "Introducci\u00f3n",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 0
+        },
+        {
+          "id": "getting-started-registration",
+          "number": "2",
+          "title_en": "Getting Started & Registration",
+          "title_es": "Primeros Pasos y Registro",
+          "children_count": 3,
+          "en_empty": true,
+          "es_empty": true,
+          "has_placeholder": false,
+          "depth": 0
+        },
+        {
+          "id": "mobile-app-registration-verification",
+          "number": "2.1",
+          "title_en": "Mobile App Registration & Verification",
+          "title_es": "Registro y Verificaci\u00f3n en la App M\u00f3vil",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "web-portal-registration-credit-cards",
+          "number": "2.2",
+          "title_en": "Web Portal Registration & Credit Cards",
+          "title_es": "Registro en el Portal Web y Tarjetas de Cr\u00e9dito",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": true,
+          "depth": 1
+        },
+        {
+          "id": "data-consent-privacy-security",
+          "number": "2.3",
+          "title_en": "Data Consent, Privacy & Security (Store & Secure)",
+          "title_es": "Consentimiento de Datos, Privacidad y Seguridad (Almacenar y Proteger)",
+          "children_count": 4,
+          "en_empty": true,
+          "es_empty": true,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "what-data-we-collect",
+          "number": "A",
+          "title_en": "What Data We Collect",
+          "title_es": "Qu\u00e9 Datos Recopilamos",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 2
+        },
+        {
+          "id": "how-we-use-and-store-your-data",
+          "number": "B",
+          "title_en": "How We Use and Store Your Data",
+          "title_es": "C\u00f3mo Usamos y Almacenamos sus Datos",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 2
+        },
+        {
+          "id": "how-we-secure-your-data",
+          "number": "C",
+          "title_en": "How We Secure Your Data",
+          "title_es": "C\u00f3mo Aseguramos sus Datos",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": true,
+          "depth": 2
+        },
+        {
+          "id": "know-your-rights",
+          "number": "D",
+          "title_en": "Know Your Rights",
+          "title_es": "Conozca sus Derechos",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 2
+        },
+        {
+          "id": "core-booking-module",
+          "number": "3",
+          "title_en": "Core Booking Module",
+          "title_es": "M\u00f3dulo Principal de Reservas",
+          "children_count": 3,
+          "en_empty": true,
+          "es_empty": true,
+          "has_placeholder": false,
+          "depth": 0
+        },
+        {
+          "id": "local-normal-taxi-booking",
+          "number": "3.1",
+          "title_en": "Local/Normal Taxi Booking",
+          "title_es": "Reserva de Taxi Local/Normal",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "scheduling-rides-book-later",
+          "number": "3.2",
+          "title_en": "Scheduling Rides (Book Later)",
+          "title_es": "Programaci\u00f3n de Viajes (Reservar para Despu\u00e9s)",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "vehicle-categories-fare-estimation",
+          "number": "3.3",
+          "title_en": "Vehicle Categories & Fare Estimation",
+          "title_es": "Categor\u00edas de Veh\u00edculos y Estimaci\u00f3n de Tarifa",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "advanced-booking-features",
+          "number": "4",
+          "title_en": "Advanced Booking Features",
+          "title_es": "Funciones Avanzadas de Reserva",
+          "children_count": 2,
+          "en_empty": true,
+          "es_empty": true,
+          "has_placeholder": false,
+          "depth": 0
+        },
+        {
+          "id": "multi-stop-booking",
+          "number": "4.1",
+          "title_en": "Multi-Stop Booking (Adding Stops)",
+          "title_es": "Reserva con M\u00faltiples Paradas (Agregar Paradas)",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "split-fare-with-friends",
+          "number": "4.2",
+          "title_en": "Split Fare with Friends",
+          "title_es": "Tarifa Compartida con Amigos",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": true,
+          "depth": 1
+        },
+        {
+          "id": "specialized-travel-packages",
+          "number": "5",
+          "title_en": "Specialized Travel Packages",
+          "title_es": "Paquetes Especializados de Viaje",
+          "children_count": 2,
+          "en_empty": true,
+          "es_empty": true,
+          "has_placeholder": false,
+          "depth": 0
+        },
+        {
+          "id": "rental-package-long-hire",
+          "number": "5.1",
+          "title_en": "Rental Package (Long Hire)",
+          "title_es": "Paquete de Renta (Alquiler Prolongado)",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "outstation-intercity-travel",
+          "number": "5.2",
+          "title_en": "Outstation (Intercity Travel)",
+          "title_es": "Outstation (Viaje For\u00e1neo entre Ciudades)",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "corporate-airport-transport-portal",
+          "number": "6",
+          "title_en": "Corporate & Airport Transport Portal",
+          "title_es": "Portal de Transporte Corporativo y Aeroportuario",
+          "children_count": 2,
+          "en_empty": true,
+          "es_empty": true,
+          "has_placeholder": false,
+          "depth": 0
+        },
+        {
+          "id": "airport-pickups-dropoffs",
+          "number": "6.1",
+          "title_en": "Airport Pick-ups & Drop-offs (Flight/Gate/Luggage)",
+          "title_es": "Recogidas y Entregas en el Aeropuerto (Vuelo/Puerta/Equipaje)",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "corporate-business-account-bookings",
+          "number": "6.2",
+          "title_en": "Corporate/Business Account Bookings",
+          "title_es": "Reservas de Cuenta Corporativa/Empresarial",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": true,
+          "depth": 1
+        },
+        {
+          "id": "active-trip-transit-experience",
+          "number": "7",
+          "title_en": "Active Trip Transit Experience",
+          "title_es": "Experiencia de Tr\u00e1nsito Durante el Viaje Activo",
+          "children_count": 3,
+          "en_empty": true,
+          "es_empty": true,
+          "has_placeholder": false,
+          "depth": 0
+        },
+        {
+          "id": "real-time-route-driver-tracking",
+          "number": "7.1",
+          "title_en": "Real-Time Route & Driver Tracking",
+          "title_es": "Ruta en Tiempo Real y Rastreo del Conductor",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "passenger-driver-chat-calls",
+          "number": "7.2",
+          "title_en": "In-App Passenger-Driver Chat & Calls",
+          "title_es": "Chat y Llamadas entre Pasajero y Conductor Dentro de la App",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "ride-cancellations-penalty-rules",
+          "number": "7.3",
+          "title_en": "Ride Cancellations & Penalty Rules",
+          "title_es": "Cancelaciones de Viaje y Reglas de Penalizaci\u00f3n",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "post-trip-processes-financials",
+          "number": "8",
+          "title_en": "Post-Trip Processes & Financials",
+          "title_es": "Procesos y Finanzas Posteriores al Viaje",
+          "children_count": 2,
+          "en_empty": true,
+          "es_empty": true,
+          "has_placeholder": false,
+          "depth": 0
+        },
+        {
+          "id": "e-receipts-fare-breakdowns",
+          "number": "8.1",
+          "title_en": "E-Receipts & Detailed Fare Breakdowns",
+          "title_es": "Recibos Electr\u00f3nicos y Desglose Detallado de Tarifas",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": true,
+          "depth": 1
+        },
+        {
+          "id": "driver-ratings-quality-feedback",
+          "number": "8.2",
+          "title_en": "Driver Ratings & Quality Feedback",
+          "title_es": "Calificaci\u00f3n de Conductores y Retroalimentaci\u00f3n de Calidad",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "prepaid-wallet-promotions",
+          "number": "9",
+          "title_en": "Prepaid Wallet & Promotions",
+          "title_es": "Monedero Prepago y Promociones",
+          "children_count": 2,
+          "en_empty": true,
+          "es_empty": true,
+          "has_placeholder": false,
+          "depth": 0
+        },
+        {
+          "id": "wallet-recharge-payment-gateways",
+          "number": "9.1",
+          "title_en": "Wallet Recharge & Payment Gateways (Stripe, Braintree, PayPal)",
+          "title_es": "Recarga de Monedero y Pasarelas de Pago (Stripe, Braintree, PayPal)",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": true,
+          "depth": 1
+        },
+        {
+          "id": "promo-codes-referrals",
+          "number": "9.2",
+          "title_en": "Promo Codes & Referrals (Invite Friends)",
+          "title_es": "C\u00f3digos Promocionales y Referidos (Invitar Amigos)",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "passenger-preferences-safety",
+          "number": "10",
+          "title_en": "Passenger Preferences & Safety",
+          "title_es": "Preferencias y Seguridad del Pasajero",
+          "children_count": 2,
+          "en_empty": true,
+          "es_empty": true,
+          "has_placeholder": false,
+          "depth": 0
+        },
+        {
+          "id": "favorite-places-favorite-drivers",
+          "number": "10.1",
+          "title_en": "Favorite Places & Favorite Drivers",
+          "title_es": "Lugares Favoritos y Conductores Favoritos",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "emergency-contacts-sos-system",
+          "number": "10.2",
+          "title_en": "Emergency Contacts & SOS System",
+          "title_es": "Contactos de Emergencia y Sistema SOS",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "account-management-security",
+          "number": "11",
+          "title_en": "Account Management & Security",
+          "title_es": "Gesti\u00f3n de la Cuenta y Seguridad",
+          "children_count": 3,
+          "en_empty": true,
+          "es_empty": true,
+          "has_placeholder": false,
+          "depth": 0
+        },
+        {
+          "id": "profile-editing-password-updates",
+          "number": "11.1",
+          "title_en": "Profile Editing & Password Updates",
+          "title_es": "Edici\u00f3n de Perfil y Actualizaci\u00f3n de Contrase\u00f1a",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "account-deactivation-deletion",
+          "number": "11.2",
+          "title_en": "Account Deactivation & Deletion",
+          "title_es": "Desactivaci\u00f3n y Eliminaci\u00f3n de la Cuenta",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "log-out-session-management",
+          "number": "11.3",
+          "title_en": "Log Out & Session Management",
+          "title_es": "Cerrar Sesi\u00f3n y Gesti\u00f3n de Sesiones",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        }
+      ],
+      "images": {
+        "referenced_count": 31,
+        "disk_count": 49,
+        "manifest_count": 0,
+        "broken_refs": [],
+        "referenced_not_on_disk": [],
+        "unreferenced_on_disk": [
+          "p004-1.jpeg",
+          "p007-1.jpeg",
+          "p007-2.jpeg",
+          "p008-1.jpeg",
+          "p008-3.jpeg",
+          "p010-1.jpeg",
+          "p012-1.jpeg",
+          "p015-1.jpeg",
+          "p015-2.jpeg",
+          "p015-3.jpeg",
+          "p018-2.jpeg",
+          "p018-3.jpeg",
+          "p020-1.jpeg",
+          "p021-1.jpeg",
+          "p025-2.jpeg",
+          "p026-2.jpeg",
+          "p027-2.jpeg",
+          "p027-3.jpeg"
+        ],
+        "unreferenced_on_disk_total": 18,
+        "in_manifest_not_disk": [],
+        "referenced_not_in_manifest": []
+      },
+      "bilingual_gaps": [],
+      "empty_leaf_sections": [],
+      "empty_parent_sections": [
+        {
+          "id": "getting-started-registration",
+          "number": "2",
+          "title_en": "Getting Started & Registration",
+          "children": 3
+        },
+        {
+          "id": "data-consent-privacy-security",
+          "number": "2.3",
+          "title_en": "Data Consent, Privacy & Security (Store & Secure)",
+          "children": 4
+        },
+        {
+          "id": "core-booking-module",
+          "number": "3",
+          "title_en": "Core Booking Module",
+          "children": 3
+        },
+        {
+          "id": "advanced-booking-features",
+          "number": "4",
+          "title_en": "Advanced Booking Features",
+          "children": 2
+        },
+        {
+          "id": "specialized-travel-packages",
+          "number": "5",
+          "title_en": "Specialized Travel Packages",
+          "children": 2
+        },
+        {
+          "id": "corporate-airport-transport-portal",
+          "number": "6",
+          "title_en": "Corporate & Airport Transport Portal",
+          "children": 2
+        },
+        {
+          "id": "active-trip-transit-experience",
+          "number": "7",
+          "title_en": "Active Trip Transit Experience",
+          "children": 3
+        },
+        {
+          "id": "post-trip-processes-financials",
+          "number": "8",
+          "title_en": "Post-Trip Processes & Financials",
+          "children": 2
+        },
+        {
+          "id": "prepaid-wallet-promotions",
+          "number": "9",
+          "title_en": "Prepaid Wallet & Promotions",
+          "children": 2
+        },
+        {
+          "id": "passenger-preferences-safety",
+          "number": "10",
+          "title_en": "Passenger Preferences & Safety",
+          "children": 2
+        },
+        {
+          "id": "account-management-security",
+          "number": "11",
+          "title_en": "Account Management & Security",
+          "children": 3
+        }
+      ],
+      "placeholders": [
+        {
+          "id": "web-portal-registration-credit-cards",
+          "title_en": "Web Portal Registration & Credit Cards"
+        },
+        {
+          "id": "how-we-secure-your-data",
+          "title_en": "How We Secure Your Data"
+        },
+        {
+          "id": "split-fare-with-friends",
+          "title_en": "Split Fare with Friends"
+        },
+        {
+          "id": "corporate-business-account-bookings",
+          "title_en": "Corporate/Business Account Bookings"
+        },
+        {
+          "id": "e-receipts-fare-breakdowns",
+          "title_en": "E-Receipts & Detailed Fare Breakdowns"
+        },
+        {
+          "id": "wallet-recharge-payment-gateways",
+          "title_en": "Wallet Recharge & Payment Gateways (Stripe, Braintree, PayPal)"
+        }
+      ],
+      "status": "pass",
+      "pdf_coverage_pct": 1.0
+    },
+    "admin": {
+      "top_level_sections": 12,
+      "total_sections": 75,
+      "sections": [
+        {
+          "id": "introduction",
+          "number": "1",
+          "title_en": "Introduction",
+          "title_es": "Introducci\u00f3n",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": true,
+          "depth": 0
+        },
+        {
+          "id": "login",
+          "number": "2",
+          "title_en": "Login",
+          "title_es": "Inicio de sesi\u00f3n",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 0
+        },
+        {
+          "id": "dashboard",
+          "number": "3",
+          "title_en": "Dashboard",
+          "title_es": "Panel de control",
+          "children_count": 1,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": true,
+          "depth": 0
+        },
+        {
+          "id": "dashboard-tour",
+          "number": "3.1",
+          "title_en": "Tour",
+          "title_es": "Recorrido guiado",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "fleet-tracking",
+          "number": "4",
+          "title_en": "Fleet Tracking",
+          "title_es": "Seguimiento de flota",
+          "children_count": 3,
+          "en_empty": true,
+          "es_empty": true,
+          "has_placeholder": false,
+          "depth": 0
+        },
+        {
+          "id": "fleet-tracking-dashboard",
+          "number": "4.1",
+          "title_en": "Dashboard",
+          "title_es": "Panel de control",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "fleet-management",
+          "number": "4.2",
+          "title_en": "Fleet Management",
+          "title_es": "Gesti\u00f3n de flotas",
+          "children_count": 5,
+          "en_empty": true,
+          "es_empty": true,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "manage-companies",
+          "number": null,
+          "title_en": "Manage companies",
+          "title_es": "Administrar empresas",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 2
+        },
+        {
+          "id": "fleet-models",
+          "number": null,
+          "title_en": "Fleet models",
+          "title_es": "Modelos de flota",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": true,
+          "depth": 2
+        },
+        {
+          "id": "fleets",
+          "number": null,
+          "title_en": "Fleets",
+          "title_es": "Flotas",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": true,
+          "depth": 2
+        },
+        {
+          "id": "package-plans",
+          "number": null,
+          "title_en": "Package plans",
+          "title_es": "Planes de paquete",
+          "children_count": 2,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 2
+        },
+        {
+          "id": "package-plans-rental",
+          "number": null,
+          "title_en": "Rental",
+          "title_es": "Renta",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": true,
+          "depth": 3
+        },
+        {
+          "id": "package-plans-outstation",
+          "number": null,
+          "title_en": "Outstation",
+          "title_es": "For\u00e1neo",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 3
+        },
+        {
+          "id": "manage-assigned-fleets",
+          "number": null,
+          "title_en": "Manage assigned fleets",
+          "title_es": "Administrar flotas asignadas",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": true,
+          "depth": 2
+        },
+        {
+          "id": "workforce",
+          "number": "4.3",
+          "title_en": "Workforce",
+          "title_es": "Fuerza laboral",
+          "children_count": 5,
+          "en_empty": true,
+          "es_empty": true,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "manage-dispatchers",
+          "number": null,
+          "title_en": "Manage dispatchers",
+          "title_es": "Administrar despachadores",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": true,
+          "depth": 2
+        },
+        {
+          "id": "manage-drivers",
+          "number": null,
+          "title_en": "Manage drivers",
+          "title_es": "Administrar conductores",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 2
+        },
+        {
+          "id": "manage-subscription-plans",
+          "number": null,
+          "title_en": "Manage subscription plans",
+          "title_es": "Administrar planes de suscripci\u00f3n",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 2
+        },
+        {
+          "id": "driver-ratings",
+          "number": null,
+          "title_en": "Driver ratings",
+          "title_es": "Calificaciones de conductores",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 2
+        },
+        {
+          "id": "driver-wallet",
+          "number": null,
+          "title_en": "Driver wallet",
+          "title_es": "Cartera de conductores",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 2
+        },
+        {
+          "id": "dispatcher",
+          "number": "5",
+          "title_en": "Dispatcher",
+          "title_es": "Despachador",
+          "children_count": 4,
+          "en_empty": true,
+          "es_empty": true,
+          "has_placeholder": false,
+          "depth": 0
+        },
+        {
+          "id": "dispatcher-dashboard",
+          "number": "5.1",
+          "title_en": "Dashboard",
+          "title_es": "Panel de control",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "dispatch",
+          "number": "5.2",
+          "title_en": "Dispatch",
+          "title_es": "Despacho",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "manage-bookings",
+          "number": "5.3",
+          "title_en": "Manage Bookings",
+          "title_es": "Administrar reservas",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "fleet-dispatch-settings",
+          "number": "5.4",
+          "title_en": "Fleet Dispatch Settings",
+          "title_es": "Configuraci\u00f3n de despacho de flota",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "revenue",
+          "number": "6",
+          "title_en": "Revenue",
+          "title_es": "Ingresos",
+          "children_count": 3,
+          "en_empty": true,
+          "es_empty": true,
+          "has_placeholder": false,
+          "depth": 0
+        },
+        {
+          "id": "revenue-dashboard",
+          "number": "6.1",
+          "title_en": "Dashboard",
+          "title_es": "Panel de control",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "transactions",
+          "number": "6.2",
+          "title_en": "Transactions",
+          "title_es": "Transacciones",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "expense-management",
+          "number": "6.3",
+          "title_en": "Expense Management",
+          "title_es": "Gesti\u00f3n de gastos",
+          "children_count": 3,
+          "en_empty": true,
+          "es_empty": true,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "expense-category",
+          "number": null,
+          "title_en": "Expense category",
+          "title_es": "Categor\u00eda de gasto",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 2
+        },
+        {
+          "id": "manage-expenses",
+          "number": null,
+          "title_en": "Manage expenses",
+          "title_es": "Administrar gastos",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 2
+        },
+        {
+          "id": "payout",
+          "number": null,
+          "title_en": "Payout",
+          "title_es": "Pago a conductores",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 2
+        },
+        {
+          "id": "marketing",
+          "number": "7",
+          "title_en": "Marketing",
+          "title_es": "Mercadotecnia",
+          "children_count": 4,
+          "en_empty": true,
+          "es_empty": true,
+          "has_placeholder": false,
+          "depth": 0
+        },
+        {
+          "id": "marketing-dashboard",
+          "number": "7.1",
+          "title_en": "Dashboard",
+          "title_es": "Panel de control",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "campaigns",
+          "number": "7.2",
+          "title_en": "Campaigns",
+          "title_es": "Campa\u00f1as",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": true,
+          "depth": 1
+        },
+        {
+          "id": "templates",
+          "number": "7.3",
+          "title_en": "Templates",
+          "title_es": "Plantillas",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": true,
+          "depth": 1
+        },
+        {
+          "id": "consumers",
+          "number": "7.4",
+          "title_en": "Consumers",
+          "title_es": "Pasajeros",
+          "children_count": 2,
+          "en_empty": true,
+          "es_empty": true,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "manage-consumers",
+          "number": null,
+          "title_en": "Manage consumers",
+          "title_es": "Administrar pasajeros",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 2
+        },
+        {
+          "id": "consumer-wallet-log",
+          "number": null,
+          "title_en": "Consumer wallet log",
+          "title_es": "Registro de cartera de pasajeros",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 2
+        },
+        {
+          "id": "analytics",
+          "number": "8",
+          "title_en": "Analytics",
+          "title_es": "Anal\u00edtica",
+          "children_count": 2,
+          "en_empty": true,
+          "es_empty": true,
+          "has_placeholder": false,
+          "depth": 0
+        },
+        {
+          "id": "analytics-dashboard",
+          "number": "8.1",
+          "title_en": "Dashboard",
+          "title_es": "Panel de control",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": true,
+          "depth": 1
+        },
+        {
+          "id": "reports",
+          "number": "8.2",
+          "title_en": "Reports",
+          "title_es": "Informes",
+          "children_count": 8,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": true,
+          "depth": 1
+        },
+        {
+          "id": "transaction-history",
+          "number": null,
+          "title_en": "Transaction history",
+          "title_es": "Historial de transacciones",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 2
+        },
+        {
+          "id": "expenses-history",
+          "number": null,
+          "title_en": "Expenses history",
+          "title_es": "Historial de gastos",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": true,
+          "depth": 2
+        },
+        {
+          "id": "consumer-report",
+          "number": null,
+          "title_en": "Consumer report",
+          "title_es": "Informe de pasajeros",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 2
+        },
+        {
+          "id": "fleet-report",
+          "number": null,
+          "title_en": "Fleet report",
+          "title_es": "Informe de flota",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": true,
+          "depth": 2
+        },
+        {
+          "id": "driver-report",
+          "number": null,
+          "title_en": "Driver report",
+          "title_es": "Informe de conductores",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": true,
+          "depth": 2
+        },
+        {
+          "id": "company-report",
+          "number": null,
+          "title_en": "Company report",
+          "title_es": "Informe de empresas",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 2
+        },
+        {
+          "id": "consumer-logs",
+          "number": null,
+          "title_en": "Consumer logs",
+          "title_es": "Registros de pasajeros",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 2
+        },
+        {
+          "id": "user-logs",
+          "number": null,
+          "title_en": "User logs",
+          "title_es": "Registros de usuarios",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": true,
+          "depth": 2
+        },
+        {
+          "id": "accounts",
+          "number": "9",
+          "title_en": "Accounts",
+          "title_es": "Cuentas",
+          "children_count": 3,
+          "en_empty": true,
+          "es_empty": true,
+          "has_placeholder": false,
+          "depth": 0
+        },
+        {
+          "id": "payable",
+          "number": "9.1",
+          "title_en": "Payable",
+          "title_es": "Por pagar",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "settlement-request",
+          "number": "9.2",
+          "title_en": "Settlement Request",
+          "title_es": "Solicitud de liquidaci\u00f3n",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "settlement-history",
+          "number": "9.3",
+          "title_en": "Settlement History",
+          "title_es": "Historial de liquidaciones",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "zone-management",
+          "number": "10",
+          "title_en": "Zone Management",
+          "title_es": "Administraci\u00f3n de zonas",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 0
+        },
+        {
+          "id": "sos",
+          "number": "11",
+          "title_en": "SOS",
+          "title_es": "SOS",
+          "children_count": 1,
+          "en_empty": true,
+          "es_empty": true,
+          "has_placeholder": false,
+          "depth": 0
+        },
+        {
+          "id": "sos-history",
+          "number": "11.1",
+          "title_en": "SOS History",
+          "title_es": "Historial de SOS",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": true,
+          "depth": 1
+        },
+        {
+          "id": "settings",
+          "number": "12",
+          "title_en": "Settings",
+          "title_es": "Configuraci\u00f3n",
+          "children_count": 17,
+          "en_empty": true,
+          "es_empty": true,
+          "has_placeholder": false,
+          "depth": 0
+        },
+        {
+          "id": "site-settings",
+          "number": "12.1",
+          "title_en": "Site Settings",
+          "title_es": "Configuraci\u00f3n del sitio",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "map-settings",
+          "number": "12.2",
+          "title_en": "Map Settings",
+          "title_es": "Configuraci\u00f3n de mapas",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "map-api-keys",
+          "number": "12.3",
+          "title_en": "Map API Keys",
+          "title_es": "Claves de API de mapas",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "manage-contacts",
+          "number": "12.4",
+          "title_en": "Manage Contacts",
+          "title_es": "Administrar contactos",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "smtp-mail-settings",
+          "number": "12.5",
+          "title_en": "SMTP Mail Settings",
+          "title_es": "Configuraci\u00f3n de correo SMTP",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "email-templates",
+          "number": "12.6",
+          "title_en": "Email Templates",
+          "title_es": "Plantillas de correo electr\u00f3nico",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "sms-settings",
+          "number": "12.7",
+          "title_en": "SMS Settings",
+          "title_es": "Configuraci\u00f3n de SMS",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "sms-templates",
+          "number": "12.8",
+          "title_en": "SMS Templates",
+          "title_es": "Plantillas de SMS",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "social-network-settings",
+          "number": "12.9",
+          "title_en": "Social Network Settings",
+          "title_es": "Configuraci\u00f3n de redes sociales",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "manage-popular-places",
+          "number": "12.10",
+          "title_en": "Manage Popular Places",
+          "title_es": "Administrar lugares populares",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "manage-cms",
+          "number": "12.11",
+          "title_en": "Manage CMS",
+          "title_es": "Administrar CMS",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "manage-city",
+          "number": "12.12",
+          "title_en": "Manage City",
+          "title_es": "Administrar ciudad",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "manage-state",
+          "number": "12.13",
+          "title_en": "Manage State",
+          "title_es": "Administrar estado",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": true,
+          "depth": 1
+        },
+        {
+          "id": "manage-country",
+          "number": "12.14",
+          "title_en": "Manage Country",
+          "title_es": "Administrar pa\u00eds",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": true,
+          "depth": 1
+        },
+        {
+          "id": "manage-theme-settings",
+          "number": "12.15",
+          "title_en": "Manage Theme Settings",
+          "title_es": "Configuraci\u00f3n de tema",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": true,
+          "depth": 1
+        },
+        {
+          "id": "payments",
+          "number": "12.16",
+          "title_en": "Payments",
+          "title_es": "Pagos",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "cloud-settings",
+          "number": "12.17",
+          "title_en": "Cloud Settings",
+          "title_es": "Configuraci\u00f3n de nube",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        }
+      ],
+      "images": {
+        "referenced_count": 40,
+        "disk_count": 187,
+        "manifest_count": 0,
+        "broken_refs": [],
+        "referenced_not_on_disk": [],
+        "unreferenced_on_disk": [
+          "p005-2.jpeg",
+          "p006-1.jpeg",
+          "p006-2.jpeg",
+          "p007-2.jpeg",
+          "p008-1.jpeg",
+          "p008-2.jpeg",
+          "p009-2.jpeg",
+          "p010-1.jpeg",
+          "p010-2.jpeg",
+          "p012-1.jpeg",
+          "p013-1.jpeg",
+          "p013-2.jpeg",
+          "p015-1.jpeg",
+          "p016-1.jpeg",
+          "p016-3.jpeg",
+          "p017-2.jpeg",
+          "p018-1.jpeg",
+          "p018-2.jpeg",
+          "p018-3.jpeg",
+          "p019-2.jpeg",
+          "p020-1.jpeg",
+          "p020-2.jpeg",
+          "p020-3.jpeg",
+          "p021-2.jpeg",
+          "p022-2.jpeg",
+          "p023-1.jpeg",
+          "p023-2.jpeg",
+          "p024-1.jpeg",
+          "p025-2.jpeg",
+          "p026-2.jpeg"
+        ],
+        "unreferenced_on_disk_total": 147,
+        "in_manifest_not_disk": [],
+        "referenced_not_in_manifest": []
+      },
+      "bilingual_gaps": [],
+      "empty_leaf_sections": [],
+      "empty_parent_sections": [
+        {
+          "id": "fleet-tracking",
+          "number": "4",
+          "title_en": "Fleet Tracking",
+          "children": 3
+        },
+        {
+          "id": "fleet-management",
+          "number": "4.2",
+          "title_en": "Fleet Management",
+          "children": 5
+        },
+        {
+          "id": "workforce",
+          "number": "4.3",
+          "title_en": "Workforce",
+          "children": 5
+        },
+        {
+          "id": "dispatcher",
+          "number": "5",
+          "title_en": "Dispatcher",
+          "children": 4
+        },
+        {
+          "id": "revenue",
+          "number": "6",
+          "title_en": "Revenue",
+          "children": 3
+        },
+        {
+          "id": "expense-management",
+          "number": "6.3",
+          "title_en": "Expense Management",
+          "children": 3
+        },
+        {
+          "id": "marketing",
+          "number": "7",
+          "title_en": "Marketing",
+          "children": 4
+        },
+        {
+          "id": "consumers",
+          "number": "7.4",
+          "title_en": "Consumers",
+          "children": 2
+        },
+        {
+          "id": "analytics",
+          "number": "8",
+          "title_en": "Analytics",
+          "children": 2
+        },
+        {
+          "id": "accounts",
+          "number": "9",
+          "title_en": "Accounts",
+          "children": 3
+        },
+        {
+          "id": "sos",
+          "number": "11",
+          "title_en": "SOS",
+          "children": 1
+        },
+        {
+          "id": "settings",
+          "number": "12",
+          "title_en": "Settings",
+          "children": 17
+        }
+      ],
+      "placeholders": [
+        {
+          "id": "introduction",
+          "title_en": "Introduction"
+        },
+        {
+          "id": "dashboard",
+          "title_en": "Dashboard"
+        },
+        {
+          "id": "fleet-models",
+          "title_en": "Fleet models"
+        },
+        {
+          "id": "fleets",
+          "title_en": "Fleets"
+        },
+        {
+          "id": "package-plans-rental",
+          "title_en": "Rental"
+        },
+        {
+          "id": "manage-assigned-fleets",
+          "title_en": "Manage assigned fleets"
+        },
+        {
+          "id": "manage-dispatchers",
+          "title_en": "Manage dispatchers"
+        },
+        {
+          "id": "campaigns",
+          "title_en": "Campaigns"
+        },
+        {
+          "id": "templates",
+          "title_en": "Templates"
+        },
+        {
+          "id": "analytics-dashboard",
+          "title_en": "Dashboard"
+        },
+        {
+          "id": "reports",
+          "title_en": "Reports"
+        },
+        {
+          "id": "expenses-history",
+          "title_en": "Expenses history"
+        },
+        {
+          "id": "fleet-report",
+          "title_en": "Fleet report"
+        },
+        {
+          "id": "driver-report",
+          "title_en": "Driver report"
+        },
+        {
+          "id": "user-logs",
+          "title_en": "User logs"
+        },
+        {
+          "id": "sos-history",
+          "title_en": "SOS History"
+        },
+        {
+          "id": "manage-state",
+          "title_en": "Manage State"
+        },
+        {
+          "id": "manage-country",
+          "title_en": "Manage Country"
+        },
+        {
+          "id": "manage-theme-settings",
+          "title_en": "Manage Theme Settings"
+        }
+      ],
+      "status": "pass",
+      "pdf_coverage_pct": 0.868
+    },
+    "dispatcher": {
+      "top_level_sections": 6,
+      "total_sections": 19,
+      "sections": [
+        {
+          "id": "introduction",
+          "number": "1",
+          "title_en": "Introduction",
+          "title_es": "Introducci\u00f3n",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 0
+        },
+        {
+          "id": "login",
+          "number": "2",
+          "title_en": "Login",
+          "title_es": "Inicio de Sesi\u00f3n",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 0
+        },
+        {
+          "id": "dashboard",
+          "number": "3",
+          "title_en": "Dashboard",
+          "title_es": "Panel Principal",
+          "children_count": 4,
+          "en_empty": true,
+          "es_empty": true,
+          "has_placeholder": false,
+          "depth": 0
+        },
+        {
+          "id": "current-status-of-driver",
+          "number": "3.1",
+          "title_en": "Current Status of Driver",
+          "title_es": "Estado Actual del Conductor",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "total-trip-details",
+          "number": "3.2",
+          "title_en": "Total Trip Details",
+          "title_es": "Detalle Total de Viajes",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "transactions",
+          "number": "3.3",
+          "title_en": "Transactions",
+          "title_es": "Transacciones",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "available-fleets",
+          "number": "3.4",
+          "title_en": "Available Fleets",
+          "title_es": "Flotillas Disponibles",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "dispatcher",
+          "number": "4",
+          "title_en": "Dispatcher",
+          "title_es": "Despachador",
+          "children_count": 3,
+          "en_empty": true,
+          "es_empty": true,
+          "has_placeholder": false,
+          "depth": 0
+        },
+        {
+          "id": "dispatcher-dashboard",
+          "number": "4.1",
+          "title_en": "Dashboard",
+          "title_es": "Panel Principal",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": true,
+          "depth": 1
+        },
+        {
+          "id": "dispatch",
+          "number": "4.2",
+          "title_en": "Dispatch",
+          "title_es": "Despacho",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "fleet-dispatch-settings",
+          "number": "4.3",
+          "title_en": "Fleet dispatch settings",
+          "title_es": "Configuraci\u00f3n de Despacho de Flotilla",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "fleet-tracking",
+          "number": "5",
+          "title_en": "Fleet Tracking",
+          "title_es": "Rastreo de Flotilla",
+          "children_count": 4,
+          "en_empty": true,
+          "es_empty": true,
+          "has_placeholder": false,
+          "depth": 0
+        },
+        {
+          "id": "fleet-tracking-dashboard",
+          "number": "5.1",
+          "title_en": "Dashboard",
+          "title_es": "Panel Principal",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "track",
+          "number": "5.2",
+          "title_en": "Track",
+          "title_es": "Rastreo",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "fleet-management",
+          "number": "5.3",
+          "title_en": "Fleet Management",
+          "title_es": "Gesti\u00f3n de Flotilla",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "workforce",
+          "number": "5.4",
+          "title_en": "Workforce",
+          "title_es": "Fuerza de Trabajo",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "analytics",
+          "number": "6",
+          "title_en": "Analytics",
+          "title_es": "An\u00e1lisis",
+          "children_count": 2,
+          "en_empty": true,
+          "es_empty": true,
+          "has_placeholder": false,
+          "depth": 0
+        },
+        {
+          "id": "analytics-dashboard",
+          "number": "6.1",
+          "title_en": "Dashboard",
+          "title_es": "Panel Principal",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": true,
+          "depth": 1
+        },
+        {
+          "id": "reports",
+          "number": "6.2",
+          "title_en": "Reports",
+          "title_es": "Reportes",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        }
+      ],
+      "images": {
+        "referenced_count": 35,
+        "disk_count": 44,
+        "manifest_count": 0,
+        "broken_refs": [],
+        "referenced_not_on_disk": [],
+        "unreferenced_on_disk": [
+          "p007-1.jpeg",
+          "p007-2.jpeg",
+          "p007-4.jpeg",
+          "p009-2.jpeg",
+          "p014-2.jpeg",
+          "p016-1.jpeg",
+          "p017-1.jpeg",
+          "p019-1.jpeg",
+          "p020-3.jpeg"
+        ],
+        "unreferenced_on_disk_total": 9,
+        "in_manifest_not_disk": [],
+        "referenced_not_in_manifest": []
+      },
+      "bilingual_gaps": [],
+      "empty_leaf_sections": [],
+      "empty_parent_sections": [
+        {
+          "id": "dashboard",
+          "number": "3",
+          "title_en": "Dashboard",
+          "children": 4
+        },
+        {
+          "id": "dispatcher",
+          "number": "4",
+          "title_en": "Dispatcher",
+          "children": 3
+        },
+        {
+          "id": "fleet-tracking",
+          "number": "5",
+          "title_en": "Fleet Tracking",
+          "children": 4
+        },
+        {
+          "id": "analytics",
+          "number": "6",
+          "title_en": "Analytics",
+          "children": 2
+        }
+      ],
+      "placeholders": [
+        {
+          "id": "dispatcher-dashboard",
+          "title_en": "Dashboard"
+        },
+        {
+          "id": "analytics-dashboard",
+          "title_en": "Dashboard"
+        }
+      ],
+      "status": "pass",
+      "pdf_coverage_pct": 1.0
+    },
+    "vendor": {
+      "top_level_sections": 8,
+      "total_sections": 29,
+      "sections": [
+        {
+          "id": "introduction",
+          "number": "1",
+          "title_en": "Introduction",
+          "title_es": "Introducci\u00f3n",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": true,
+          "depth": 0
+        },
+        {
+          "id": "login",
+          "number": "2",
+          "title_en": "Login",
+          "title_es": "Inicio de sesi\u00f3n",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 0
+        },
+        {
+          "id": "dashboard",
+          "number": "3",
+          "title_en": "Dashboard",
+          "title_es": "Panel de control",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 0
+        },
+        {
+          "id": "fleet-tracking",
+          "number": "4",
+          "title_en": "Fleet Tracking",
+          "title_es": "Seguimiento de flotilla",
+          "children_count": 4,
+          "en_empty": true,
+          "es_empty": true,
+          "has_placeholder": false,
+          "depth": 0
+        },
+        {
+          "id": "fleet-tracking-dashboard",
+          "number": "4.1",
+          "title_en": "Dashboard",
+          "title_es": "Panel de control",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "track",
+          "number": "4.2",
+          "title_en": "Track",
+          "title_es": "Rastreo",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "fleet-management",
+          "number": "4.3",
+          "title_en": "Fleet Management",
+          "title_es": "Gesti\u00f3n de flotilla",
+          "children_count": 5,
+          "en_empty": true,
+          "es_empty": true,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "fleet-models",
+          "number": null,
+          "title_en": "Fleet models",
+          "title_es": "Modelos de flotilla",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": true,
+          "depth": 2
+        },
+        {
+          "id": "fare-management-glossary",
+          "number": null,
+          "title_en": "Fare management glossary",
+          "title_es": "Glosario de gesti\u00f3n de tarifas",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": true,
+          "depth": 2
+        },
+        {
+          "id": "fleets",
+          "number": null,
+          "title_en": "Fleets",
+          "title_es": "Flotillas",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 2
+        },
+        {
+          "id": "package-plan",
+          "number": null,
+          "title_en": "Package plan",
+          "title_es": "Plan de paquete",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 2
+        },
+        {
+          "id": "manage-assigned-fleets",
+          "number": null,
+          "title_en": "Manage assigned fleets",
+          "title_es": "Administrar flotillas asignadas",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 2
+        },
+        {
+          "id": "workforce",
+          "number": "4.4",
+          "title_en": "Workforce",
+          "title_es": "Fuerza laboral",
+          "children_count": 3,
+          "en_empty": true,
+          "es_empty": true,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "manage-dispatchers",
+          "number": null,
+          "title_en": "Manage dispatchers",
+          "title_es": "Administrar despachadores",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 2
+        },
+        {
+          "id": "manage-consumers",
+          "number": null,
+          "title_en": "Manage consumers",
+          "title_es": "Administrar pasajeros",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": true,
+          "depth": 2
+        },
+        {
+          "id": "manage-drivers",
+          "number": null,
+          "title_en": "Manage drivers",
+          "title_es": "Administrar conductores",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 2
+        },
+        {
+          "id": "dispatcher",
+          "number": "5",
+          "title_en": "Dispatcher",
+          "title_es": "Despachador",
+          "children_count": 3,
+          "en_empty": true,
+          "es_empty": true,
+          "has_placeholder": false,
+          "depth": 0
+        },
+        {
+          "id": "dispatcher-dashboard",
+          "number": "5.1",
+          "title_en": "Dashboard",
+          "title_es": "Panel de control",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "dispatch",
+          "number": "5.2",
+          "title_en": "Dispatch",
+          "title_es": "Despacho",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "fleet-dispatch-settings",
+          "number": "5.3",
+          "title_en": "Fleet dispatch settings",
+          "title_es": "Configuraci\u00f3n de despacho de flotilla",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "revenue",
+          "number": "6",
+          "title_en": "Revenue",
+          "title_es": "Ingresos",
+          "children_count": 3,
+          "en_empty": true,
+          "es_empty": true,
+          "has_placeholder": false,
+          "depth": 0
+        },
+        {
+          "id": "revenue-dashboard",
+          "number": "6.1",
+          "title_en": "Dashboard",
+          "title_es": "Panel de control",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "transactions",
+          "number": "6.2",
+          "title_en": "Transactions",
+          "title_es": "Transacciones",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "withdrawal-requests",
+          "number": "6.3",
+          "title_en": "Withdrawal requests",
+          "title_es": "Solicitudes de retiro",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        },
+        {
+          "id": "analytics",
+          "number": "7",
+          "title_en": "Analytics",
+          "title_es": "Anal\u00edtica",
+          "children_count": 2,
+          "en_empty": true,
+          "es_empty": true,
+          "has_placeholder": false,
+          "depth": 0
+        },
+        {
+          "id": "analytics-dashboard",
+          "number": "7.1",
+          "title_en": "Dashboard",
+          "title_es": "Panel de control",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": true,
+          "depth": 1
+        },
+        {
+          "id": "reports",
+          "number": "7.2",
+          "title_en": "Reports",
+          "title_es": "Reportes",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": true,
+          "depth": 1
+        },
+        {
+          "id": "settings",
+          "number": "8",
+          "title_en": "Settings",
+          "title_es": "Configuraci\u00f3n",
+          "children_count": 1,
+          "en_empty": true,
+          "es_empty": true,
+          "has_placeholder": false,
+          "depth": 0
+        },
+        {
+          "id": "company-settings",
+          "number": "8.1",
+          "title_en": "Company settings",
+          "title_es": "Configuraci\u00f3n de la empresa",
+          "children_count": 0,
+          "en_empty": false,
+          "es_empty": false,
+          "has_placeholder": false,
+          "depth": 1
+        }
+      ],
+      "images": {
+        "referenced_count": 41,
+        "disk_count": 62,
+        "manifest_count": 0,
+        "broken_refs": [],
+        "referenced_not_on_disk": [],
+        "unreferenced_on_disk": [
+          "p005-1.jpeg",
+          "p006-1.jpeg",
+          "p007-1.jpeg",
+          "p008-2.jpeg",
+          "p012-2.jpeg",
+          "p013-2.jpeg",
+          "p015-1.jpeg",
+          "p019-1.jpeg",
+          "p019-3.jpeg",
+          "p020-1.jpeg",
+          "p021-1.jpeg",
+          "p021-3.jpeg",
+          "p022-1.jpeg",
+          "p023-1.jpeg",
+          "p023-3.jpeg",
+          "p023-4.jpeg",
+          "p026-1.jpeg",
+          "p027-3.jpeg",
+          "p028-2.jpeg",
+          "p029-2.jpeg",
+          "p031-2.jpeg"
+        ],
+        "unreferenced_on_disk_total": 21,
+        "in_manifest_not_disk": [],
+        "referenced_not_in_manifest": []
+      },
+      "bilingual_gaps": [],
+      "empty_leaf_sections": [],
+      "empty_parent_sections": [
+        {
+          "id": "fleet-tracking",
+          "number": "4",
+          "title_en": "Fleet Tracking",
+          "children": 4
+        },
+        {
+          "id": "fleet-management",
+          "number": "4.3",
+          "title_en": "Fleet Management",
+          "children": 5
+        },
+        {
+          "id": "workforce",
+          "number": "4.4",
+          "title_en": "Workforce",
+          "children": 3
+        },
+        {
+          "id": "dispatcher",
+          "number": "5",
+          "title_en": "Dispatcher",
+          "children": 3
+        },
+        {
+          "id": "revenue",
+          "number": "6",
+          "title_en": "Revenue",
+          "children": 3
+        },
+        {
+          "id": "analytics",
+          "number": "7",
+          "title_en": "Analytics",
+          "children": 2
+        },
+        {
+          "id": "settings",
+          "number": "8",
+          "title_en": "Settings",
+          "children": 1
+        }
+      ],
+      "placeholders": [
+        {
+          "id": "introduction",
+          "title_en": "Introduction"
+        },
+        {
+          "id": "fleet-models",
+          "title_en": "Fleet models"
+        },
+        {
+          "id": "fare-management-glossary",
+          "title_en": "Fare management glossary"
+        },
+        {
+          "id": "manage-consumers",
+          "title_en": "Manage consumers"
+        },
+        {
+          "id": "analytics-dashboard",
+          "title_en": "Dashboard"
+        },
+        {
+          "id": "reports",
+          "title_en": "Reports"
+        }
+      ],
+      "status": "pass",
+      "pdf_coverage_pct": 0.929
+    }
+  },
+  "comparisons": {
+    "driver_mitaxi": {
+      "json_guide": "driver",
+      "pdf_sections": 23,
+      "matched": 23,
+      "missing": 0,
+      "match_pct": 1.0,
+      "missing_sections": [],
+      "matched_samples": [
+        {
+          "number": "2.1",
+          "title": "Mobile App Registration",
+          "page": 1,
+          "json_match": "Mobile App Registration",
+          "via": "number"
+        },
+        {
+          "number": "2.2",
+          "title": "Web Portal Registration",
+          "page": 1,
+          "json_match": "Web Portal Registration",
+          "via": "number"
+        },
+        {
+          "number": "2.3",
+          "title": "Data Consent & Security (Store & Secure)",
+          "page": 1,
+          "json_match": "Data Consent & Security (Store & Secure)",
+          "via": "number"
+        },
+        {
+          "number": "4.1",
+          "title": "Online/Offline Shift Toggle",
+          "page": 1,
+          "json_match": "Online/Offline Shift Toggle",
+          "via": "number"
+        },
+        {
+          "number": "4.2",
+          "title": "SOS / Emergency Button",
+          "page": 1,
+          "json_match": "SOS / Emergency Button",
+          "via": "number"
+        },
+        {
+          "number": "4.3",
+          "title": "Main Navigation Menu",
+          "page": 1,
+          "json_match": "Main Navigation Menu",
+          "via": "number"
+        },
+        {
+          "number": "5.1",
+          "title": "Registering a Vehicle (Add Fleet)",
+          "page": 1,
+          "json_match": "Registering a Vehicle (Add Fleet)",
+          "via": "number"
+        },
+        {
+          "number": "5.2",
+          "title": "Vehicle Overview (My Fleet)",
+          "page": 1,
+          "json_match": "Vehicle Overview (My Fleet)",
+          "via": "number"
+        },
+        {
+          "number": "6.1",
+          "title": "Wallet Balance & Recharge",
+          "page": 1,
+          "json_match": "Wallet Balance & Recharge",
+          "via": "number"
+        },
+        {
+          "number": "6.2",
+          "title": "Withdrawal Requests",
+          "page": 1,
+          "json_match": "Withdrawal Requests",
+          "via": "number"
+        },
+        {
+          "number": "6.3",
+          "title": "Settlement Requests",
+          "page": 1,
+          "json_match": "Settlement Requests",
+          "via": "number"
+        },
+        {
+          "number": "6.4",
+          "title": "Earnings Reports & Graph Views",
+          "page": 1,
+          "json_match": "Earnings Reports & Graph Views",
+          "via": "number"
+        },
+        {
+          "number": "8.1",
+          "title": "Incoming Job Request",
+          "page": 1,
+          "json_match": "Incoming Job Request",
+          "via": "number"
+        },
+        {
+          "number": "8.2",
+          "title": "Picking up Passenger (Arrival)",
+          "page": 1,
+          "json_match": "Picking up Passenger (Arrival)",
+          "via": "number"
+        },
+        {
+          "number": "8.3",
+          "title": "Waiting for Passenger",
+          "page": 2,
+          "json_match": "Waiting for Passenger",
+          "via": "number"
+        }
+      ]
+    },
+    "driver_platform": {
+      "json_guide": "driver",
+      "pdf_sections": 14,
+      "matched": 7,
+      "missing": 7,
+      "match_pct": 0.5,
+      "missing_sections": [
+        {
+          "number": "2.2",
+          "title": "Driver Registration in Web",
+          "page": 2
+        },
+        {
+          "number": "4.1",
+          "title": "Online/Offline Mode",
+          "page": 2
+        },
+        {
+          "number": "4.3",
+          "title": "Trip History",
+          "page": 2
+        },
+        {
+          "number": "5.1",
+          "title": "Recharge",
+          "page": 2
+        },
+        {
+          "number": "5.3",
+          "title": "Settlement",
+          "page": 2
+        },
+        {
+          "number": "6.1",
+          "title": "Invite Friends",
+          "page": 2
+        },
+        {
+          "number": "6.2",
+          "title": "Commission and Subscription",
+          "page": 2
+        }
+      ],
+      "matched_samples": [
+        {
+          "number": "2.1",
+          "title": "Mobile App Registration",
+          "page": 2,
+          "json_match": "Mobile App Registration",
+          "via": "number"
+        },
+        {
+          "number": "4.2",
+          "title": "Emergency Button",
+          "page": 2,
+          "json_match": "SOS / Emergency Button",
+          "via": "number"
+        },
+        {
+          "number": "5.2",
+          "title": "Withdrawal requests",
+          "page": 2,
+          "json_match": "Withdrawal Requests",
+          "via": "title",
+          "score": 1.0
+        },
+        {
+          "number": "9.1",
+          "title": "Picking up Passenger",
+          "page": 2,
+          "json_match": "Picking up Passenger (Arrival)",
+          "via": "title",
+          "score": 0.75
+        },
+        {
+          "number": "9.2",
+          "title": "Waiting for Passenger",
+          "page": 2,
+          "json_match": "Waiting for Passenger",
+          "via": "title",
+          "score": 1.0
+        },
+        {
+          "number": "9.3",
+          "title": "Trip in Progress",
+          "page": 2,
+          "json_match": "Trip in Progress",
+          "via": "title",
+          "score": 1.0
+        },
+        {
+          "number": "9.4",
+          "title": "Fare Calculator",
+          "page": 2,
+          "json_match": "Fare Calculator & Summary",
+          "via": "title",
+          "score": 0.6666666666666666
+        }
+      ]
+    },
+    "passenger_mitaxi": {
+      "json_guide": "passenger",
+      "pdf_sections": 26,
+      "matched": 26,
+      "missing": 0,
+      "match_pct": 1.0,
+      "missing_sections": [],
+      "matched_samples": [
+        {
+          "number": "2.1",
+          "title": "Mobile App Registration & Verification",
+          "page": 1,
+          "json_match": "Mobile App Registration & Verification",
+          "via": "number"
+        },
+        {
+          "number": "2.2",
+          "title": "Web Portal Registration & Credit Cards",
+          "page": 1,
+          "json_match": "Web Portal Registration & Credit Cards",
+          "via": "number"
+        },
+        {
+          "number": "2.3",
+          "title": "Data Consent, Privacy, & Security (Store & Secure)",
+          "page": 1,
+          "json_match": "Data Consent, Privacy & Security (Store & Secure)",
+          "via": "number"
+        },
+        {
+          "number": "3.1",
+          "title": "Local/Normal Taxi Booking",
+          "page": 1,
+          "json_match": "Local/Normal Taxi Booking",
+          "via": "number"
+        },
+        {
+          "number": "3.2",
+          "title": "Scheduling Rides (Book Later)",
+          "page": 1,
+          "json_match": "Scheduling Rides (Book Later)",
+          "via": "number"
+        },
+        {
+          "number": "3.3",
+          "title": "Vehicle Categories & Fare Estimation",
+          "page": 1,
+          "json_match": "Vehicle Categories & Fare Estimation",
+          "via": "number"
+        },
+        {
+          "number": "4.1",
+          "title": "Multi-Stop Booking (Adding Stops)",
+          "page": 1,
+          "json_match": "Multi-Stop Booking (Adding Stops)",
+          "via": "number"
+        },
+        {
+          "number": "4.2",
+          "title": "Split Fare with Friends",
+          "page": 1,
+          "json_match": "Split Fare with Friends",
+          "via": "number"
+        },
+        {
+          "number": "5.1",
+          "title": "Rental Package (Long Hire)",
+          "page": 1,
+          "json_match": "Rental Package (Long Hire)",
+          "via": "number"
+        },
+        {
+          "number": "5.2",
+          "title": "Outstation (Intercity Travel)",
+          "page": 1,
+          "json_match": "Outstation (Intercity Travel)",
+          "via": "number"
+        },
+        {
+          "number": "6.1",
+          "title": "Airport Pick-ups & Drop-offs (Flight/Gate/Luggage)",
+          "page": 1,
+          "json_match": "Airport Pick-ups & Drop-offs (Flight/Gate/Luggage)",
+          "via": "number"
+        },
+        {
+          "number": "6.2",
+          "title": "Corporate/Business Account Bookings",
+          "page": 1,
+          "json_match": "Corporate/Business Account Bookings",
+          "via": "number"
+        },
+        {
+          "number": "7.1",
+          "title": "Real-Time Route & Driver Tracking",
+          "page": 1,
+          "json_match": "Real-Time Route & Driver Tracking",
+          "via": "number"
+        },
+        {
+          "number": "7.2",
+          "title": "In-App Passenger-Driver Chat & Calls",
+          "page": 1,
+          "json_match": "In-App Passenger-Driver Chat & Calls",
+          "via": "number"
+        },
+        {
+          "number": "7.3",
+          "title": "Ride Cancellations & Penalty Rules",
+          "page": 1,
+          "json_match": "Ride Cancellations & Penalty Rules",
+          "via": "number"
+        }
+      ]
+    },
+    "passenger_platform": {
+      "json_guide": "passenger",
+      "pdf_sections": 14,
+      "matched": 1,
+      "missing": 13,
+      "match_pct": 0.071,
+      "missing_sections": [
+        {
+          "number": "2.2",
+          "title": "Facebook Registration",
+          "page": 2
+        },
+        {
+          "number": "4.1",
+          "title": "Edit Profile",
+          "page": 2
+        },
+        {
+          "number": "4.2",
+          "title": "Booking Request",
+          "page": 2
+        },
+        {
+          "number": "4.3",
+          "title": "Applying Promo Code",
+          "page": 2
+        },
+        {
+          "number": "4.4",
+          "title": "Payment Mode",
+          "page": 2
+        },
+        {
+          "number": "4.5",
+          "title": "Package Plans",
+          "page": 2
+        },
+        {
+          "number": "4.6",
+          "title": "Booking Confirmation",
+          "page": 2
+        },
+        {
+          "number": "4.7",
+          "title": "Emergency Button",
+          "page": 2
+        },
+        {
+          "number": "4.8",
+          "title": "Trip in Progress",
+          "page": 2
+        },
+        {
+          "number": "4.9",
+          "title": "E-receipts, Rating, and Social Media Sharing",
+          "page": 2
+        },
+        {
+          "number": "5.1",
+          "title": "Upcoming Rides",
+          "page": 2
+        },
+        {
+          "number": "5.2",
+          "title": "Past Bookings",
+          "page": 2
+        },
+        {
+          "number": "6.1",
+          "title": "Add New Card",
+          "page": 2
+        }
+      ],
+      "matched_samples": [
+        {
+          "number": "2.1",
+          "title": "Mobile Number Registration",
+          "page": 2,
+          "json_match": "Mobile App Registration & Verification",
+          "via": "number"
+        }
+      ]
+    },
+    "admin": {
+      "json_guide": "admin",
+      "pdf_sections": 38,
+      "matched": 33,
+      "missing": 5,
+      "match_pct": 0.868,
+      "missing_sections": [
+        {
+          "number": "12.2",
+          "title": "Map Settings 71 12.3 Map API Keys 72 12.4 Manage Contacts 73 12.5 SMTP Mail Settings 74 12.6",
+          "page": 2
+        },
+        {
+          "number": "12.10",
+          "title": "Manage Popular Places 78 12.11 Manage CMS 79 12.12 Manage City 80 11.13 Manage State 82",
+          "page": 2
+        },
+        {
+          "number": "12.14",
+          "title": "Manage Country 84 12.15 Manage Theme Settings 84 12.16 Payments 89 12.17 Cloud Settings",
+          "page": 2
+        },
+        {
+          "number": "32",
+          "title": "of 96",
+          "page": 32
+        },
+        {
+          "number": "5",
+          "title": "and the maximum is 150.",
+          "page": 73
+        }
+      ],
+      "matched_samples": [
+        {
+          "number": "3.1",
+          "title": "Tour",
+          "page": 7,
+          "json_match": "Tour",
+          "via": "number"
+        },
+        {
+          "number": "4.1",
+          "title": "Dashboard",
+          "page": 8,
+          "json_match": "Dashboard",
+          "via": "number"
+        },
+        {
+          "number": "4.2",
+          "title": "Fleet Management",
+          "page": 10,
+          "json_match": "Fleet Management",
+          "via": "number"
+        },
+        {
+          "number": "4.3",
+          "title": "Workforce",
+          "page": 23,
+          "json_match": "Workforce",
+          "via": "number"
+        },
+        {
+          "number": "5.1",
+          "title": "Dashboard",
+          "page": 33,
+          "json_match": "Dashboard",
+          "via": "number"
+        },
+        {
+          "number": "5.2",
+          "title": "Dispatch",
+          "page": 37,
+          "json_match": "Dispatch",
+          "via": "number"
+        },
+        {
+          "number": "5.3",
+          "title": "Manage Bookings",
+          "page": 39,
+          "json_match": "Manage Bookings",
+          "via": "number"
+        },
+        {
+          "number": "5.4",
+          "title": "Fleet Dispatch Settings",
+          "page": 40,
+          "json_match": "Fleet Dispatch Settings",
+          "via": "number"
+        },
+        {
+          "number": "6.1",
+          "title": "Dashboard",
+          "page": 41,
+          "json_match": "Dashboard",
+          "via": "number"
+        },
+        {
+          "number": "6.2",
+          "title": "Transactions",
+          "page": 45,
+          "json_match": "Transactions",
+          "via": "number"
+        },
+        {
+          "number": "6.3",
+          "title": "Expense Management",
+          "page": 45,
+          "json_match": "Expense Management",
+          "via": "number"
+        },
+        {
+          "number": "7.1",
+          "title": "Dashboard",
+          "page": 48,
+          "json_match": "Dashboard",
+          "via": "number"
+        },
+        {
+          "number": "7.2",
+          "title": "Campaigns",
+          "page": 49,
+          "json_match": "Campaigns",
+          "via": "number"
+        },
+        {
+          "number": "7.3",
+          "title": "Templates",
+          "page": 51,
+          "json_match": "Templates",
+          "via": "number"
+        },
+        {
+          "number": "7.4",
+          "title": "Consumers",
+          "page": 52,
+          "json_match": "Consumers",
+          "via": "number"
+        }
+      ]
+    },
+    "dispatcher": {
+      "json_guide": "dispatcher",
+      "pdf_sections": 13,
+      "matched": 13,
+      "missing": 0,
+      "match_pct": 1.0,
+      "missing_sections": [],
+      "matched_samples": [
+        {
+          "number": "3.1",
+          "title": "Current Status of Driver",
+          "page": 2,
+          "json_match": "Current Status of Driver",
+          "via": "number"
+        },
+        {
+          "number": "3.2",
+          "title": "Total Trip Details",
+          "page": 2,
+          "json_match": "Total Trip Details",
+          "via": "number"
+        },
+        {
+          "number": "3.3",
+          "title": "Transactions",
+          "page": 2,
+          "json_match": "Transactions",
+          "via": "number"
+        },
+        {
+          "number": "3.4",
+          "title": "Available Fleets",
+          "page": 2,
+          "json_match": "Available Fleets",
+          "via": "number"
+        },
+        {
+          "number": "4.1",
+          "title": "Dashboard",
+          "page": 2,
+          "json_match": "Dashboard",
+          "via": "number"
+        },
+        {
+          "number": "4.2",
+          "title": "Dispatch",
+          "page": 2,
+          "json_match": "Dispatch",
+          "via": "number"
+        },
+        {
+          "number": "4.3",
+          "title": "Fleet dispatch settings",
+          "page": 2,
+          "json_match": "Fleet dispatch settings",
+          "via": "number"
+        },
+        {
+          "number": "5.1",
+          "title": "Dashboard",
+          "page": 2,
+          "json_match": "Dashboard",
+          "via": "number"
+        },
+        {
+          "number": "5.2",
+          "title": "Track",
+          "page": 2,
+          "json_match": "Track",
+          "via": "number"
+        },
+        {
+          "number": "5.3",
+          "title": "Fleet Management",
+          "page": 2,
+          "json_match": "Fleet Management",
+          "via": "number"
+        },
+        {
+          "number": "5.4",
+          "title": "Workforce",
+          "page": 2,
+          "json_match": "Workforce",
+          "via": "number"
+        },
+        {
+          "number": "6.1",
+          "title": "Dashboard",
+          "page": 2,
+          "json_match": "Dashboard",
+          "via": "number"
+        },
+        {
+          "number": "6.2",
+          "title": "Reports",
+          "page": 2,
+          "json_match": "Reports",
+          "via": "number"
+        }
+      ]
+    },
+    "vendor": {
+      "json_guide": "vendor",
+      "pdf_sections": 14,
+      "matched": 13,
+      "missing": 1,
+      "match_pct": 0.929,
+      "missing_sections": [
+        {
+          "number": "8",
+          "title": "KM).",
+          "page": 11
+        }
+      ],
+      "matched_samples": [
+        {
+          "number": "4.1",
+          "title": "Dashboard",
+          "page": 2,
+          "json_match": "Dashboard",
+          "via": "number"
+        },
+        {
+          "number": "4.2",
+          "title": "Track",
+          "page": 2,
+          "json_match": "Track",
+          "via": "number"
+        },
+        {
+          "number": "4.3",
+          "title": "Fleet Management",
+          "page": 2,
+          "json_match": "Fleet Management",
+          "via": "number"
+        },
+        {
+          "number": "4.4",
+          "title": "Workforce",
+          "page": 2,
+          "json_match": "Workforce",
+          "via": "number"
+        },
+        {
+          "number": "5.1",
+          "title": "Dashboard",
+          "page": 2,
+          "json_match": "Dashboard",
+          "via": "number"
+        },
+        {
+          "number": "5.2",
+          "title": "Dispatch",
+          "page": 2,
+          "json_match": "Dispatch",
+          "via": "number"
+        },
+        {
+          "number": "5.3",
+          "title": "Fleet dispatch settings",
+          "page": 2,
+          "json_match": "Fleet dispatch settings",
+          "via": "number"
+        },
+        {
+          "number": "6.1",
+          "title": "Dashboard",
+          "page": 2,
+          "json_match": "Dashboard",
+          "via": "number"
+        },
+        {
+          "number": "6.2",
+          "title": "Transactions",
+          "page": 2,
+          "json_match": "Transactions",
+          "via": "number"
+        },
+        {
+          "number": "6.3",
+          "title": "Withdrawal requests",
+          "page": 2,
+          "json_match": "Withdrawal requests",
+          "via": "number"
+        },
+        {
+          "number": "7.1",
+          "title": "Dashboard",
+          "page": 2,
+          "json_match": "Dashboard",
+          "via": "number"
+        },
+        {
+          "number": "7.2",
+          "title": "Reports",
+          "page": 2,
+          "json_match": "Reports",
+          "via": "number"
+        },
+        {
+          "number": "8.1",
+          "title": "Company settings",
+          "page": 2,
+          "json_match": "Company settings",
+          "via": "number"
+        }
+      ]
+    }
+  },
+  "mitaxi_features": {
+    "driver": {
+      "mitaxi_only_topics": [
+        {
+          "number": "2.2",
+          "title": "Web Portal Registration"
+        },
+        {
+          "number": "2.3",
+          "title": "Data Consent & Security (Store & Secure)"
+        },
+        {
+          "number": "4.1",
+          "title": "Online/Offline Shift Toggle"
+        },
+        {
+          "number": "4.3",
+          "title": "Main Navigation Menu"
+        },
+        {
+          "number": "5.1",
+          "title": "Registering a Vehicle (Add Fleet)"
+        },
+        {
+          "number": "5.2",
+          "title": "Vehicle Overview (My Fleet)"
+        },
+        {
+          "number": "6.4",
+          "title": "Earnings Reports & Graph Views"
+        },
+        {
+          "number": "8.1",
+          "title": "Incoming Job Request"
+        },
+        {
+          "number": "8.6",
+          "title": "Completing Payments (Cash/Card)"
+        },
+        {
+          "number": "9.1",
+          "title": "Editing Profile Details"
+        },
+        {
+          "number": "9.2",
+          "title": "Change Password"
+        },
+        {
+          "number": "9.3",
+          "title": "Account Deletion"
+        },
+        {
+          "number": "9.4",
+          "title": "Language Configurations"
+        }
+      ],
+      "platform_only_topics": [
+        {
+          "number": "2.2",
+          "title": "Driver Registration in Web"
+        },
+        {
+          "number": "4.1",
+          "title": "Online/Offline Mode"
+        },
+        {
+          "number": "4.3",
+          "title": "Trip History"
+        },
+        {
+          "number": "6.2",
+          "title": "Commission and Subscription"
+        }
+      ],
+      "integration_status": [
+        {
+          "number": "2.2",
+          "title": "Web Portal Registration",
+          "status": "integrated",
+          "json_title_match": "Web Portal Registration",
+          "match_score": 1.0,
+          "content_keyword_hits": [
+            "Mobile App Registration",
+            "Web Portal Registration",
+            "Data Consent & Security (Store & Secure)"
+          ]
+        },
+        {
+          "number": "2.3",
+          "title": "Data Consent & Security (Store & Secure)",
+          "status": "integrated",
+          "json_title_match": "Data Consent & Security (Store & Secure)",
+          "match_score": 1.0,
+          "content_keyword_hits": []
+        },
+        {
+          "number": "4.1",
+          "title": "Online/Offline Shift Toggle",
+          "status": "integrated",
+          "json_title_match": "Online/Offline Shift Toggle",
+          "match_score": 1.0,
+          "content_keyword_hits": [
+            "Introduction",
+            "Online/Offline Shift Toggle",
+            "Main Navigation Menu"
+          ]
+        },
+        {
+          "number": "4.3",
+          "title": "Main Navigation Menu",
+          "status": "integrated",
+          "json_title_match": "Main Navigation Menu",
+          "match_score": 1.0,
+          "content_keyword_hits": [
+            "Online/Offline Shift Toggle",
+            "Main Navigation Menu",
+            "Wallet Balance & Recharge"
+          ]
+        },
+        {
+          "number": "5.1",
+          "title": "Registering a Vehicle (Add Fleet)",
+          "status": "integrated",
+          "json_title_match": "Registering a Vehicle (Add Fleet)",
+          "match_score": 1.0,
+          "content_keyword_hits": [
+            "Introduction",
+            "Registering a Vehicle (Add Fleet)",
+            "Vehicle Overview (My Fleet)"
+          ]
+        },
+        {
+          "number": "5.2",
+          "title": "Vehicle Overview (My Fleet)",
+          "status": "integrated",
+          "json_title_match": "Vehicle Overview (My Fleet)",
+          "match_score": 1.0,
+          "content_keyword_hits": [
+            "Introduction",
+            "Registering a Vehicle (Add Fleet)",
+            "Vehicle Overview (My Fleet)"
+          ]
+        },
+        {
+          "number": "6.4",
+          "title": "Earnings Reports & Graph Views",
+          "status": "integrated",
+          "json_title_match": "Earnings Reports & Graph Views",
+          "match_score": 1.0,
+          "content_keyword_hits": []
+        },
+        {
+          "number": "8.1",
+          "title": "Incoming Job Request",
+          "status": "integrated",
+          "json_title_match": "Incoming Job Request",
+          "match_score": 1.0,
+          "content_keyword_hits": [
+            "Introduction",
+            "Mobile App Registration",
+            "Online/Offline Shift Toggle"
+          ]
+        },
+        {
+          "number": "8.6",
+          "title": "Completing Payments (Cash/Card)",
+          "status": "integrated",
+          "json_title_match": "Completing Payments (Cash/Card)",
+          "match_score": 1.0,
+          "content_keyword_hits": [
+            "Fare Calculator & Summary",
+            "Completing Payments (Cash/Card)"
+          ]
+        },
+        {
+          "number": "9.1",
+          "title": "Editing Profile Details",
+          "status": "integrated",
+          "json_title_match": "Editing Profile Details",
+          "match_score": 1.0,
+          "content_keyword_hits": [
+            "Mobile App Registration",
+            "Web Portal Registration",
+            "Data Consent & Security (Store & Secure)"
+          ]
+        },
+        {
+          "number": "9.2",
+          "title": "Change Password",
+          "status": "integrated",
+          "json_title_match": "Change Password",
+          "match_score": 1.0,
+          "content_keyword_hits": [
+            "Mobile App Registration",
+            "Signing In & Account Setup",
+            "Vehicle Overview (My Fleet)"
+          ]
+        },
+        {
+          "number": "9.3",
+          "title": "Account Deletion",
+          "status": "integrated",
+          "json_title_match": "Account Deletion",
+          "match_score": 1.0,
+          "content_keyword_hits": [
+            "Signing In & Account Setup",
+            "Wallet Balance & Recharge",
+            "Settlement Requests"
+          ]
+        },
+        {
+          "number": "9.4",
+          "title": "Language Configurations",
+          "status": "integrated",
+          "json_title_match": "Language Configurations",
+          "match_score": 1.0,
+          "content_keyword_hits": [
+            "Main Navigation Menu",
+            "Language Configurations"
+          ]
+        }
+      ]
+    },
+    "passenger": {
+      "mitaxi_only_topics": [
+        {
+          "number": "2.1",
+          "title": "Mobile App Registration & Verification"
+        },
+        {
+          "number": "2.2",
+          "title": "Web Portal Registration & Credit Cards"
+        },
+        {
+          "number": "2.3",
+          "title": "Data Consent, Privacy, & Security (Store & Secure)"
+        },
+        {
+          "number": "3.1",
+          "title": "Local/Normal Taxi Booking"
+        },
+        {
+          "number": "3.2",
+          "title": "Scheduling Rides (Book Later)"
+        },
+        {
+          "number": "3.3",
+          "title": "Vehicle Categories & Fare Estimation"
+        },
+        {
+          "number": "4.1",
+          "title": "Multi-Stop Booking (Adding Stops)"
+        },
+        {
+          "number": "4.2",
+          "title": "Split Fare with Friends"
+        },
+        {
+          "number": "5.1",
+          "title": "Rental Package (Long Hire)"
+        },
+        {
+          "number": "5.2",
+          "title": "Outstation (Intercity Travel)"
+        },
+        {
+          "number": "6.1",
+          "title": "Airport Pick-ups & Drop-offs (Flight/Gate/Luggage)"
+        },
+        {
+          "number": "6.2",
+          "title": "Corporate/Business Account Bookings"
+        },
+        {
+          "number": "7.1",
+          "title": "Real-Time Route & Driver Tracking"
+        },
+        {
+          "number": "7.2",
+          "title": "In-App Passenger-Driver Chat & Calls"
+        },
+        {
+          "number": "7.3",
+          "title": "Ride Cancellations & Penalty Rules"
+        },
+        {
+          "number": "8.1",
+          "title": "E-Receipts & Detailed Fare Breakdowns"
+        },
+        {
+          "number": "8.2",
+          "title": "Driver Ratings & Quality Feedback"
+        },
+        {
+          "number": "9.1",
+          "title": "Wallet Recharge & Payment Gateways (Stripe, Braintree, PayPal)"
+        },
+        {
+          "number": "9.2",
+          "title": "Promo Codes & Referrals (Invite Friends)"
+        },
+        {
+          "number": "10.1",
+          "title": "Favorite Places & Favorite Drivers"
+        },
+        {
+          "number": "10.2",
+          "title": "Emergency Contacts & SOS System"
+        },
+        {
+          "number": "11.1",
+          "title": "Profile Editing & Password Updates"
+        },
+        {
+          "number": "11.2",
+          "title": "Account Deactivation & Deletion"
+        },
+        {
+          "number": "11.3",
+          "title": "Log Out & Session Management"
+        },
+        {
+          "number": "6.1",
+          "title": "Airport Pick-ups & Drop-offs"
+        },
+        {
+          "number": "9.1",
+          "title": "Wallet Recharge & Payment Gateways"
+        }
+      ],
+      "platform_only_topics": [
+        {
+          "number": "2.1",
+          "title": "Mobile Number Registration"
+        },
+        {
+          "number": "2.2",
+          "title": "Facebook Registration"
+        },
+        {
+          "number": "4.1",
+          "title": "Edit Profile"
+        },
+        {
+          "number": "4.2",
+          "title": "Booking Request"
+        },
+        {
+          "number": "4.3",
+          "title": "Applying Promo Code"
+        },
+        {
+          "number": "4.4",
+          "title": "Payment Mode"
+        },
+        {
+          "number": "4.5",
+          "title": "Package Plans"
+        },
+        {
+          "number": "4.6",
+          "title": "Booking Confirmation"
+        },
+        {
+          "number": "4.7",
+          "title": "Emergency Button"
+        },
+        {
+          "number": "4.8",
+          "title": "Trip in Progress"
+        },
+        {
+          "number": "4.9",
+          "title": "E-receipts, Rating, and Social Media Sharing"
+        },
+        {
+          "number": "5.1",
+          "title": "Upcoming Rides"
+        },
+        {
+          "number": "5.2",
+          "title": "Past Bookings"
+        },
+        {
+          "number": "6.1",
+          "title": "Add New Card"
+        }
+      ],
+      "integration_status": [
+        {
+          "number": "2.1",
+          "title": "Mobile App Registration & Verification",
+          "status": "integrated",
+          "json_title_match": "Mobile App Registration & Verification",
+          "match_score": 1.0,
+          "content_keyword_hits": [
+            "Introduction",
+            "Mobile App Registration & Verification",
+            "Web Portal Registration & Credit Cards"
+          ]
+        },
+        {
+          "number": "2.2",
+          "title": "Web Portal Registration & Credit Cards",
+          "status": "integrated",
+          "json_title_match": "Web Portal Registration & Credit Cards",
+          "match_score": 1.0,
+          "content_keyword_hits": [
+            "Introduction",
+            "Mobile App Registration & Verification",
+            "Web Portal Registration & Credit Cards"
+          ]
+        },
+        {
+          "number": "2.3",
+          "title": "Data Consent, Privacy, & Security (Store & Secure)",
+          "status": "integrated",
+          "json_title_match": "Data Consent, Privacy & Security (Store & Secure)",
+          "match_score": 1.0,
+          "content_keyword_hits": [
+            "How We Use and Store Your Data",
+            "How We Secure Your Data"
+          ]
+        },
+        {
+          "number": "3.1",
+          "title": "Local/Normal Taxi Booking",
+          "status": "integrated",
+          "json_title_match": "Local/Normal Taxi Booking",
+          "match_score": 1.0,
+          "content_keyword_hits": [
+            "Introduction",
+            "What Data We Collect",
+            "How We Use and Store Your Data"
+          ]
+        },
+        {
+          "number": "3.2",
+          "title": "Scheduling Rides (Book Later)",
+          "status": "integrated",
+          "json_title_match": "Scheduling Rides (Book Later)",
+          "match_score": 1.0,
+          "content_keyword_hits": [
+            "Web Portal Registration & Credit Cards",
+            "Scheduling Rides (Book Later)",
+            "Outstation (Intercity Travel)"
+          ]
+        },
+        {
+          "number": "3.3",
+          "title": "Vehicle Categories & Fare Estimation",
+          "status": "integrated",
+          "json_title_match": "Vehicle Categories & Fare Estimation",
+          "match_score": 1.0,
+          "content_keyword_hits": [
+            "What Data We Collect",
+            "Vehicle Categories & Fare Estimation",
+            "Rental Package (Long Hire)"
+          ]
+        },
+        {
+          "number": "4.1",
+          "title": "Multi-Stop Booking (Adding Stops)",
+          "status": "integrated",
+          "json_title_match": "Multi-Stop Booking (Adding Stops)",
+          "match_score": 1.0,
+          "content_keyword_hits": [
+            "Vehicle Categories & Fare Estimation",
+            "Multi-Stop Booking (Adding Stops)",
+            "Rental Package (Long Hire)"
+          ]
+        },
+        {
+          "number": "4.2",
+          "title": "Split Fare with Friends",
+          "status": "integrated",
+          "json_title_match": "Split Fare with Friends",
+          "match_score": 1.0,
+          "content_keyword_hits": [
+            "Introduction",
+            "What Data We Collect",
+            "Vehicle Categories & Fare Estimation"
+          ]
+        },
+        {
+          "number": "5.1",
+          "title": "Rental Package (Long Hire)",
+          "status": "integrated",
+          "json_title_match": "Rental Package (Long Hire)",
+          "match_score": 1.0,
+          "content_keyword_hits": [
+            "Rental Package (Long Hire)"
+          ]
+        },
+        {
+          "number": "5.2",
+          "title": "Outstation (Intercity Travel)",
+          "status": "integrated",
+          "json_title_match": "Outstation (Intercity Travel)",
+          "match_score": 1.0,
+          "content_keyword_hits": [
+            "Vehicle Categories & Fare Estimation",
+            "Multi-Stop Booking (Adding Stops)",
+            "Rental Package (Long Hire)"
+          ]
+        },
+        {
+          "number": "6.1",
+          "title": "Airport Pick-ups & Drop-offs (Flight/Gate/Luggage)",
+          "status": "integrated",
+          "json_title_match": "Airport Pick-ups & Drop-offs (Flight/Gate/Luggage)",
+          "match_score": 1.0,
+          "content_keyword_hits": [
+            "Airport Pick-ups & Drop-offs (Flight/Gate/Luggage)",
+            "Favorite Places & Favorite Drivers"
+          ]
+        },
+        {
+          "number": "6.2",
+          "title": "Corporate/Business Account Bookings",
+          "status": "integrated",
+          "json_title_match": "Corporate/Business Account Bookings",
+          "match_score": 1.0,
+          "content_keyword_hits": [
+            "Introduction",
+            "Web Portal Registration & Credit Cards",
+            "Corporate/Business Account Bookings"
+          ]
+        },
+        {
+          "number": "7.1",
+          "title": "Real-Time Route & Driver Tracking",
+          "status": "integrated",
+          "json_title_match": "Real-Time Route & Driver Tracking",
+          "match_score": 1.0,
+          "content_keyword_hits": [
+            "Introduction",
+            "What Data We Collect",
+            "Scheduling Rides (Book Later)"
+          ]
+        },
+        {
+          "number": "7.2",
+          "title": "In-App Passenger-Driver Chat & Calls",
+          "status": "integrated",
+          "json_title_match": "In-App Passenger-Driver Chat & Calls",
+          "match_score": 1.0,
+          "content_keyword_hits": [
+            "Introduction",
+            "What Data We Collect",
+            "Local/Normal Taxi Booking"
+          ]
+        },
+        {
+          "number": "7.3",
+          "title": "Ride Cancellations & Penalty Rules",
+          "status": "integrated",
+          "json_title_match": "Ride Cancellations & Penalty Rules",
+          "match_score": 1.0,
+          "content_keyword_hits": []
+        },
+        {
+          "number": "8.1",
+          "title": "E-Receipts & Detailed Fare Breakdowns",
+          "status": "integrated",
+          "json_title_match": "E-Receipts & Detailed Fare Breakdowns",
+          "match_score": 1.0,
+          "content_keyword_hits": [
+            "Introduction",
+            "Vehicle Categories & Fare Estimation",
+            "E-Receipts & Detailed Fare Breakdowns"
+          ]
+        },
+        {
+          "number": "8.2",
+          "title": "Driver Ratings & Quality Feedback",
+          "status": "integrated",
+          "json_title_match": "Driver Ratings & Quality Feedback",
+          "match_score": 1.0,
+          "content_keyword_hits": [
+            "Driver Ratings & Quality Feedback"
+          ]
+        },
+        {
+          "number": "9.1",
+          "title": "Wallet Recharge & Payment Gateways (Stripe, Braintree, PayPal)",
+          "status": "integrated",
+          "json_title_match": "Wallet Recharge & Payment Gateways (Stripe, Braintree, PayPal)",
+          "match_score": 1.0,
+          "content_keyword_hits": [
+            "How We Secure Your Data",
+            "Wallet Recharge & Payment Gateways (Stripe, Braintree, PayPal)"
+          ]
+        },
+        {
+          "number": "9.2",
+          "title": "Promo Codes & Referrals (Invite Friends)",
+          "status": "integrated",
+          "json_title_match": "Promo Codes & Referrals (Invite Friends)",
+          "match_score": 1.0,
+          "content_keyword_hits": [
+            "Promo Codes & Referrals (Invite Friends)"
+          ]
+        },
+        {
+          "number": "10.1",
+          "title": "Favorite Places & Favorite Drivers",
+          "status": "integrated",
+          "json_title_match": "Favorite Places & Favorite Drivers",
+          "match_score": 1.0,
+          "content_keyword_hits": [
+            "Favorite Places & Favorite Drivers"
+          ]
+        },
+        {
+          "number": "10.2",
+          "title": "Emergency Contacts & SOS System",
+          "status": "integrated",
+          "json_title_match": "Emergency Contacts & SOS System",
+          "match_score": 1.0,
+          "content_keyword_hits": [
+            "Introduction",
+            "Mobile App Registration & Verification",
+            "What Data We Collect"
+          ]
+        },
+        {
+          "number": "11.1",
+          "title": "Profile Editing & Password Updates",
+          "status": "integrated",
+          "json_title_match": "Profile Editing & Password Updates",
+          "match_score": 1.0,
+          "content_keyword_hits": [
+            "What Data We Collect",
+            "Know Your Rights",
+            "Profile Editing & Password Updates"
+          ]
+        },
+        {
+          "number": "11.2",
+          "title": "Account Deactivation & Deletion",
+          "status": "integrated",
+          "json_title_match": "Account Deactivation & Deletion",
+          "match_score": 1.0,
+          "content_keyword_hits": [
+            "Introduction",
+            "Mobile App Registration & Verification",
+            "Web Portal Registration & Credit Cards"
+          ]
+        },
+        {
+          "number": "11.3",
+          "title": "Log Out & Session Management",
+          "status": "integrated",
+          "json_title_match": "Log Out & Session Management",
+          "match_score": 1.0,
+          "content_keyword_hits": [
+            "Introduction",
+            "Web Portal Registration & Credit Cards",
+            "How We Use and Store Your Data"
+          ]
+        },
+        {
+          "number": "6.1",
+          "title": "Airport Pick-ups & Drop-offs",
+          "status": "integrated",
+          "json_title_match": "Airport Pick-ups & Drop-offs (Flight/Gate/Luggage)",
+          "match_score": 0.62,
+          "content_keyword_hits": [
+            "How We Use and Store Your Data",
+            "Local/Normal Taxi Booking",
+            "Scheduling Rides (Book Later)"
+          ]
+        },
+        {
+          "number": "9.1",
+          "title": "Wallet Recharge & Payment Gateways",
+          "status": "integrated",
+          "json_title_match": "Wallet Recharge & Payment Gateways (Stripe, Braintree, PayPal)",
+          "match_score": 0.57,
+          "content_keyword_hits": [
+            "E-Receipts & Detailed Fare Breakdowns",
+            "Wallet Recharge & Payment Gateways (Stripe, Braintree, PayPal)"
+          ]
+        }
+      ]
+    }
+  },
+  "admin_truncation": {
+    "pdf_pages": 84,
+    "last_page_ends_with": "words, and description.  \n12.12 Manage City  \nThis page displays the list of cities and its details including the fare percentage. If you want to change the \ndefault city, enable the city of your choice and click on the \u201cUpdate\u201d button in the bottom-right corner to \nsave changes.  \nPage 80 of 96",
+    "json_has_12_13_to_12_17": true,
+    "sections_12_13_17_have_content": {
+      "12.13": {
+        "title": "Manage State",
+        "en_len": 626,
+        "es_len": 763,
+        "en_empty": false
+      },
+      "12.14": {
+        "title": "Manage Country",
+        "en_len": 512,
+        "es_len": 564,
+        "en_empty": false
+      },
+      "12.15": {
+        "title": "Manage Theme Settings",
+        "en_len": 2122,
+        "es_len": 2694,
+        "en_empty": false
+      },
+      "12.16": {
+        "title": "Payments",
+        "en_len": 1380,
+        "es_len": 1700,
+        "en_empty": false
+      },
+      "12.17": {
+        "title": "Cloud Settings",
+        "en_len": 1669,
+        "es_len": 1975,
+        "en_empty": false
+      }
+    }
+  }
+}

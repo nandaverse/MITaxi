@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>MiTaxi &amp; TaxiMobility Documentation</title>
+<meta name="description" content="Complete, searchable documentation for the MiTaxi Driver app, MiTaxi Passenger app, and TaxiMobility Admin Panel — in English and Spanish.">
+<link rel="icon" href="assets/logo-light.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+<script>
+(function () {
+  var theme = localStorage.getItem('docs-theme');
+  if (!theme) theme = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+  document.documentElement.setAttribute('data-theme', theme);
+  document.documentElement.lang = localStorage.getItem('docs-lang') || 'es';
+})();
+</script>
+</head>
+<body>
+
+<header class="topbar">
+  <button class="icon-btn nav-toggle" id="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
+    <span class="material-symbols-outlined" aria-hidden="true">menu</span>
+  </button>
+  <a class="brand" href="#/">
+    <img class="brand-logo" data-logo="light" src="assets/logo-light.png" alt="TaxiMobility" height="22">
+    <img class="brand-logo" data-logo="dark" src="assets/logo-dark.png" alt="TaxiMobility" height="22">
+    <span>Docs</span>
+  </a>
+
+  <div class="search-wrap">
+    <span class="material-symbols-outlined search-icon" aria-hidden="true">search</span>
+    <input id="search-input" type="text" placeholder="Buscar en la documentación…" autocomplete="off">
+    <kbd class="search-kbd">/</kbd>
+    <div id="search-results" class="search-results hidden"></div>
+  </div>
+
+  <div class="topbar-right">
+    <div class="lang-switch" id="lang-switch" role="group" aria-label="Language">
+      <button class="lang-btn" data-lang="en">EN</button>
+      <button class="lang-btn active" data-lang="es">ES</button>
+    </div>
+    <button class="icon-btn theme-toggle" id="theme-toggle" aria-label="Toggle theme">
+      <span class="material-symbols-outlined theme-icon" data-icon="light" aria-hidden="true">light_mode</span>
+      <span class="material-symbols-outlined theme-icon" data-icon="dark" aria-hidden="true">dark_mode</span>
+    </button>
+  </div>
+</header>
+
+<div class="layout">
+  <nav class="sidebar" id="sidebar">
+    <div class="sidebar-scroll" id="sidebar-content"></div>
+  </nav>
+  <div class="sidebar-backdrop" id="sidebar-backdrop"></div>
+
+  <main class="content" id="content"></main>
+
+  <nav class="on-this-page" id="on-this-page"></nav>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>

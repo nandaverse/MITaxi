@@ -1,0 +1,249 @@
+{
+  "id": "dispatcher",
+  "title": {
+    "en": "TaxiMobility Dispatcher Guide",
+    "es": "Guía del Panel de Despachador de TaxiMobility"
+  },
+  "tagline": {
+    "en": "A complete guide to accepting bookings, dispatching drivers, tracking the fleet, and reviewing analytics from the TaxiMobility Dispatcher panel.",
+    "es": "Una guía completa para aceptar reservas, despachar conductores, rastrear la flotilla y consultar los análisis desde el panel de Despachador de TaxiMobility."
+  },
+  "sections": [
+    {
+      "id": "introduction",
+      "number": "1",
+      "title": {
+        "en": "Introduction",
+        "es": "Introducción"
+      },
+      "content": {
+        "en": "The Dispatcher panel brings booking management under one roof, so taxi dispatch can run faster and more efficiently. It sits within the platform's management hierarchy below a master admin panel and is, in turn, governed by the individual company panels beneath which it operates — forming the operational layer that turns company policy into day-to-day trip execution.\n\nFrom the Dispatcher panel, a dispatcher can:\n\n- Accept incoming bookings\n- Schedule trips in advance\n- Assign, or reassign, a driver to a ride\n- Track payments and driver activity",
+        "es": "El panel de Despachador reúne la gestión de reservas en un solo lugar, para lograr un despacho de taxis más rápido y eficiente. Se ubica dentro de la jerarquía de administración de la plataforma, por debajo de un panel de administrador maestro (master admin), y a su vez está gobernado por los distintos paneles de empresa bajo los cuales opera, formando la capa operativa que convierte las políticas de la empresa en la ejecución diaria de los viajes.\n\nDesde el panel de Despachador, un despachador puede:\n\n- Aceptar reservas entrantes\n- Programar viajes con anticipación\n- Asignar, o reasignar, un conductor a un viaje\n- Dar seguimiento a los pagos y a la actividad de los conductores"
+      }
+    },
+    {
+      "id": "login",
+      "number": "2",
+      "title": {
+        "en": "Login",
+        "es": "Inicio de Sesión"
+      },
+      "content": {
+        "en": "Dispatchers sign in to the panel using the login credentials issued to them.\n\n1. On the **Dispatcher Log In** screen, enter your registered email address and password.\n2. Tick **Remember Me** if you want the panel to keep your login details saved for future visits.\n3. Click **Log In**.\n\n![Dispatcher Log In screen with email, password, Remember Me and Company Login options](assets/dispatcher/p003-1.jpeg)\n\nIf you have forgotten your password:\n\n1. Click **Forgot?** next to the password field.\n2. Enter the email address linked to your account.\n3. Click **Send**.\n\nA link to reset your password is emailed to your registered address.\n\n![Forgot Password screen requesting the registered email address](assets/dispatcher/p003-2.jpeg)",
+        "es": "Los despachadores inician sesión en el panel utilizando las credenciales que les fueron asignadas.\n\n1. En la pantalla **Dispatcher Log In** (Inicio de Sesión del Despachador), ingrese su correo electrónico registrado y su contraseña.\n2. Marque la casilla **Remember Me** (Recordarme) si desea que el panel guarde sus datos de acceso para futuras visitas.\n3. Haga clic en **Log In** (Iniciar Sesión).\n\n![Pantalla de inicio de sesión del despachador con correo, contraseña, Recordarme e inicio de sesión de empresa](assets/dispatcher/p003-1.jpeg)\n\nSi olvidó su contraseña:\n\n1. Haga clic en **Forgot?** (¿Olvidó?), junto al campo de contraseña.\n2. Ingrese el correo electrónico vinculado a su cuenta.\n3. Haga clic en **Send** (Enviar).\n\nSe enviará un enlace para restablecer la contraseña a su correo electrónico registrado.\n\n![Pantalla de recuperación de contraseña solicitando el correo registrado](assets/dispatcher/p003-2.jpeg)"
+      }
+    },
+    {
+      "id": "dashboard",
+      "number": "3",
+      "title": {
+        "en": "Dashboard",
+        "es": "Panel Principal"
+      },
+      "content": {
+        "en": "",
+        "es": ""
+      },
+      "children": [
+        {
+          "id": "current-status-of-driver",
+          "number": "3.1",
+          "title": {
+            "en": "Current Status of Driver",
+            "es": "Estado Actual del Conductor"
+          },
+          "content": {
+            "en": "The Dashboard gives dispatchers a single, precise view of every key figure in the operation: total fleets, drivers, unassigned fleets, available fleets, unassigned drivers, and live passengers. Every chart and graph on the dashboard links through to a more detailed report on the data it displays.\n\n![Dashboard overview tiles showing Drivers, Fleets, Unassigned Fleets, Available Fleets, Unassigned Drivers and Live Passengers](assets/dispatcher/p004-1.jpeg)\n\nThe map view plots each driver's location and current status using a distinct pointer icon for every state — **Available**, **On Trip**, **Active**, or **Shift Out** — and lets the dispatcher follow live vehicle movement as trips progress.\n\n![Live dispatch map with a legend for Available, On Trip, In Active and Shift OUT driver statuses](assets/dispatcher/p004-2.jpeg)",
+            "es": "El panel principal ofrece a los despachadores una vista única y precisa de cada cifra clave de la operación: total de flotillas, conductores, flotillas sin asignar, flotillas disponibles, conductores sin asignar y pasajeros en línea. Cada gráfica del panel enlaza a un informe más detallado de la información que representa.\n\n![Tarjetas del panel mostrando Conductores, Flotillas, Flotillas sin Asignar, Flotillas Disponibles, Conductores sin Asignar y Pasajeros en Línea](assets/dispatcher/p004-1.jpeg)\n\nLa vista de mapa ubica la posición de cada conductor y su estado actual mediante un ícono distinto para cada situación —**Disponible**, **En Viaje**, **Activo** o **Fuera de Turno**— y permite al despachador seguir el movimiento del vehículo en tiempo real conforme avanza el viaje.\n\n![Mapa de despacho en vivo con leyenda de los estados Disponible, En Viaje, Activo y Fuera de Turno](assets/dispatcher/p004-2.jpeg)"
+          }
+        },
+        {
+          "id": "total-trip-details",
+          "number": "3.2",
+          "title": {
+            "en": "Total Trip Details",
+            "es": "Detalle Total de Viajes"
+          },
+          "content": {
+            "en": "A graph plots the number of rides completed and the revenue they generated, month by month, giving dispatchers a quick outline of overall business growth. Use the **from** and **to** date fields above the chart and click **Go** to change the reporting period.\n\n![Total Trip Details chart plotting trip revenues and trip counts over time](assets/dispatcher/p005-1.jpeg)",
+            "es": "Una gráfica muestra el número de viajes realizados y los ingresos que generaron, mes con mes, dando a los despachadores un panorama rápido del crecimiento general del negocio. Use los campos de fecha **from** (desde) y **to** (hasta) sobre la gráfica y haga clic en **Go** (Ir) para cambiar el periodo del reporte.\n\n![Gráfica de Detalle Total de Viajes que muestra los ingresos y el número de viajes a lo largo del tiempo](assets/dispatcher/p005-1.jpeg)"
+          }
+        },
+        {
+          "id": "transactions",
+          "number": "3.3",
+          "title": {
+            "en": "Transactions",
+            "es": "Transacciones"
+          },
+          "content": {
+            "en": "A bar chart shows how many rides each driver completed within the selected time interval, with the trip count broken out per driver. Use the filter to select a **from** and **to** date on the calendar and view the figures for a particular driver.\n\n![Trip Meter by Drivers chart showing the number of trips completed by each driver](assets/dispatcher/p005-2.jpeg)",
+            "es": "Una gráfica de barras muestra cuántos viajes completó cada conductor durante el intervalo de tiempo seleccionado, con el conteo de viajes desglosado por conductor. Use el filtro para seleccionar una fecha **from** (desde) y **to** (hasta) en el calendario y consultar las cifras de un conductor en particular.\n\n![Gráfica de viajes por conductor mostrando el número de viajes completados por cada uno](assets/dispatcher/p005-2.jpeg)"
+          }
+        },
+        {
+          "id": "available-fleets",
+          "number": "3.4",
+          "title": {
+            "en": "Available Fleets",
+            "es": "Flotillas Disponibles"
+          },
+          "content": {
+            "en": "The Available Fleets table lists every vehicle currently assigned to a driver, together with the fleet number, the driver's name, and the driver's contact number.\n\n![Available Fleets table listing fleet number, driver name and driver phone number](assets/dispatcher/p006-1.jpeg)",
+            "es": "La tabla de Flotillas Disponibles enumera cada vehículo actualmente asignado a un conductor, junto con el número de flotilla, el nombre del conductor y su número de contacto.\n\n![Tabla de Flotillas Disponibles con número de flotilla, nombre del conductor y teléfono](assets/dispatcher/p006-1.jpeg)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "dispatcher",
+      "number": "4",
+      "title": {
+        "en": "Dispatcher",
+        "es": "Despachador"
+      },
+      "content": {
+        "en": "",
+        "es": ""
+      },
+      "children": [
+        {
+          "id": "dispatcher-dashboard",
+          "number": "4.1",
+          "title": {
+            "en": "Dashboard",
+            "es": "Panel Principal"
+          },
+          "content": {
+            "en": "The Dispatcher Dashboard gives an overview of every missed, rejected, or cancelled booking, payments received through each payment mode, the channel each booking came through, and a heatmap of booking activity.\n\n**Bookings and missed bookings** — The dashboard totals every completed ride, alongside rides that were missed because the driver rejected the request or the rider cancelled it.\n\n![Total Trips, Trips Completed and Rejected/Cancelled counters for a selected date range](assets/dispatcher/p006-2.jpeg)\n\n**Booking type and payment mode** — Bookings are broken out individually by the channel used to place them — website, mobile app, street pickup, or call center — and payments received are broken out by referral programs, promotions, card, and cash. Use the filter to narrow the data to a particular date and time.\n\n![Booking Type donut chart broken down by Web, Mobile, Street Pickup and Call Center](assets/dispatcher/p007-3.jpeg)\n\n**Booking heatmap** — The heatmap highlights the locations with the highest booking rate.\n\n![Booking Heat Map showing concentrations of bookings across a city](assets/dispatcher/p006-3.jpeg)",
+            "es": "El Panel del Despachador ofrece un resumen de todas las reservas perdidas, rechazadas o canceladas, los pagos recibidos por cada forma de pago, el canal por el que se realizó cada reserva y un mapa de calor de la actividad de reservas.\n\n**Reservas y reservas perdidas** — El panel totaliza todos los viajes completados, junto con los viajes que se perdieron porque el conductor rechazó la solicitud o el pasajero la canceló.\n\n![Contadores de Total de Viajes, Viajes Completados y Rechazados/Cancelados para un rango de fechas](assets/dispatcher/p006-2.jpeg)\n\n**Tipo de reserva y forma de pago** — Las reservas se desglosan individualmente según el canal utilizado para realizarlas —sitio web, app móvil, recogida en la calle o centro de llamadas— y los pagos recibidos se desglosan por programas de referidos, promociones, tarjeta y efectivo. Use el filtro para acotar los datos a una fecha y hora específicas.\n\n![Gráfica de dona de Tipo de Reserva desglosada por Web, Móvil, Recogida en la Calle y Centro de Llamadas](assets/dispatcher/p007-3.jpeg)\n\n**Mapa de calor de reservas** — El mapa de calor resalta las ubicaciones con la mayor tasa de reservas.\n\n![Mapa de Calor de Reservas mostrando la concentración de reservas en una ciudad](assets/dispatcher/p006-3.jpeg)"
+          }
+        },
+        {
+          "id": "dispatch",
+          "number": "4.2",
+          "title": {
+            "en": "Dispatch",
+            "es": "Despacho"
+          },
+          "content": {
+            "en": "Refined filters and keyword search — by vehicle status, booking status, driver status, and vehicle model — let the dispatcher view and manage the status of every vehicle, and assign or reassign a ride for either an on-demand or a scheduled booking. From this screen, the dispatcher can also watch live vehicle movement on the map.\n\n![Dispatch screen with a job list on the left and live vehicle positions on the map](assets/dispatcher/p008-1.jpeg)\n\n**Adding a booking manually**\n\n1. From Dispatch, click the **+** icon to add a job.\n2. Enter the passenger's information (name, email, mobile number), or mark the booking as **Anonymous**.\n3. Enter the pickup location, drop-off location, date, and time.\n4. Select the vehicle from the dropdown list, and apply a promo code if one applies.\n5. Review the nearest available drivers, their ETA, and the fare estimate (journey time, distance, tax, and approximate fare).\n6. Click **Dispatch** to send the job immediately, or **Book Later** to schedule it for the future.\n\n![Booking form for passenger information and booking details, alongside a nearest-driver and fare-estimate panel](assets/dispatcher/p009-1.jpeg)\n\n**Finding an existing booking**\n\nThe dispatcher can also look up an already-assigned booking, searching by Job ID and switching between the **Anonymous** and **Account** tabs to narrow the search.\n\n![Search by Job ID panel with Anonymous and Account tabs](assets/dispatcher/p010-1.jpeg)",
+            "es": "Filtros refinados y búsqueda por palabra clave —por estado del vehículo, estado de la reserva, estado del conductor y modelo del vehículo— permiten al despachador ver y administrar el estado de cada vehículo, y asignar o reasignar un viaje, ya sea para una reserva inmediata o programada. Desde esta pantalla, el despachador también puede seguir el movimiento del vehículo en vivo sobre el mapa.\n\n![Pantalla de Despacho con una lista de viajes a la izquierda y la posición de los vehículos en el mapa](assets/dispatcher/p008-1.jpeg)\n\n**Agregar una reserva manualmente**\n\n1. Desde Despacho (Dispatch), haga clic en el ícono **+** para agregar un viaje.\n2. Ingrese la información del pasajero (nombre, correo electrónico, número de celular), o marque la reserva como **Anonymous** (Anónimo).\n3. Ingrese el lugar de recogida, el lugar de destino, la fecha y la hora.\n4. Seleccione el vehículo de la lista desplegable y aplique un código promocional si corresponde.\n5. Revise los conductores disponibles más cercanos, su tiempo estimado de llegada y la estimación de tarifa (duración del viaje, distancia, impuesto y tarifa aproximada).\n6. Haga clic en **Dispatch** (Despachar) para enviar el viaje de inmediato, o en **Book Later** (Reservar Después) para programarlo.\n\n![Formulario de reserva con datos del pasajero y detalles del viaje, junto con el panel de conductor más cercano y estimación de tarifa](assets/dispatcher/p009-1.jpeg)\n\n**Búsqueda de una reserva existente**\n\nEl despachador también puede consultar los detalles de una reserva ya asignada, buscando por el ID del viaje y alternando entre las pestañas **Anonymous** (Anónimo) y **Account** (Cuenta) para acotar la búsqueda.\n\n![Panel de búsqueda por ID de viaje con pestañas Anónimo y Cuenta](assets/dispatcher/p010-1.jpeg)"
+          }
+        },
+        {
+          "id": "fleet-dispatch-settings",
+          "number": "4.3",
+          "title": {
+            "en": "Fleet dispatch settings",
+            "es": "Configuración de Despacho de Flotilla"
+          },
+          "content": {
+            "en": "Dispatch settings determine how the system assigns trips to drivers, and which notification each driver receives.\n\n- **Auto** — Automatically assigns the trip to the nearest free driver.\n- **Manual** — Shows the list of available drivers so the dispatcher can choose who to assign the trip to.\n- **Auto & Manual** — At the moment each trip is dispatched, the system prompts the dispatcher to choose one of the two options for that particular trip.\n\nFor scheduled or advance bookings, the **Later booking time interval** sets the gap between the moment a ride-request notification is sent to the assigned driver and the scheduled pickup time.\n\n![Fleet Dispatch Settings form with Auto/Manual checkboxes and the Later booking time interval field](assets/dispatcher/p010-2.jpeg)",
+            "es": "La configuración de despacho determina cómo el sistema asigna los viajes a los conductores, y qué notificación recibe cada conductor.\n\n- **Auto** — Asigna automáticamente el viaje al conductor libre más cercano.\n- **Manual** — Muestra la lista de conductores disponibles para que el despachador elija a quién asignar el viaje.\n- **Auto y Manual** — En el momento de despachar cada viaje, el sistema le pedirá al despachador elegir una de las dos opciones para ese viaje en particular.\n\nPara reservas programadas o anticipadas, el campo **Later booking time interval** (Intervalo de tiempo para reservas anticipadas) define el tiempo que transcurre entre el envío de la notificación de solicitud de viaje al conductor asignado y la hora programada de recogida.\n\n![Formulario de Configuración de Despacho de Flotilla con casillas Auto/Manual y el intervalo de reservas anticipadas](assets/dispatcher/p010-2.jpeg)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "fleet-tracking",
+      "number": "5",
+      "title": {
+        "en": "Fleet Tracking",
+        "es": "Rastreo de Flotilla"
+      },
+      "content": {
+        "en": "",
+        "es": ""
+      },
+      "children": [
+        {
+          "id": "fleet-tracking-dashboard",
+          "number": "5.1",
+          "title": {
+            "en": "Dashboard",
+            "es": "Panel Principal"
+          },
+          "content": {
+            "en": "The Fleet Tracking dashboard reports on fleet counts, fleet availability, idle running time, driver unavailability, and bookings, using graphs and a vehicle heatmap. Stat tiles cover Total Fleets, Assigned Fleets, Unassigned Fleets, Total Active Fleets, Available Fleets, Unavailable Fleets, Total Kilometers, Empty Kilometers, Subscribed Drivers, and Commission Drivers.\n\n- **Total Kilometers** is the total distance travelled by fleets during rides, including Empty Kilometers.\n- **Empty Kilometers** is the distance travelled empty — either on the way to pick up a passenger, or with no ride at all.\n\n![Fleet Tracking dashboard overview with Total Fleets, Assigned Fleets, Total Kilometers, Empty Kilometers and Subscribed Drivers tiles](assets/dispatcher/p011-1.jpeg)\n\n**Fleet availability** — This graph plots how many vehicles were available but did not receive any ride requests during the selected interval. Use the filter to choose the desired date range.\n\n![Fleet Availability graph over a selected date range](assets/dispatcher/p011-2.jpeg)\n\n**Driver unavailability** — This graph plots how many drivers were available but did not accept any passenger request during the selected interval.\n\n![Driver unavailability graph over a selected date range](assets/dispatcher/p012-1.jpeg)\n\n**Vehicle heatmap** — The heatmap visualizes where vehicles are positioned across a location, indicating fleet availability by area.\n\n![Vehicle HeatMap showing where fleets are concentrated across a region](assets/dispatcher/p012-2.jpeg)",
+            "es": "El panel de Fleet Tracking (Rastreo de Flotilla) reporta sobre el número de flotillas, su disponibilidad, el tiempo de inactividad, la no disponibilidad de conductores y las reservas, mediante gráficas y un mapa de calor de vehículos. Las tarjetas de indicadores incluyen Total de Flotillas, Flotillas Asignadas, Flotillas sin Asignar, Total de Flotillas Activas, Flotillas Disponibles, Flotillas No Disponibles, Kilómetros Totales, Kilómetros en Vacío, Conductores Suscritos y Conductores por Comisión.\n\n- Los **Kilómetros Totales** son la distancia total recorrida por las flotillas durante los viajes, incluidos los Kilómetros en Vacío.\n- Los **Kilómetros en Vacío** son la distancia recorrida sin pasajero, ya sea de camino a recoger a uno o sin ningún viaje asignado.\n\n![Resumen del panel de Rastreo de Flotilla con tarjetas de Total de Flotillas, Flotillas Asignadas, Kilómetros Totales, Kilómetros en Vacío y Conductores Suscritos](assets/dispatcher/p011-1.jpeg)\n\n**Disponibilidad de flotilla** — Esta gráfica muestra cuántos vehículos estuvieron disponibles pero no recibieron ninguna solicitud de viaje durante el intervalo seleccionado. Use el filtro para elegir el rango de fechas deseado.\n\n![Gráfica de Disponibilidad de Flotilla para un rango de fechas seleccionado](assets/dispatcher/p011-2.jpeg)\n\n**No disponibilidad de conductores** — Esta gráfica muestra cuántos conductores estuvieron disponibles pero no aceptaron ninguna solicitud de pasajero durante el intervalo seleccionado.\n\n![Gráfica de no disponibilidad de conductores para un rango de fechas seleccionado](assets/dispatcher/p012-1.jpeg)\n\n**Mapa de calor de vehículos** — El mapa de calor visualiza la posición de los vehículos en una ubicación, indicando la disponibilidad de flotilla por zona.\n\n![Mapa de Calor de Vehículos mostrando dónde se concentran las flotillas en una región](assets/dispatcher/p012-2.jpeg)"
+          }
+        },
+        {
+          "id": "track",
+          "number": "5.2",
+          "title": {
+            "en": "Track",
+            "es": "Rastreo"
+          },
+          "content": {
+            "en": "From the Track screen, the dispatcher can locate vehicles by:\n\n- **Vehicle model** — filter by ticking one or more checkboxes (Taxi, LUX, LIMO).\n- **An individual vehicle** — searched directly by taxi number or driver name.\n- **Driver availability status** — Free, Active, or Busy.\n\nResults update on the live map, letting the dispatcher follow vehicle movement in real time.\n\n![Track screen with Vehicle Type filters, a driver/taxi number search box, and Free/Active/Busy status buttons](assets/dispatcher/p013-2.jpeg)",
+            "es": "Desde la pantalla de Track (Rastreo), el despachador puede ubicar vehículos por:\n\n- **Modelo de vehículo** — filtrando mediante una o más casillas (Taxi, LUX, LIMO).\n- **Un vehículo en particular** — buscándolo directamente por número de taxi o nombre del conductor.\n- **Estado de disponibilidad del conductor** — Libre (Free), Activo (Active) u Ocupado (Busy).\n\nLos resultados se actualizan en el mapa en vivo, permitiendo al despachador seguir el movimiento del vehículo en tiempo real.\n\n![Pantalla de Rastreo con filtros de tipo de vehículo, un buscador de conductor/número de taxi y botones de estado Libre/Activo/Ocupado](assets/dispatcher/p013-2.jpeg)"
+          }
+        },
+        {
+          "id": "fleet-management",
+          "number": "5.3",
+          "title": {
+            "en": "Fleet Management",
+            "es": "Gestión de Flotilla"
+          },
+          "content": {
+            "en": "**Fleets** — The Fleets list lets the dispatcher manage the fleet efficiently, showing every vehicle with the vehicle number, owner company, vehicle type, and model. Use the keyword search to locate any vehicle's data quickly, and click Edit whenever a fleet profile needs updating.\n\n![Manage Fleets list with keyword search, status, and Export/Import/Add Fleet actions](assets/dispatcher/p013-1.jpeg)\n\nEach fleet profile can record the fleet number, minimum speed, fleet speed per hour, model name, owner name, manufacturer, colour, insurance details, PCO/driving-licence details, and the maximum load capacity of the vehicle. One or more vehicle images can also be attached to the profile.\n\n![Add Fleet form capturing fleet number, model, manufacturer, insurance, licence details and load capacity](assets/dispatcher/p014-1.jpeg)\n\nDispatchers can also **import** fleet records from a file instead of entering them one at a time; the system reports any row it could not process — for example an invalid taxi number or an invalid company email — so the errors can be corrected before importing again.\n\n**Package plans** — Passengers can be offered two ride package types:\n\n- **Rental** — With a single booking, the passenger has a cab at their disposal for as long as they need and can travel to different destinations under that one booking. If the time or distance runs past the package limit, modest additional charges apply and the trip can continue beyond the package limit. Rental cabs can be booked immediately or in advance.\n- **Outstation** — For intercity travel; passengers book the cab ahead of the intended travel date or time.\n\nFurther package plans, each with its own duration, base fare, and additional fare per distance or per hour, can be added to the list at any time.\n\n![Manage Package Plans list, filterable by Rental or Outstation package type](assets/dispatcher/p015-1.jpeg)\n\n**Manage assigned fleets** — This view lists every fleet currently assigned to a driver. The dispatcher can set the number of days a vehicle stays assigned to a particular driver, and can modify or extend that period whenever required. A fleet can also be assigned manually by selecting a driver and a vehicle from the lists provided and entering the from and end dates of the assignment.\n\n![Manage Assigned Fleets list showing driver name, fleet number and who assigned it](assets/dispatcher/p016-2.jpeg)",
+            "es": "**Flotillas** — La lista de Flotillas permite al despachador administrar la flotilla de forma eficiente, mostrando cada vehículo con su número, la empresa propietaria, el tipo de vehículo y el modelo. Use la búsqueda por palabra clave para localizar rápidamente los datos de cualquier vehículo, y haga clic en Editar cuando sea necesario actualizar el perfil de una flotilla.\n\n![Lista de Gestión de Flotillas con búsqueda por palabra clave, estado y las acciones Exportar/Importar/Agregar Flotilla](assets/dispatcher/p013-1.jpeg)\n\nCada perfil de flotilla puede registrar el número de flotilla, la velocidad mínima, la velocidad por hora, el nombre del modelo, el nombre del propietario, el fabricante, el color, los datos del seguro, los datos de la licencia (PCO) y la capacidad máxima de carga del vehículo. También se pueden adjuntar una o más imágenes del vehículo al perfil.\n\n![Formulario de Agregar Flotilla capturando número de flotilla, modelo, fabricante, seguro, datos de licencia y capacidad de carga](assets/dispatcher/p014-1.jpeg)\n\nLos despachadores también pueden **importar** registros de flotilla desde un archivo en lugar de capturarlos uno por uno; el sistema reporta cualquier fila que no pudo procesar —por ejemplo, un número de taxi inválido o un correo de empresa inválido— para que los errores se corrijan antes de volver a importar.\n\n**Planes de paquete** — A los pasajeros se les pueden ofrecer dos tipos de paquetes de viaje:\n\n- **Rental (Renta)** — Con una sola reserva, el pasajero dispone del taxi durante el tiempo que necesite y puede viajar a distintos destinos bajo esa misma reserva. Si el tiempo o la distancia superan el límite del paquete, se aplican cargos adicionales moderados y el viaje puede continuar más allá del límite del paquete. Los taxis de renta se pueden reservar de forma inmediata o con anticipación.\n- **Outstation (Foráneo)** — Para viajes interurbanos; los pasajeros reservan el taxi antes de la fecha u hora prevista del viaje.\n\nEn cualquier momento se pueden agregar más planes de paquete a la lista, cada uno con su propia duración, tarifa base y tarifa adicional por distancia o por hora.\n\n![Lista de Gestión de Planes de Paquete, filtrable por tipo de paquete Renta u Foráneo](assets/dispatcher/p015-1.jpeg)\n\n**Gestión de flotillas asignadas** — Esta vista enumera cada flotilla actualmente asignada a un conductor. El despachador puede establecer el número de días que un vehículo permanece asignado a un conductor en particular, y puede modificar o extender ese periodo cuando sea necesario. Una flotilla también se puede asignar manualmente seleccionando un conductor y un vehículo de las listas disponibles e ingresando las fechas de inicio y fin de la asignación.\n\n![Lista de Gestión de Flotillas Asignadas mostrando el nombre del conductor, el número de flotilla y quién la asignó](assets/dispatcher/p016-2.jpeg)"
+          }
+        },
+        {
+          "id": "workforce",
+          "number": "5.4",
+          "title": {
+            "en": "Workforce",
+            "es": "Fuerza de Trabajo"
+          },
+          "content": {
+            "en": "**Manage drivers** — Every driver's information can be viewed and edited at the admin's discretion. Clicking a driver's photo opens a fuller report covering their status, transactions, trip statistics, and shift history. Dispatchers can import a driver list from any supported file, or export driver details as needed. Any driver whose wallet amount has fallen below the fixed minimum is highlighted in yellow in the list.\n\n![Manage Drivers list with rows highlighted in yellow for drivers below the minimum wallet amount](assets/dispatcher/p017-2.jpeg)\n\n**Recharging the driver wallet** — Clicking the wallet icon next to a driver opens a dialog where the dispatcher enters an amount to recharge that driver's wallet. When a driver collects a ride fare in cash from a passenger, the admin's commission for that trip is deducted from the driver's wallet; when the passenger pays by card instead, the driver's commission is added to the wallet.\n\n![Recharge wallet dialog showing the driver's name, current wallet amount and a field to enter the recharge amount](assets/dispatcher/p018-1.jpeg)\n\n**Viewing a driver's live status** — Clicking a driver's name shows their current status, including their location and the time it was last updated. Drivers can log out at any time to control their visibility.\n\n![Current Status of Driver screen showing \"I AM FREE -- ONLINE\" with the driver's live location on the map](assets/dispatcher/p018-2.jpeg)\n\n**Force-completing a ride** — Dispatchers can also follow the progress of an ongoing journey. If a driver's mobile phone loses power or switches off mid-ride, the driver can inform the dispatcher, who can then force-complete the ride from the Ongoing Journey list by manually entering the drop-off location, the distance travelled, and the ride fare.\n\n![Ongoing Journey list with a Complete Trip action highlighted](assets/dispatcher/p018-3.jpeg)\n\n**Adding a driver** — The dispatcher can add any number of drivers to the list, including their personal information and all of their identity credentials — photo and driving-licence details — to increase credibility and safety during a trip.\n\n![Add Driver form capturing personal information, licence details, mobile number and photo](assets/dispatcher/p019-2.jpeg)\n\n**Filtering by driver type** — The Driver Type dropdown lets the dispatcher filter search results by commission-based or subscription-based drivers, to manage driver information accordingly.\n\n![Manage Drivers list with the Driver Type dropdown offering Commission and Subscription options](assets/dispatcher/p020-1.jpeg)\n\n**Driver ratings** — The feedback on every driver, rated out of 5 by passengers, is recorded here and can be searched by driver name.\n\n![View driver ratings list showing each driver's average rating out of 5](assets/dispatcher/p020-2.jpeg)\n\n**Driver wallet** — This view displays each driver's wallet activity, with the company name and the amount requested for withdrawal, alongside the requested date and time. Once a request is either rejected or approved, its status changes accordingly.\n\n![Driver Wallet list showing withdrawal amount, requested date and withdrawal status](assets/dispatcher/p021-1.jpeg)",
+            "es": "**Gestión de conductores** — La información de cada conductor se puede consultar y editar a discreción del administrador. Al hacer clic en la foto de un conductor se abre un informe más completo que incluye su estado, transacciones, estadísticas de viajes e historial de turnos. Los despachadores pueden importar una lista de conductores desde cualquier archivo compatible, o exportar los datos de los conductores cuando lo requieran. Los conductores cuyo saldo de monedero haya caído por debajo del mínimo establecido se resaltan en amarillo en la lista.\n\n![Lista de Gestión de Conductores con filas resaltadas en amarillo para los conductores por debajo del saldo mínimo](assets/dispatcher/p017-2.jpeg)\n\n**Recarga del monedero del conductor** — Al hacer clic en el ícono de monedero junto a un conductor se abre un cuadro de diálogo donde el despachador ingresa un monto para recargar el monedero de ese conductor. Cuando un conductor cobra la tarifa del viaje en efectivo de un pasajero, la comisión del administrador por ese viaje se descuenta del monedero del conductor; cuando el pasajero paga con tarjeta, la comisión del conductor se agrega a su monedero.\n\n![Cuadro de diálogo de recarga de monedero mostrando el nombre del conductor, el saldo actual y un campo para ingresar el monto a recargar](assets/dispatcher/p018-1.jpeg)\n\n**Consulta del estado en vivo de un conductor** — Al hacer clic en el nombre de un conductor se muestra su estado actual, incluyendo su ubicación y la hora de la última actualización. Los conductores pueden cerrar sesión en cualquier momento para controlar su visibilidad.\n\n![Pantalla de Estado Actual del Conductor mostrando \"I AM FREE -- ONLINE\" con su ubicación en vivo en el mapa](assets/dispatcher/p018-2.jpeg)\n\n**Finalización forzada de un viaje** — Los despachadores también pueden dar seguimiento al progreso de un viaje en curso. Si el teléfono del conductor se queda sin batería o se apaga durante el viaje, el conductor puede informar al despachador, quien entonces puede forzar la finalización del viaje desde la lista de Viaje en Curso, ingresando manualmente el lugar de destino, la distancia recorrida y la tarifa del viaje.\n\n![Lista de Viaje en Curso con la acción de Finalizar Viaje resaltada](assets/dispatcher/p018-3.jpeg)\n\n**Agregar un conductor** — El despachador puede agregar cualquier cantidad de conductores a la lista, incluyendo su información personal y todas sus credenciales de identidad —foto y datos de la licencia de conducir— para aumentar la credibilidad y la seguridad durante un viaje.\n\n![Formulario de Agregar Conductor capturando información personal, datos de licencia, número de celular y foto](assets/dispatcher/p019-2.jpeg)\n\n**Filtrado por tipo de conductor** — El menú desplegable de Tipo de Conductor (Driver Type) permite al despachador filtrar los resultados de búsqueda entre conductores por comisión o por suscripción, para gestionar la información de cada uno según corresponda.\n\n![Lista de Gestión de Conductores con el menú desplegable de Tipo de Conductor mostrando las opciones Comisión y Suscripción](assets/dispatcher/p020-1.jpeg)\n\n**Calificaciones de conductores** — Aquí se registra la retroalimentación de cada conductor, calificada sobre 5 por los pasajeros, y se puede buscar por nombre del conductor.\n\n![Lista de calificaciones de conductores mostrando la calificación promedio de cada uno sobre 5](assets/dispatcher/p020-2.jpeg)\n\n**Monedero del conductor** — Esta vista muestra la actividad del monedero de cada conductor, con el nombre de la empresa y el monto solicitado para retiro, junto con la fecha y hora de la solicitud. Una vez que una solicitud es rechazada o aprobada, su estado cambia en consecuencia.\n\n![Lista de Monedero del Conductor mostrando el monto de retiro, la fecha de solicitud y el estado del retiro](assets/dispatcher/p021-1.jpeg)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "analytics",
+      "number": "6",
+      "title": {
+        "en": "Analytics",
+        "es": "Análisis"
+      },
+      "content": {
+        "en": "",
+        "es": ""
+      },
+      "children": [
+        {
+          "id": "analytics-dashboard",
+          "number": "6.1",
+          "title": {
+            "en": "Dashboard",
+            "es": "Panel Principal"
+          },
+          "content": {
+            "en": "Analytics displays all of the platform's data in a single place so the admin can make better-informed decisions. The Analytics dashboard consolidates every metric into one view, including graphs for Fleet availability, Driver unavailability, Bookings, Missed bookings, Booking type, Payment mode, Revenue, Average revenue per user, Revenue vs. expenses, Missed revenue, Revenue from campaigns, and User activity — together with tiles for fleet counts, total and empty kilometers, completed and rejected/cancelled trips, subscribed and commission drivers, and wallet recharge amounts.\n\n![Analytics dashboard tiles covering fleets, kilometers, trips, revenue per user and per trip, and driver counts](assets/dispatcher/p022-1.jpeg)",
+            "es": "Analytics muestra toda la información de la plataforma en un solo lugar, para que el administrador pueda tomar mejores decisiones. El panel de Analytics consolida todos los indicadores en una sola vista, incluyendo gráficas de Disponibilidad de flotilla, No disponibilidad de conductores, Reservas, Reservas perdidas, Tipo de reserva, Forma de pago, Ingresos, Ingreso promedio por usuario, Ingresos vs. Gastos, Ingresos perdidos, Ingresos por campañas y Actividad de usuarios —junto con tarjetas de número de flotillas, kilómetros totales y en vacío, viajes completados y rechazados/cancelados, conductores suscritos y por comisión, y montos de recarga de monedero.\n\n![Tarjetas del panel de Analytics con flotillas, kilómetros, viajes, ingreso por usuario y por viaje, y número de conductores](assets/dispatcher/p022-1.jpeg)"
+          }
+        },
+        {
+          "id": "reports",
+          "number": "6.2",
+          "title": {
+            "en": "Reports",
+            "es": "Reportes"
+          },
+          "content": {
+            "en": "**Transaction history** — Lists every transaction by company name, vehicle, driver, and passenger, together with the location and date. It displays the log and statistical information for all completed, cancelled, and pending transactions.\n\n![All Transactions view with a completed/cancelled/pending amount chart and a transaction detail table](assets/dispatcher/p023-1.jpeg)\n\n**Fleet report** — Lists every vehicle with its vehicle number, type, and model; use the keyword search to locate any vehicle's data quickly. Clicking a fleet number opens an elaborate fleet report, including the assigned driver's name, the fleet model, the fleet's motor expiry date, a route map, and its transaction history.\n\n![Manage Fleets report listing fleet number, fleet type and fleet model](assets/dispatcher/p023-2.jpeg)\n\n**Driver report** — Lists every driver with an elaborate report including status, transactions, trip statistics, and shift history. Clicking a driver's photo opens the same detailed information for that individual driver.\n\n![Driver Report list showing name, email, phone, licence ID, photo and driver status](assets/dispatcher/p024-1.jpeg)",
+            "es": "**Historial de transacciones** — Enumera cada transacción por nombre de la empresa, vehículo, conductor y pasajero, junto con la ubicación y la fecha. Muestra el registro y la información estadística de todas las transacciones completadas, canceladas y pendientes.\n\n![Vista de Todas las Transacciones con una gráfica de montos completados/cancelados/pendientes y una tabla de detalle](assets/dispatcher/p023-1.jpeg)\n\n**Reporte de flotilla** — Enumera cada vehículo con su número de flotilla, tipo y modelo; use la búsqueda por palabra clave para localizar rápidamente los datos de cualquier vehículo. Al hacer clic en un número de flotilla se abre un reporte detallado, que incluye el nombre del conductor asignado, el modelo de la flotilla, la fecha de vencimiento del motor, un mapa de la ruta y su historial de transacciones.\n\n![Reporte de Gestión de Flotillas con número de flotilla, tipo de flotilla y modelo](assets/dispatcher/p023-2.jpeg)\n\n**Reporte de conductor** — Enumera cada conductor con un reporte detallado que incluye su estado, transacciones, estadísticas de viajes e historial de turnos. Al hacer clic en la foto de un conductor se abre la misma información detallada para ese conductor en particular.\n\n![Lista de Reporte de Conductor mostrando nombre, correo, teléfono, ID de licencia, foto y estado del conductor](assets/dispatcher/p024-1.jpeg)"
+          }
+        }
+      ]
+    }
+  ]
+}

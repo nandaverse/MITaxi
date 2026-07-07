@@ -1,0 +1,943 @@
+{
+  "id": "admin",
+  "title": {
+    "en": "TaxiMobility Admin Panel Guide",
+    "es": "Guía del Panel de Administración de TaxiMobility"
+  },
+  "tagline": {
+    "en": "A complete reference for operating and configuring the TaxiMobility administration panel, version 9.0.",
+    "es": "Una referencia completa para operar y configurar el panel de administración de TaxiMobility, versión 9.0."
+  },
+  "sections": [
+    {
+      "id": "introduction",
+      "number": "1",
+      "title": {
+        "en": "Introduction",
+        "es": "Introducción"
+      },
+      "content": {
+        "en": "TaxiMobility is a comprehensive fleet and ride-management suite that automates every aspect of running a taxi service. When a customer requests a ride, TaxiMobility captures the request, displays the origin phone number and address, locates the pickup point, determines the destination, and calculates the most efficient route. The system then computes the trip fare and assigns the ride to the nearest available driver.",
+        "es": "TaxiMobility es una completa suite de gestión de flotas y viajes que automatiza todos los aspectos de la operación de un servicio de taxis. Cuando un cliente solicita un viaje, TaxiMobility registra la solicitud, muestra el número telefónico y la dirección de origen, ubica el punto de partida, determina el destino y calcula la ruta más eficiente. A continuación, el sistema calcula la tarifa del viaje y asigna la carrera al conductor disponible más cercano."
+      }
+    },
+    {
+      "id": "login",
+      "number": "2",
+      "title": {
+        "en": "Login",
+        "es": "Inicio de sesión"
+      },
+      "content": {
+        "en": "Sign in to the admin panel using the credentials provided to you. If you forget your password, click **Forgot?** on the login screen to receive a password-reset link at your registered email address.\n\n![Administrator sign-in screen with email address and password fields](assets/admin/p004-1.jpeg)\n\n![Forgot Password screen for requesting a reset link by email](assets/admin/p004-2.jpeg)",
+        "es": "Inicie sesión en el panel de administración con las credenciales que se le proporcionaron. Si olvida su contraseña, haga clic en **¿Olvidó su contraseña?** en la pantalla de inicio de sesión para recibir un enlace de restablecimiento en su correo electrónico registrado.\n\n![Pantalla de inicio de sesión del administrador con campos de correo electrónico y contraseña](assets/admin/p004-1.jpeg)\n\n![Pantalla de ¿Olvidó su contraseña? para solicitar un enlace de restablecimiento por correo electrónico](assets/admin/p004-2.jpeg)"
+      }
+    },
+    {
+      "id": "dashboard",
+      "number": "3",
+      "title": {
+        "en": "Dashboard",
+        "es": "Panel de control"
+      },
+      "content": {
+        "en": "With a bird's-eye view of essential information, the dashboard presents everything you need to know about your operation at a glance — from cab availability to passengers currently in the queue. It surfaces key statistics such as payments received, commission earned by the admin, number of new users, total rides, active passengers, canceled rides, and driver wallet recharge amounts, all displayed precisely and accurately. Every drop-down list on the dashboard includes a search box for quick lookups, and every chart or graph links through to a more detailed report on the underlying data.\n\n![Dashboard summary tiles showing payments, commission, cash and card payments, new users, and completed and cancelled trips](assets/admin/p005-1.jpeg)\n\nThe dashboard includes the following widgets:\n\n- **Live fleet status** — A map showing the location and status of every driver (available, on trip, active, or shift out) using distinct pointer icons, with live tracking of vehicle movement.\n- **Assigned vs. unassigned assets today** — A graph showing the total number of fleets and drivers for the selected brand, broken down into assigned and unassigned counts.\n- **Company-wise trips** — Shows the number of completed, in-progress, and canceled rides for each company for the date/time range chosen in the filter; the data can be printed or downloaded in any supported format.\n- **Payments by company** — Breaks down all post-ride transactions into payments by trip, card, and cash, as well as payments made through referral and promotional programs; results can be filtered by date, time, or brand.\n- **Trip requests by city** — A pie chart of passenger requests grouped by the city of origin, filterable by date, time, or brand, and exportable to various file formats.\n\n![Trip Request From City pie chart showing Coimbatore as the dominant origin city](assets/admin/p007-1.jpeg)\n- **Company revenue graph** — Shows total monthly revenue, broken down by number of rides, new user registrations, and income generated per day.\n- **Driver revenue graph** — Shows monthly revenue generated per driver, including trip count and income per day; a filter lets you pick a driver from a drop-down and a from/to date range.",
+        "es": "Con una vista panorámica de la información esencial, el panel de control muestra todo lo que necesita saber sobre su operación de un vistazo, desde la disponibilidad de vehículos hasta los pasajeros que están en cola. Presenta estadísticas clave como los pagos recibidos, la comisión obtenida por el administrador, el número de usuarios nuevos, el total de viajes, los pasajeros activos, los viajes cancelados y los montos de recarga de la cartera del conductor, todo mostrado con precisión y exactitud. Todas las listas desplegables del panel incluyen un cuadro de búsqueda para facilitar la localización de datos, y cada gráfica cuenta con un enlace a un informe más detallado de la información que representa.\n\n![Mosaicos de resumen del panel con pagos, comisión, pagos en efectivo y con tarjeta, usuarios nuevos, y viajes completados y cancelados](assets/admin/p005-1.jpeg)\n\nEl panel incluye los siguientes widgets:\n\n- **Estado de la flota en vivo** — Un mapa que muestra la ubicación y el estado de cada conductor (disponible, en viaje, activo o fuera de turno) mediante íconos distintivos, con seguimiento en vivo del movimiento de los vehículos.\n- **Activos asignados frente a no asignados del día** — Una gráfica que muestra el número total de flotas y conductores de la marca seleccionada, desglosado entre asignados y no asignados.\n- **Viajes por empresa** — Muestra el número de viajes completados, en curso y cancelados de cada empresa para el rango de fecha y hora elegido en el filtro; los datos se pueden imprimir o descargar en cualquiera de los formatos disponibles.\n- **Pagos por empresa** — Desglosa todas las transacciones posteriores al viaje en pagos por viaje, con tarjeta y en efectivo, así como los pagos realizados a través de programas de referidos y promociones; los resultados se pueden filtrar por fecha, hora o marca.\n- **Solicitudes de viaje por ciudad** — Una gráfica circular de las solicitudes de pasajeros agrupadas por ciudad de origen, filtrable por fecha, hora o marca, y exportable a distintos formatos de archivo.\n\n![Gráfica circular de Solicitudes de Viaje por Ciudad mostrando a Coimbatore como la ciudad de origen dominante](assets/admin/p007-1.jpeg)\n- **Gráfica de ingresos por empresa** — Muestra los ingresos totales mensuales, desglosados por número de viajes, registros de nuevos usuarios e ingresos generados por día.\n- **Gráfica de ingresos por conductor** — Muestra los ingresos mensuales generados por cada conductor, incluyendo el número de viajes y los ingresos por día; un filtro permite elegir un conductor de una lista desplegable y un rango de fechas."
+      },
+      "children": [
+        {
+          "id": "dashboard-tour",
+          "number": "3.1",
+          "title": {
+            "en": "Tour",
+            "es": "Recorrido guiado"
+          },
+          "content": {
+            "en": "The **Tour** option, available in the header, walks you through the function of each sidebar menu item. It can be turned on or off from the back end. Click it at any time to launch the guided walkthrough.\n\n![Guided tour overlay highlighting the Driver Wallet menu item with a description tooltip](assets/admin/p008-3.jpeg)",
+            "es": "La opción **Tour** (recorrido guiado), disponible en el encabezado, lo guía a través de la función de cada elemento del menú lateral. Se puede activar o desactivar desde el back end. Haga clic en ella en cualquier momento para iniciar el recorrido guiado.\n\n![Superposición del recorrido guiado resaltando el elemento de menú Cartera de Conductores con un texto descriptivo](assets/admin/p008-3.jpeg)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "fleet-tracking",
+      "number": "4",
+      "title": {
+        "en": "Fleet Tracking",
+        "es": "Seguimiento de flota"
+      },
+      "content": {
+        "en": "",
+        "es": ""
+      },
+      "children": [
+        {
+          "id": "fleet-tracking-dashboard",
+          "number": "4.1",
+          "title": {
+            "en": "Dashboard",
+            "es": "Panel de control"
+          },
+          "content": {
+            "en": "The fleet tracking dashboard presents statistics on fleets, fleet availability, idle running time, driver unavailability, and bookings, using graphs and a vehicle heatmap.\n\n![Fleet Tracking Dashboard tiles showing total, assigned, unassigned, active, and available fleets](assets/admin/p009-1.jpeg)\n\n- **Total Kilometers** — The total distance traveled by fleets during rides, including empty kilometers.\n- **Empty Kilometers** — The distance a vehicle travels empty, either to reach a pickup or with no ride at all.\n- **Fleet availability** — A graph showing how many vehicles were available during the month but received no rides; a date-range filter is available.\n- **Driver unavailability** — A graph showing how many drivers were available on a given day but did not accept any passenger request.\n- **Plan-based driver count** — A chart showing how many drivers operate under each package plan configured by the admin.\n- **Vehicle heatmap** — Visualizes vehicle positions by location, indicating fleet availability in each area.\n\n![Vehicle heatmap centered on Coimbatore showing clusters of available vehicles by area](assets/admin/p011-1.jpeg)",
+            "es": "El panel de seguimiento de flota presenta estadísticas sobre las flotas, la disponibilidad de la flota, el tiempo de inactividad, la indisponibilidad de conductores y las reservas, mediante gráficas y un mapa de calor vehicular.\n\n![Mosaicos del Panel de Seguimiento de Flota mostrando flotas totales, asignadas, no asignadas, activas y disponibles](assets/admin/p009-1.jpeg)\n\n- **Kilómetros totales** — La distancia total recorrida por las flotas durante los viajes, incluyendo los kilómetros en vacío.\n- **Kilómetros en vacío** — La distancia que recorre un vehículo sin pasajero, ya sea para llegar a un punto de recogida o sin ningún viaje asociado.\n- **Disponibilidad de flota** — Una gráfica que muestra cuántos vehículos estuvieron disponibles durante el mes pero no recibieron ningún viaje; se puede filtrar por rango de fechas.\n- **Indisponibilidad de conductores** — Una gráfica que muestra cuántos conductores estuvieron disponibles en un día determinado pero no aceptaron ninguna solicitud de pasajero.\n- **Conteo de conductores por plan** — Una gráfica que muestra cuántos conductores operan bajo cada plan de paquete configurado por el administrador.\n- **Mapa de calor vehicular** — Visualiza la posición de los vehículos por ubicación, indicando la disponibilidad de la flota en cada zona.\n\n![Mapa de calor vehicular centrado en Coimbatore mostrando grupos de vehículos disponibles por zona](assets/admin/p011-1.jpeg)"
+          }
+        },
+        {
+          "id": "fleet-management",
+          "number": "4.2",
+          "title": {
+            "en": "Fleet Management",
+            "es": "Gestión de flotas"
+          },
+          "content": {
+            "en": "",
+            "es": ""
+          },
+          "children": [
+            {
+              "id": "manage-companies",
+              "number": null,
+              "title": {
+                "en": "Manage companies",
+                "es": "Administrar empresas"
+              },
+              "content": {
+                "en": "The **Manage Companies** screen lists every company along with the number of vehicles, drivers, and dispatchers it has. Clicking a company's name opens its detailed report.\n\n![Manage Companies list with each company's fleet, driver, and dispatcher counts](assets/admin/p011-2.jpeg)\n\nYou can also add resources directly from this list:\n\n- Click **Add Fleet** in a company's row to add a vehicle to it.\n- Click **Add Driver** to add a driver to it.\n- Click **Add Dispatcher** to add a dispatcher to it.\n\nIn the **Action** column you can:\n\n- Click **Edit** to update the company's details.\n- Click **Transaction** to view the company's transaction history.\n\nTo register a new company, click **Add Company** in the top-right corner and complete the form with the owner's name, email address, mobile number, address, and company information, including location details and an image. Click **Submit** when finished.\n\n![Add Company form with personal information and company information fields](assets/admin/p012-2.jpeg)\n\nThe full list can be downloaded as an XLS or PDF file using the **Export** button in the top-right corner.",
+                "es": "La pantalla **Administrar Empresas** enumera todas las empresas junto con el número de vehículos, conductores y despachadores que tienen. Al hacer clic en el nombre de una empresa se abre su informe detallado.\n\n![Lista de Administrar Empresas con el número de flotas, conductores y despachadores de cada una](assets/admin/p011-2.jpeg)\n\nTambién puede agregar recursos directamente desde esta lista:\n\n- Haga clic en **Agregar Flota** en la fila de una empresa para agregarle un vehículo.\n- Haga clic en **Agregar Conductor** para agregarle un conductor.\n- Haga clic en **Agregar Despachador** para agregarle un despachador.\n\nEn la columna **Acción** puede:\n\n- Hacer clic en **Editar** para actualizar los datos de la empresa.\n- Hacer clic en **Transacción** para ver el historial de transacciones de la empresa.\n\nPara registrar una nueva empresa, haga clic en **Agregar Empresa** en la esquina superior derecha y complete el formulario con el nombre del propietario, correo electrónico, número de celular, dirección e información de la empresa, incluyendo detalles de ubicación e imagen. Haga clic en **Enviar** al terminar.\n\n![Formulario Agregar Empresa con los campos de información personal e información de la empresa](assets/admin/p012-2.jpeg)\n\nLa lista completa se puede descargar en formato XLS o PDF mediante el botón **Exportar** en la esquina superior derecha."
+              }
+            },
+            {
+              "id": "fleet-models",
+              "number": null,
+              "title": {
+                "en": "Fleet models",
+                "es": "Modelos de flota"
+              },
+              "content": {
+                "en": "**Fleet Models** lets you categorize vehicles by brand and model for easier operations. Click **Edit** in the **Action** column to open and complete a more detailed record for each model, including the vehicle name, model size, and fare configuration.\n\n**Fare calculation methods**\n\nFares can be calculated by distance, by a flat per-km/mile rate, or by time:\n\n- **By distance (below/above range):** A base fare covers a fixed distance for the vehicle model; any ride within that distance is charged only the base fare. Beyond that point, a minimum distance and minimum fare apply — a ride completed within the minimum distance is charged the \"below\" fare (on top of the minimum fare and base fare), while a ride that exceeds the minimum distance is charged the \"above\" fare (also on top of the minimum fare and base fare). A cancellation fee can be configured for any ride that is canceled.\n- **By per-km/mile rate:** Instead of below/above-range pricing, a minimum fare covers a fixed distance and every additional km/mile is charged at a flat per-km/mile rate. This mode can be turned on or off as needed.\n- **By time:** A fare is set per minute and calculated from the time taken to complete the ride. Each vehicle has a fixed average speed per hour; if the vehicle's speed falls below this threshold, waiting charges apply. Separate night and evening surcharges can also be configured.\n\nVehicle images can be uploaded separately for the Android and iOS profiles.\n\n**Fare management glossary**\n\n| Term | Description |\n|---|---|\n| Minimum KM | The minimum kilometer range set for short trips. |\n| Minimum fare | The fare charged for distance traveled below the Minimum KM; it applies whenever a passenger takes a short ride under that threshold, and can be raised or lowered as needed. |\n| Base fare | The basic service charge applied to all rides that cover a distance above the Minimum KM. |\n| Below KM / Above KM range | The distance threshold used to divide KM-based fare tiers (for example, 10 KM). |\n| Below KM fare | Charged when the distance covered is below the configured range (for example, 8 KM when the range is 10 KM). |\n| Above KM fare | Charged when the distance covered exceeds the configured range (for example, 18 KM when the range is 10 KM). |\n| KM-wise fare | A fare calculated purely by distance: a minimum fare covers a fixed distance, and every additional km/mile is charged at the configured per-km/mile rate. |\n| Tax | The tax percentage included in the total ride fare. |\n| Cancellation fee | Charged to a passenger who cancels a trip. |\n| Waiting fee | Applied when the vehicle is kept waiting, or when it travels below the configured minimum fleet speed. |\n| Night fare | A percentage surcharge for rides booked during a night window that the admin defines; it is added to the total ride fare. |\n| Evening fare | A percentage surcharge for rides booked during the evening, added to the total ride fare. |\n| City-based fare (%) | Configured in Manage City; the percentage is added on top of the Distance, Night, and Evening fare. |\n\nClick a model's name to view its complete details.\n\n![Taxi Mongo model information detail showing base fare, minimum fare, and surcharge fields](assets/admin/p014-1.jpeg)",
+                "es": "**Modelos de Flota** le permite clasificar los vehículos por marca y modelo para facilitar la operación. Haga clic en **Editar** en la columna **Acción** para abrir y completar un registro más detallado de cada modelo, incluyendo el nombre del vehículo, el tamaño del modelo y la configuración de la tarifa.\n\n**Métodos de cálculo de tarifa**\n\nLa tarifa se puede calcular por distancia, por una tarifa fija por km/milla, o por tiempo:\n\n- **Por distancia (rango por debajo/por encima):** Una tarifa base cubre una distancia fija para el modelo de vehículo; cualquier viaje dentro de esa distancia se cobra únicamente la tarifa base. A partir de ahí, se fija una distancia mínima y una tarifa mínima: un viaje completado dentro de la distancia mínima se cobra con la tarifa \"por debajo\" (además de la tarifa mínima y la tarifa base), mientras que un viaje que supere la distancia mínima se cobra con la tarifa \"por encima\" (también además de la tarifa mínima y la tarifa base). Se puede configurar una tarifa de cancelación para cualquier viaje cancelado.\n- **Por tarifa fija por km/milla:** En lugar de tarifas por debajo/por encima del rango, una tarifa mínima cubre una distancia fija y cada km/milla adicional se cobra a una tarifa fija por km/milla. Este modo se puede activar o desactivar según se requiera.\n- **Por tiempo:** Se fija una tarifa por minuto y se calcula según el tiempo empleado en completar el viaje. Cada vehículo tiene una velocidad promedio fija por hora; si la velocidad del vehículo cae por debajo de ese límite, se aplican cargos por espera. También se pueden configurar recargos independientes para viajes nocturnos y vespertinos.\n\nLas imágenes de los vehículos se pueden cargar por separado para los perfiles de Android e iOS.\n\n**Glosario de gestión de tarifas**\n\n| Término | Descripción |\n|---|---|\n| KM mínimo | El rango mínimo de kilómetros establecido para viajes cortos. |\n| Tarifa mínima | La tarifa cobrada por la distancia recorrida por debajo del KM mínimo; aplica cuando un pasajero realiza un viaje corto por debajo de ese umbral, y se puede aumentar o disminuir según se requiera. |\n| Tarifa base | El cargo básico por servicio aplicable a todos los viajes que cubran una distancia superior al KM mínimo. |\n| Rango por debajo/por encima de KM | El umbral de distancia utilizado para dividir los niveles de tarifa por KM (por ejemplo, 10 KM). |\n| Tarifa por debajo de KM | Se cobra cuando la distancia recorrida es menor al rango configurado (por ejemplo, 8 KM si el rango es 10 KM). |\n| Tarifa por encima de KM | Se cobra cuando la distancia recorrida supera el rango configurado (por ejemplo, 18 KM si el rango es 10 KM). |\n| Tarifa por KM | Una tarifa calculada únicamente por distancia: una tarifa mínima cubre una distancia fija y cada km/milla adicional se cobra a la tarifa configurada por km/milla. |\n| Impuesto | El porcentaje de impuesto incluido en la tarifa total del viaje. |\n| Tarifa de cancelación | Se cobra al pasajero que cancela un viaje. |\n| Tarifa de espera | Se aplica cuando el vehículo permanece en espera, o cuando circula por debajo de la velocidad mínima configurada para la flota. |\n| Tarifa nocturna | Un recargo porcentual para los viajes reservados dentro de un horario nocturno definido por el administrador; se agrega a la tarifa total del viaje. |\n| Tarifa vespertina | Un recargo porcentual para los viajes reservados por la tarde/noche temprana, que se agrega a la tarifa total del viaje. |\n| Tarifa por ciudad (%) | Configurada en Administrar Ciudad; el porcentaje se agrega además de la tarifa por distancia, nocturna y vespertina. |\n\nHaga clic en el nombre de un modelo para ver todos sus detalles.\n\n![Detalle de información del modelo Taxi Mongo con los datos de tarifa base, tarifa mínima y recargos](assets/admin/p014-1.jpeg)"
+              }
+            },
+            {
+              "id": "fleets",
+              "number": null,
+              "title": {
+                "en": "Fleets",
+                "es": "Flotas"
+              },
+              "content": {
+                "en": "**Fleets** lists every vehicle with its vehicle number, owner company, vehicle type, and model. Use the keyword search to locate a specific vehicle quickly, or click **Add Fleet** to register a new one.\n\n![Manage Fleets list showing each vehicle's fleet number, owner company, and model](assets/admin/p016-2.jpeg)\n\nEach vehicle record can capture: the fleet number, minimum fleet speed, fleet speed per hour, model name, owner name, manufacturer, color, insurance details, license details, load capacity, and vehicle images.\n\n![Edit Fleet form with fleet number, model, owner, manufacturer, insurance, and license fields](assets/admin/p017-1.jpeg)\n\nFrom here you can also assign a vehicle to a driver: select the vehicle and choose from the drop-down list of available drivers.\n\nYou can bulk-import vehicles into the database; the admin is notified of any import errors, such as an invalid taxi number or invalid company email address.\n\nThe full list can be downloaded as an XLS or PDF file using the **Export** button in the top-right corner.",
+                "es": "**Flotas** enumera todos los vehículos con su número de unidad, empresa propietaria, tipo de vehículo y modelo. Utilice la búsqueda por palabra clave para localizar un vehículo específico rápidamente, o haga clic en **Agregar Flota** para registrar uno nuevo.\n\n![Lista de Administrar Flotas mostrando el número de unidad, la empresa propietaria y el modelo de cada vehículo](assets/admin/p016-2.jpeg)\n\nCada registro de vehículo puede incluir: número de unidad, velocidad mínima de la flota, velocidad de la flota por hora, nombre del modelo, nombre del propietario, fabricante, color, datos del seguro, datos de la licencia, capacidad de carga e imágenes del vehículo.\n\n![Formulario Editar Flota con los campos de número de unidad, modelo, propietario, fabricante, seguro y licencia](assets/admin/p017-1.jpeg)\n\nDesde aquí también puede asignar un vehículo a un conductor: seleccione el vehículo y elija de la lista desplegable de conductores disponibles.\n\nPuede importar vehículos de forma masiva a la base de datos; el administrador recibe notificación de cualquier error de importación, como un número de taxi inválido o un correo electrónico de empresa inválido.\n\nLa lista completa se puede descargar en formato XLS o PDF mediante el botón **Exportar** en la esquina superior derecha."
+              }
+            },
+            {
+              "id": "package-plans",
+              "number": null,
+              "title": {
+                "en": "Package plans",
+                "es": "Planes de paquete"
+              },
+              "content": {
+                "en": "Passengers can be offered two special ride packages: **Rental** and **Outstation**.\n\n![Manage Package Plans list showing Rental and Outstation plans with their duration, distance, and fares](assets/admin/p019-1.jpeg)\n\nClick **Add** in the top-right corner to create a new package plan: select the package type, complete the required fields, and click **Submit**. To modify an existing plan, click **Edit** in the **Action** column, make your changes in the **Edit Subscription Plan** form, and click **Submit**.",
+                "es": "A los pasajeros se les pueden ofrecer dos paquetes especiales de viaje: **Renta** y **Foráneo**.\n\n![Lista de Administrar Planes de Paquete mostrando planes de Renta y Foráneo con su duración, distancia y tarifas](assets/admin/p019-1.jpeg)\n\nHaga clic en **Agregar** en la esquina superior derecha para crear un nuevo plan de paquete: seleccione el tipo de paquete, complete los campos requeridos y haga clic en **Enviar**. Para modificar un plan existente, haga clic en **Editar** en la columna **Acción**, realice los cambios en el formulario **Editar Plan de Suscripción** y haga clic en **Enviar**."
+              },
+              "children": [
+                {
+                  "id": "package-plans-rental",
+                  "number": null,
+                  "title": {
+                    "en": "Rental",
+                    "es": "Renta"
+                  },
+                  "content": {
+                    "en": "With a single booking, a passenger has a cab at their disposal for as long as the rental plan allows, and can travel to multiple destinations along the way. Each plan carries a fixed fare based on its allotted time and distance; if the ride exceeds either limit, a nominal additional charge applies and the trip continues beyond the package limit. Passengers can book a rental cab either immediately or in advance.",
+                    "es": "Con una sola reserva, el pasajero dispone de un vehículo durante todo el tiempo que el plan de renta permita, y puede viajar a varios destinos en el trayecto. Cada plan tiene una tarifa fija según el tiempo y la distancia asignados; si el viaje supera cualquiera de los dos límites, se aplica un cargo adicional nominal y el viaje puede continuar más allá del límite del paquete. Los pasajeros pueden reservar un vehículo de renta de forma inmediata o por adelantado."
+                  }
+                },
+                {
+                  "id": "package-plans-outstation",
+                  "number": null,
+                  "title": {
+                    "en": "Outstation",
+                    "es": "Foráneo"
+                  },
+                  "content": {
+                    "en": "Outstation packages let passengers book intercity travel, either one-way or round trip.\n\n- For a **one-way** trip, the cab can be used for up to 12 hours by default; the admin can configure this limit at the back end as either 12 or 24 hours. If the trip exceeds the configured time limit, it is automatically treated as a round trip.\n- Trip fares vary depending on the vehicle model selected.\n- If the time or distance exceeds the package limit, a nominal additional charge applies and the trip continues beyond the limit.\n- Passengers can book an outstation cab ahead of the intended travel date or time.",
+                    "es": "Los paquetes foráneos permiten a los pasajeros reservar viajes interurbanos, ya sea de ida o de ida y vuelta.\n\n- Para un viaje **de ida**, el vehículo se puede usar hasta por 12 horas de forma predeterminada; el administrador puede configurar este límite en el back end en 12 o 24 horas. Si el viaje excede el límite de tiempo configurado, se considera automáticamente un viaje de ida y vuelta.\n- La tarifa del viaje varía según el modelo de vehículo seleccionado.\n- Si el tiempo o la distancia superan el límite del paquete, se aplica un cargo adicional nominal y el viaje puede continuar más allá del límite.\n- Los pasajeros pueden reservar un vehículo foráneo con anticipación a la fecha u hora del viaje."
+                  }
+                }
+              ]
+            },
+            {
+              "id": "manage-assigned-fleets",
+              "number": null,
+              "title": {
+                "en": "Manage assigned fleets",
+                "es": "Administrar flotas asignadas"
+              },
+              "content": {
+                "en": "**Manage Assigned Fleets** lists every vehicle currently assigned to a driver. The admin can set how many days or hours a vehicle stays assigned to a given driver, and can extend or modify this by clicking **Edit** in the **Action** column.\n\n![Manage Assigned Fleets list showing each driver, fleet number, company, and assignment period](assets/admin/p021-1.jpeg)\n\nVehicles can also be assigned to drivers manually: select a vehicle from the list, supply the required information, update any fields as needed, and click **Submit**.\n\n![Assign Fleet form with company, country, state, city, driver, fleet, and date fields](assets/admin/p022-1.jpeg)\n\nThe list can be downloaded as an XLS or PDF file using the **Export** button in the top-right corner.",
+                "es": "**Administrar Flotas Asignadas** enumera todos los vehículos actualmente asignados a un conductor. El administrador puede establecer cuántos días u horas permanece un vehículo asignado a un conductor determinado, y puede extender o modificar ese periodo haciendo clic en **Editar** en la columna **Acción**.\n\n![Lista de Administrar Flotas Asignadas mostrando cada conductor, número de flota, empresa y periodo de asignación](assets/admin/p021-1.jpeg)\n\nLos vehículos también se pueden asignar manualmente a los conductores: seleccione un vehículo de la lista, proporcione la información requerida, actualice los campos necesarios y haga clic en **Enviar**.\n\n![Formulario Asignar Flota con los campos de empresa, país, estado, ciudad, conductor, flota y fechas](assets/admin/p022-1.jpeg)\n\nLa lista se puede descargar en formato XLS o PDF mediante el botón **Exportar** en la esquina superior derecha."
+              }
+            }
+          ]
+        },
+        {
+          "id": "workforce",
+          "number": "4.3",
+          "title": {
+            "en": "Workforce",
+            "es": "Fuerza laboral"
+          },
+          "content": {
+            "en": "",
+            "es": ""
+          },
+          "children": [
+            {
+              "id": "manage-dispatchers",
+              "number": null,
+              "title": {
+                "en": "Manage dispatchers",
+                "es": "Administrar despachadores"
+              },
+              "content": {
+                "en": "**Manage Dispatchers** lists every dispatcher. Click a dispatcher's name or their company's name to open the corresponding detailed report.\n\n![Manage Dispatchers list with each dispatcher's company, email, and address](assets/admin/p025-1.jpeg)\n\nClick **Edit** in the **Action** column to modify a dispatcher's details in the **Edit Manager** form, then click **Submit** to save your changes.\n\n![Edit Manager form with a dispatcher's personal information and fleet company](assets/admin/p024-2.jpeg)\n\nClick **Add Dispatcher** in the top-right corner to register a new dispatcher, providing their name, address, country, state, city, contact information, and company details.",
+                "es": "**Administrar Despachadores** enumera a todos los despachadores. Haga clic en el nombre de un despachador o en el de su empresa para abrir el informe detallado correspondiente.\n\n![Lista de Administrar Despachadores con la empresa, correo electrónico y dirección de cada despachador](assets/admin/p025-1.jpeg)\n\nHaga clic en **Editar** en la columna **Acción** para modificar los datos de un despachador en el formulario **Editar Gerente**, y luego haga clic en **Enviar** para guardar los cambios.\n\n![Formulario Editar Gerente con la información personal y la empresa de flota de un despachador](assets/admin/p024-2.jpeg)\n\nHaga clic en **Agregar Despachador** en la esquina superior derecha para registrar un nuevo despachador, proporcionando su nombre, dirección, país, estado, ciudad, datos de contacto e información de la empresa."
+              }
+            },
+            {
+              "id": "manage-drivers",
+              "number": null,
+              "title": {
+                "en": "Manage drivers",
+                "es": "Administrar conductores"
+              },
+              "content": {
+                "en": "**Manage Drivers** lets you review and edit every driver's information. Click a driver's photo to open a detailed report covering their status, transactions, trip statistics, and shift history. Drivers whose wallet balance has fallen below the configured minimum are highlighted in yellow in the list.\n\n![Manage Drivers list with wallet amount and driver status columns highlighted in yellow](assets/admin/p026-1.jpeg)\n\nUse the **Driver Type** drop-down to filter the list by commission-based or subscription-based drivers. Click a driver's name to view their complete report, including current status, location, and the time it was last updated — including the progress of any ride currently in motion.\n\nIf a driver's phone loses connectivity mid-ride, the driver can notify the admin, who can then manually force-complete the ride by entering the drop-off location, distance, and fare.\n\nClick **Edit** in the **Action** column to update a driver's personal information and identity documents; click **Submit** to save.\n\n![Edit Driver form with personal information, license, insurance, and package availability fields](assets/admin/p028-1.jpeg)\n\nClick the **Recharge Money** icon in the **Action** column to top up a driver's wallet. When a passenger pays a ride in cash, the admin's commission is deducted from the driver's wallet; when a passenger pays by card, the driver's commission is instead credited to the wallet.\n\nClick **Add Driver** in the top-right corner to register a new driver, including their personal information, identity documents, photo, and driving license details, which help establish credibility and safety during a trip. Each driver can be assigned to operate under **Multi** brand (the driver works for a specific fleet company) or **Single** brand (the driver works directly under the master admin).\n\n![Add Driver form showing brand, register type, subscription plans, and booking limit fields](assets/admin/p030-1.jpeg)\n\nYou can import or export driver lists using the buttons in the top-right corner.",
+                "es": "**Administrar Conductores** le permite revisar y editar la información de cada conductor. Haga clic en la foto de un conductor para abrir un informe detallado con su estado, transacciones, estadísticas de viajes e historial de turnos. Los conductores cuyo saldo de cartera haya caído por debajo del mínimo configurado se resaltan en amarillo en la lista.\n\n![Lista de Administrar Conductores con las columnas de monto de cartera y estado del conductor resaltadas en amarillo](assets/admin/p026-1.jpeg)\n\nUtilice la lista desplegable **Tipo de Conductor** para filtrar por conductores basados en comisión o en suscripción. Haga clic en el nombre de un conductor para ver su informe completo, incluyendo el estado actual, la ubicación y la hora de la última actualización, así como el progreso de cualquier viaje en curso.\n\nSi el teléfono de un conductor pierde conexión durante un viaje, el conductor puede notificar al administrador, quien puede entonces forzar manualmente la finalización del viaje ingresando el punto de destino, la distancia y la tarifa.\n\nHaga clic en **Editar** en la columna **Acción** para actualizar la información personal y los documentos de identidad de un conductor; haga clic en **Enviar** para guardar.\n\n![Formulario Editar Conductor con los campos de información personal, licencia, seguro y disponibilidad de paquetes](assets/admin/p028-1.jpeg)\n\nHaga clic en el ícono **Recargar Dinero** en la columna **Acción** para recargar la cartera de un conductor. Cuando un pasajero paga el viaje en efectivo, la comisión del administrador se descuenta de la cartera del conductor; cuando el pasajero paga con tarjeta, la comisión del conductor se abona en cambio a su cartera.\n\nHaga clic en **Agregar Conductor** en la esquina superior derecha para registrar un nuevo conductor, incluyendo su información personal, documentos de identidad, fotografía y datos de la licencia de conducir, los cuales ayudan a establecer credibilidad y seguridad durante el viaje. Cada conductor se puede asignar para operar bajo la marca **Múltiple** (el conductor trabaja para una empresa de flota específica) o **Única** (el conductor trabaja directamente bajo el administrador maestro).\n\n![Formulario Agregar Conductor mostrando los campos de marca, tipo de registro, planes de suscripción y límite de reservas](assets/admin/p030-1.jpeg)\n\nPuede importar o exportar las listas de conductores mediante los botones de la esquina superior derecha."
+              }
+            },
+            {
+              "id": "manage-subscription-plans",
+              "number": null,
+              "title": {
+                "en": "Manage subscription plans",
+                "es": "Administrar planes de suscripción"
+              },
+              "content": {
+                "en": "**Manage Subscription Plans** lists every company's subscription plans; use the keyword search to locate a specific one. Click the icon in the **Action** column to edit a plan, make your changes in the **Edit Subscription Plan** form, and click **Submit** to save.\n\n![Manage Subscription Plans list with plan name, company, duration, price, tax, and driver count](assets/admin/p031-1.jpeg)\n\nClick **Add** in the top-right corner to create a new plan. This opens the **Add Subscription** form — complete the required details and click **Submit** to create it.\n\n![Add Subscription Plan form with plan name, brand, price, duration, and booking limit fields](assets/admin/p032-1.jpeg)",
+                "es": "**Administrar Planes de Suscripción** enumera los planes de suscripción de cada empresa; utilice la búsqueda por palabra clave para localizar uno en particular. Haga clic en el ícono de la columna **Acción** para editar un plan, realice los cambios en el formulario **Editar Plan de Suscripción** y haga clic en **Enviar** para guardarlos.\n\n![Lista de Administrar Planes de Suscripción con el nombre del plan, empresa, duración, precio, impuesto y número de conductores](assets/admin/p031-1.jpeg)\n\nHaga clic en **Agregar** en la esquina superior derecha para crear un nuevo plan. Esto abre el formulario **Agregar Suscripción**; complete los datos requeridos y haga clic en **Enviar** para crearlo.\n\n![Formulario Agregar Plan de Suscripción con los campos de nombre del plan, marca, precio, duración y límite de reservas](assets/admin/p032-1.jpeg)"
+              }
+            },
+            {
+              "id": "driver-ratings",
+              "number": null,
+              "title": {
+                "en": "Driver ratings",
+                "es": "Calificaciones de conductores"
+              },
+              "content": {
+                "en": "Passenger ratings for each driver are listed on the **Driver Ratings** screen. Click **View Details** in the **Action** column to open an individual driver's rating report.\n\n![View driver ratings list showing each driver's rating points out of five](assets/admin/p032-2.jpeg)",
+                "es": "Las calificaciones de los pasajeros para cada conductor se enumeran en la pantalla **Calificaciones de Conductores**. Haga clic en **Ver Detalles** en la columna **Acción** para abrir el informe de calificación de un conductor en particular.\n\n![Lista de calificaciones de conductores mostrando los puntos de calificación de cada conductor sobre cinco](assets/admin/p032-2.jpeg)"
+              }
+            },
+            {
+              "id": "driver-wallet",
+              "number": null,
+              "title": {
+                "en": "Driver wallet",
+                "es": "Cartera de conductores"
+              },
+              "content": {
+                "en": "The **Driver Wallet** screen shows each wallet balance together with the company name and any withdrawal amounts, along with the date and time requested. When a withdrawal request is approved or rejected, its status updates accordingly. The list can be downloaded as an XLS or PDF file using the **Export** button in the top-right corner.\n\n![Driver Wallet list showing name, phone, company, withdrawal amount, requested date, and status](assets/admin/p033-1.jpeg)",
+                "es": "La pantalla **Cartera de Conductores** muestra el saldo de cada cartera junto con el nombre de la empresa y cualquier monto de retiro, así como la fecha y hora de la solicitud. Cuando una solicitud de retiro se aprueba o se rechaza, su estado se actualiza en consecuencia. La lista se puede descargar en formato XLS o PDF mediante el botón **Exportar** en la esquina superior derecha.\n\n![Lista de Cartera de Conductores mostrando nombre, teléfono, empresa, monto de retiro, fecha solicitada y estado](assets/admin/p033-1.jpeg)"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dispatcher",
+      "number": "5",
+      "title": {
+        "en": "Dispatcher",
+        "es": "Despachador"
+      },
+      "content": {
+        "en": "",
+        "es": ""
+      },
+      "children": [
+        {
+          "id": "dispatcher-dashboard",
+          "number": "5.1",
+          "title": {
+            "en": "Dashboard",
+            "es": "Panel de control"
+          },
+          "content": {
+            "en": "The dispatcher dashboard gives an overview of missed, rejected, or canceled bookings, payments across payment modes, booking types, and a booking heatmap.\n\n- **Bookings** — A chart showing the count of all completed rides; click the **Menu** icon to download the report in any supported format.\n- **Missed bookings** — A chart showing rides missed because the driver rejected them or the rider canceled; downloadable via the **Menu** icon.\n- **Booking type and payment mode** — Shows bookings made through the website, mobile app, street pickups, and call centers individually, filterable by date or time and downloadable via the **Menu** icon.\n- **Payment mode** — Shows payments received via referral programs, promotions, card, and cash, filterable by date or time and downloadable via the **Menu** icon.\n- **Booking heatmap** — Highlights the locations with the highest booking activity.",
+            "es": "El panel del despachador ofrece una visión general de las reservas perdidas, rechazadas o canceladas, los pagos por modalidad de pago, los tipos de reserva y un mapa de calor de reservas.\n\n- **Reservas** — Una gráfica que muestra el número de viajes completados; haga clic en el ícono de **Menú** para descargar el informe en cualquier formato disponible.\n- **Reservas perdidas** — Una gráfica que muestra los viajes perdidos porque el conductor los rechazó o el pasajero los canceló; se puede descargar mediante el ícono de **Menú**.\n- **Tipo de reserva y modalidad de pago** — Muestra por separado las reservas realizadas a través del sitio web, la aplicación móvil, recogidas en la calle y centros de llamadas, filtrable por fecha u hora y descargable mediante el ícono de **Menú**.\n- **Modalidad de pago** — Muestra los pagos recibidos mediante programas de referidos, promociones, tarjeta y efectivo, filtrable por fecha u hora y descargable mediante el ícono de **Menú**.\n- **Mapa de calor de reservas** — Resalta las ubicaciones con mayor actividad de reservas."
+          }
+        },
+        {
+          "id": "dispatch",
+          "number": "5.2",
+          "title": {
+            "en": "Dispatch",
+            "es": "Despacho"
+          },
+          "content": {
+            "en": "The **Dispatch** screen provides refined filtering and search by vehicle status, booking status, driver status, and vehicle model, letting the admin view and manage vehicle status and assign or reassign on-demand or scheduled bookings, with live tracking of vehicle movement.\n\nThe admin can manually add a booking by entering the passenger's information, location details, date, and time, and selecting a vehicle from the drop-down list. Existing assigned bookings can also be looked up using the search option.",
+            "es": "La pantalla **Despacho** ofrece filtros y búsqueda refinados por estado del vehículo, estado de la reserva, estado del conductor y modelo de vehículo, permitiendo al administrador visualizar y gestionar el estado de los vehículos y asignar o reasignar reservas a demanda o programadas, con seguimiento en vivo del movimiento vehicular.\n\nEl administrador puede agregar manualmente una reserva ingresando la información del pasajero, los datos de ubicación, la fecha y la hora, y seleccionando un vehículo de la lista desplegable. También se pueden consultar las reservas ya asignadas mediante la opción de búsqueda."
+          }
+        },
+        {
+          "id": "manage-bookings",
+          "number": "5.3",
+          "title": {
+            "en": "Manage Bookings",
+            "es": "Administrar reservas"
+          },
+          "content": {
+            "en": "**Manage Bookings** gives the admin a single view to manage every taxi booking across all companies. From here you can add new bookings — both Ride Now and Ride Later — and see the number of vehicles assigned and reassigned, along with rides confirmed, in progress, completed, and canceled, plus pending-payment details and every other booking particular for each ride.\n\nIf a booked trip is canceled, the admin can reassign a vehicle and driver manually or automatically.\n\nFor any trip that has not yet been dispatched, click **Dispatch** in the **Action** column to assign a cab manually or automatically, or click the **✖** icon in the same column to cancel a trip that has not yet been assigned.",
+            "es": "**Administrar Reservas** le da al administrador una vista única para gestionar todas las reservas de taxi de todas las empresas. Desde aquí puede agregar nuevas reservas, tanto Viajar Ahora como Viajar Después, y ver el número de vehículos asignados y reasignados, junto con los viajes confirmados, en curso, completados y cancelados, además de los detalles de pagos pendientes y el resto de los datos de cada reserva.\n\nSi un viaje reservado se cancela, el administrador puede reasignar un vehículo y un conductor de forma manual o automática.\n\nPara cualquier viaje que aún no se haya despachado, haga clic en **Despachar** en la columna **Acción** para asignar un vehículo de forma manual o automática, o haga clic en el ícono **✖** en la misma columna para cancelar un viaje que aún no se ha asignado."
+          }
+        },
+        {
+          "id": "fleet-dispatch-settings",
+          "number": "5.4",
+          "title": {
+            "en": "Fleet Dispatch Settings",
+            "es": "Configuración de despacho de flota"
+          },
+          "content": {
+            "en": "**Fleet Dispatch Settings** control how trips are dispatched to drivers; the driver notification behaves accordingly.\n\n- **Auto** — Automatically assigns the trip to an available driver.\n- **Manual** — Displays the available drivers so the dispatcher can choose who receives the trip.\n- **Auto & Manual** — At the time of each dispatch, the system prompts the admin to choose either option.\n\nFor scheduled or advance bookings, the admin can set the time interval between when the ride-request notification is sent to the assigned driver and the scheduled pickup time.",
+            "es": "**Configuración de Despacho de Flota** controla cómo se despachan los viajes a los conductores; la notificación al conductor se comporta según esta configuración.\n\n- **Automático** — Asigna automáticamente el viaje a un conductor disponible.\n- **Manual** — Muestra los conductores disponibles para que el despachador elija quién recibe el viaje.\n- **Automático y Manual** — En cada despacho, el sistema solicita al administrador elegir una de las dos opciones.\n\nPara reservas programadas o anticipadas, el administrador puede establecer el intervalo de tiempo entre el momento en que se envía la notificación de solicitud de viaje al conductor asignado y la hora programada de recogida."
+          }
+        }
+      ]
+    },
+    {
+      "id": "revenue",
+      "number": "6",
+      "title": {
+        "en": "Revenue",
+        "es": "Ingresos"
+      },
+      "content": {
+        "en": "",
+        "es": ""
+      },
+      "children": [
+        {
+          "id": "revenue-dashboard",
+          "number": "6.1",
+          "title": {
+            "en": "Dashboard",
+            "es": "Panel de control"
+          },
+          "content": {
+            "en": "The revenue dashboard shows average revenue per user, per trip, and per fleet, along with the average revenue lost to ride cancellations.\n\n- **Revenue graph** — Shows the number of rides and corresponding earnings for the month; a filter allows viewing a specific date range.\n- **User average revenue graph** — Shows the average revenue received per user along with trip counts.\n- **Revenues vs. expenses** — Segregates revenue and expenses for each day.\n- **Missed revenues** — Shows revenue lost to rides rejected by drivers or canceled by passengers.\n- **Payments by company** — Shows revenue from referral programs, promotions, card, and cash, filterable by date and time.\n- **Commission and subscription revenue** — Shows total revenue received from commissions and subscription plans.",
+            "es": "El panel de ingresos muestra el ingreso promedio por usuario, por viaje y por flota, junto con el ingreso promedio perdido por cancelaciones de viaje.\n\n- **Gráfica de ingresos** — Muestra el número de viajes y las ganancias correspondientes del mes; un filtro permite ver un rango de fechas específico.\n- **Gráfica de ingreso promedio por usuario** — Muestra el ingreso promedio recibido por usuario junto con el número de viajes.\n- **Ingresos frente a gastos** — Separa los ingresos y los gastos de cada día.\n- **Ingresos perdidos** — Muestra los ingresos perdidos por viajes rechazados por conductores o cancelados por pasajeros.\n- **Pagos por empresa** — Muestra los ingresos provenientes de programas de referidos, promociones, tarjeta y efectivo, filtrable por fecha y hora.\n- **Ingresos por comisión y suscripción** — Muestra el total de ingresos recibidos por comisiones y planes de suscripción."
+          }
+        },
+        {
+          "id": "transactions",
+          "number": "6.2",
+          "title": {
+            "en": "Transactions",
+            "es": "Transacciones"
+          },
+          "content": {
+            "en": "**Transactions** lists every transaction made by each company, including pickup and drop-off locations, passenger name, date, and transaction ID, among other details. Results can be filtered by trip type to view normal, rental, or outstation trips.",
+            "es": "**Transacciones** enumera todas las transacciones realizadas por cada empresa, incluyendo los puntos de recogida y destino, el nombre del pasajero, la fecha y el número de transacción, entre otros datos. Los resultados se pueden filtrar por tipo de viaje para ver los viajes normales, de renta o foráneos."
+          }
+        },
+        {
+          "id": "expense-management",
+          "number": "6.3",
+          "title": {
+            "en": "Expense Management",
+            "es": "Gestión de gastos"
+          },
+          "content": {
+            "en": "",
+            "es": ""
+          },
+          "children": [
+            {
+              "id": "expense-category",
+              "number": null,
+              "title": {
+                "en": "Expense category",
+                "es": "Categoría de gasto"
+              },
+              "content": {
+                "en": "Set up expense categories such as rent or salary from the back end. Click **Add** in the top-right corner to create a new category, and click **Edit** in the **Action** column to modify an existing one.",
+                "es": "Configure categorías de gastos, como renta o sueldos, desde el back end. Haga clic en **Agregar** en la esquina superior derecha para crear una nueva categoría, y haga clic en **Editar** en la columna **Acción** para modificar una existente."
+              }
+            },
+            {
+              "id": "manage-expenses",
+              "number": null,
+              "title": {
+                "en": "Manage expenses",
+                "es": "Administrar gastos"
+              },
+              "content": {
+                "en": "**Manage Expenses** lets the admin group expenses by category, download the data for future reference, or delete an entry using the icons in the **Action** column. You can also add a new expense category from here by clicking **Add** in the top-right corner, and edit an existing category by clicking **Edit** in the **Action** column.",
+                "es": "**Administrar Gastos** permite al administrador agrupar los gastos por categoría, descargar los datos para referencia futura, o eliminar un registro mediante los íconos de la columna **Acción**. También puede agregar una nueva categoría de gasto desde aquí haciendo clic en **Agregar** en la esquina superior derecha, y editar una categoría existente haciendo clic en **Editar** en la columna **Acción**."
+              }
+            },
+            {
+              "id": "payout",
+              "number": null,
+              "title": {
+                "en": "Payout",
+                "es": "Pago a conductores"
+              },
+              "content": {
+                "en": "**Payout** lists driver withdrawal requests, along with the company each driver belongs to, the requested date, the withdrawal amount, and the request status. You can search by status — approved, pending, or denied. Click the icon in the **View** column to see the full detail of any withdrawal request.",
+                "es": "**Pago a Conductores** enumera las solicitudes de retiro de los conductores, junto con la empresa a la que pertenece cada conductor, la fecha de la solicitud, el monto del retiro y el estado de la solicitud. Puede buscar por estado: aprobado, pendiente o denegado. Haga clic en el ícono de la columna **Ver** para consultar el detalle completo de cualquier solicitud de retiro."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "marketing",
+      "number": "7",
+      "title": {
+        "en": "Marketing",
+        "es": "Mercadotecnia"
+      },
+      "content": {
+        "en": "",
+        "es": ""
+      },
+      "children": [
+        {
+          "id": "marketing-dashboard",
+          "number": "7.1",
+          "title": {
+            "en": "Dashboard",
+            "es": "Panel de control"
+          },
+          "content": {
+            "en": "The marketing dashboard summarizes user activity and the revenue generated from marketing campaigns.\n\n- **New user sign-up** — Shows daily user registrations attributable to promotions or campaigns.\n- **User activity** — Shows all campaign-driven user activity, including logins, registrations, and bookings.\n- **Revenue** — Shows the number of campaigns and the revenue each one generated per day.",
+            "es": "El panel de mercadotecnia resume la actividad de los usuarios y los ingresos generados por las campañas de mercadotecnia.\n\n- **Registro de nuevos usuarios** — Muestra los registros diarios de usuarios atribuibles a promociones o campañas.\n- **Actividad de usuarios** — Muestra toda la actividad de usuarios impulsada por campañas, incluyendo inicios de sesión, registros y reservas.\n- **Ingresos** — Muestra el número de campañas y los ingresos que generó cada una por día."
+          }
+        },
+        {
+          "id": "campaigns",
+          "number": "7.2",
+          "title": {
+            "en": "Campaigns",
+            "es": "Campañas"
+          },
+          "content": {
+            "en": "**Campaigns** gives you the complete history of every campaign that has run. Click a campaign's name to view its full details, or click the icon in the **Edit** column to modify a campaign — you'll be taken to a form where you can update the required information and submit it.\n\nClick **Add Campaign** to create a new one; complete the required information in the form and submit it. The new campaign then appears in the list.\n\nEach campaign is configured with a code, notification type, start date, and expiry date. Automated notifications are sent to selected users by SMS, email, or push notification, depending on the settings. Promo codes can target new users or existing users, and you can set a discount amount, usage limit, and validity period. The admin can also send bulk SMS messages and emails; the number of messages you can send depends on your third-party provider's plan (for example, SendGrid for email).",
+            "es": "**Campañas** le brinda el historial completo de todas las campañas que se han ejecutado. Haga clic en el nombre de una campaña para ver todos sus detalles, o haga clic en el ícono de la columna **Editar** para modificar una campaña; se le dirigirá a un formulario donde podrá actualizar la información requerida y enviarla.\n\nHaga clic en **Agregar Campaña** para crear una nueva; complete la información requerida en el formulario y envíelo. La nueva campaña aparecerá entonces en la lista.\n\nCada campaña se configura con un código, un tipo de notificación, una fecha de inicio y una fecha de vencimiento. Se envían notificaciones automáticas a los usuarios seleccionados por SMS, correo electrónico o notificación push, según la configuración. Los códigos promocionales se pueden dirigir a usuarios nuevos o existentes, y se puede establecer un monto de descuento, un límite de uso y un periodo de validez. El administrador también puede enviar SMS y correos electrónicos masivos; la cantidad de mensajes que puede enviar depende del plan de su proveedor externo (por ejemplo, SendGrid para correo electrónico)."
+          }
+        },
+        {
+          "id": "templates",
+          "number": "7.3",
+          "title": {
+            "en": "Templates",
+            "es": "Plantillas"
+          },
+          "content": {
+            "en": "**Templates** for promotional messages are configured at the back end according to their purpose and audience. Click a template's title to view its full details and make changes if needed. Templates can be enabled or disabled at any time.",
+            "es": "Las **Plantillas** para mensajes promocionales se configuran en el back end según su propósito y público objetivo. Haga clic en el título de una plantilla para ver todos sus detalles y hacer cambios si es necesario. Las plantillas se pueden habilitar o deshabilitar en cualquier momento."
+          }
+        },
+        {
+          "id": "consumers",
+          "number": "7.4",
+          "title": {
+            "en": "Consumers",
+            "es": "Pasajeros"
+          },
+          "content": {
+            "en": "",
+            "es": ""
+          },
+          "children": [
+            {
+              "id": "manage-consumers",
+              "number": null,
+              "title": {
+                "en": "Manage consumers",
+                "es": "Administrar pasajeros"
+              },
+              "content": {
+                "en": "**Manage Consumers** provides the complete list of registered passengers and their data. Search by keyword or by status, and edit a passenger's profile as needed. Click a consumer's name to view their usage details, consumer report, and trip history.\n\nEach passenger record lists their name, email address, phone number, referral code, wallet balance, and registration date.\n\nYou can import passenger data from an existing database in a supported file format — the admin is notified of any errors, such as an invalid phone number or email address — and export it as an XLS or PDF file using the **Export** button in the top-right corner. Click **Edit** in the **Action** column to edit a passenger's information.",
+                "es": "**Administrar Pasajeros** ofrece la lista completa de pasajeros registrados y sus datos. Busque por palabra clave o por estado, y edite el perfil de un pasajero según sea necesario. Haga clic en el nombre de un pasajero para ver sus detalles de uso, su informe de pasajero y su historial de viajes.\n\nCada registro de pasajero incluye su nombre, correo electrónico, número telefónico, código de referido, saldo de cartera y fecha de registro.\n\nPuede importar datos de pasajeros desde una base de datos existente en un formato de archivo compatible; el administrador recibe notificación de cualquier error, como un número telefónico o correo electrónico inválido, y exportarlos en formato XLS o PDF mediante el botón **Exportar** en la esquina superior derecha. Haga clic en **Editar** en la columna **Acción** para editar la información de un pasajero."
+              }
+            },
+            {
+              "id": "consumer-wallet-log",
+              "number": null,
+              "title": {
+                "en": "Consumer wallet log",
+                "es": "Registro de cartera de pasajeros"
+              },
+              "content": {
+                "en": "**Consumer Wallet Log** records each passenger's wallet activity, including their name, phone number, wallet amount, and payment type, for future reference. The log can be downloaded as an XLS or PDF file using the **Export** button in the top-right corner.",
+                "es": "**Registro de Cartera de Pasajeros** registra la actividad de la cartera de cada pasajero, incluyendo su nombre, número telefónico, monto de la cartera y tipo de pago, para referencia futura. El registro se puede descargar en formato XLS o PDF mediante el botón **Exportar** en la esquina superior derecha."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "analytics",
+      "number": "8",
+      "title": {
+        "en": "Analytics",
+        "es": "Analítica"
+      },
+      "content": {
+        "en": "",
+        "es": ""
+      },
+      "children": [
+        {
+          "id": "analytics-dashboard",
+          "number": "8.1",
+          "title": {
+            "en": "Dashboard",
+            "es": "Panel de control"
+          },
+          "content": {
+            "en": "The analytics dashboard consolidates all operational data onto a single screen so the admin can make better-informed decisions. It brings together graphs for fleet availability, driver unavailability, bookings, missed bookings, booking type, payment mode, revenue, average revenue per user, revenues vs. expenses, missed revenues, campaign revenue, and user activity.",
+            "es": "El panel de analítica consolida todos los datos operativos en una sola pantalla para que el administrador pueda tomar mejores decisiones. Reúne gráficas de disponibilidad de flota, indisponibilidad de conductores, reservas, reservas perdidas, tipo de reserva, modalidad de pago, ingresos, ingreso promedio por usuario, ingresos frente a gastos, ingresos perdidos, ingresos por campañas y actividad de usuarios."
+          }
+        },
+        {
+          "id": "reports",
+          "number": "8.2",
+          "title": {
+            "en": "Reports",
+            "es": "Informes"
+          },
+          "content": {
+            "en": "Generate reports for nearly every business process from this screen, and download any of them as an Excel or PDF file using the **Export** button in the top-right corner.",
+            "es": "Genere informes para prácticamente todos los procesos de negocio desde esta pantalla, y descargue cualquiera de ellos en formato Excel o PDF mediante el botón **Exportar** en la esquina superior derecha."
+          },
+          "children": [
+            {
+              "id": "transaction-history",
+              "number": null,
+              "title": {
+                "en": "Transaction history",
+                "es": "Historial de transacciones"
+              },
+              "content": {
+                "en": "Lists every transaction by company, vehicle, driver, and passenger name, together with location and date, and includes logs and statistics for all completed and canceled transactions. Use the filter icon in the top-right corner to narrow the search.",
+                "es": "Enumera todas las transacciones por empresa, vehículo, conductor y nombre del pasajero, junto con la ubicación y la fecha, e incluye registros y estadísticas de todas las transacciones completadas y canceladas. Utilice el ícono de filtro en la esquina superior derecha para acotar la búsqueda."
+              }
+            },
+            {
+              "id": "expenses-history",
+              "number": null,
+              "title": {
+                "en": "Expenses history",
+                "es": "Historial de gastos"
+              },
+              "content": {
+                "en": "Lists every expense with its reason, category, amount, and date.",
+                "es": "Enumera todos los gastos con su motivo, categoría, monto y fecha."
+              }
+            },
+            {
+              "id": "consumer-report",
+              "number": null,
+              "title": {
+                "en": "Consumer report",
+                "es": "Informe de pasajeros"
+              },
+              "content": {
+                "en": "Lists every registered passenger's name, email address, phone number, referral code, wallet balance, and registration date. Use the filter icon in the top-right corner to narrow the search; click a consumer's name for their full report, and use **Export** in the top-right corner to download it.",
+                "es": "Enumera el nombre, correo electrónico, número telefónico, código de referido, saldo de cartera y fecha de registro de cada pasajero registrado. Utilice el ícono de filtro en la esquina superior derecha para acotar la búsqueda; haga clic en el nombre de un pasajero para ver su informe completo, y use **Exportar** en la esquina superior derecha para descargarlo."
+              }
+            },
+            {
+              "id": "fleet-report",
+              "number": null,
+              "title": {
+                "en": "Fleet report",
+                "es": "Informe de flota"
+              },
+              "content": {
+                "en": "Lists every vehicle with its vehicle number, owner company, vehicle type, and model; use the keyword search to find a specific vehicle. Use the filter icon in the top-right corner to narrow the search; click a fleet number for the vehicle's full report, and use **Export** to download it.",
+                "es": "Enumera todos los vehículos con su número de unidad, empresa propietaria, tipo de vehículo y modelo; use la búsqueda por palabra clave para encontrar un vehículo específico. Utilice el ícono de filtro en la esquina superior derecha para acotar la búsqueda; haga clic en un número de flota para ver el informe completo del vehículo, y use **Exportar** para descargarlo."
+              }
+            },
+            {
+              "id": "driver-report",
+              "number": null,
+              "title": {
+                "en": "Driver report",
+                "es": "Informe de conductores"
+              },
+              "content": {
+                "en": "Lists every driver with a detailed report covering status, transactions, trip statistics, and shift history. Use the filter icon in the top-right corner to narrow the search; click a driver's name for their full report, and use **Export** to download it.",
+                "es": "Enumera a todos los conductores con un informe detallado que cubre el estado, las transacciones, las estadísticas de viajes y el historial de turnos. Utilice el ícono de filtro en la esquina superior derecha para acotar la búsqueda; haga clic en el nombre de un conductor para ver su informe completo, y use **Exportar** para descargarlo."
+              }
+            },
+            {
+              "id": "company-report",
+              "number": null,
+              "title": {
+                "en": "Company report",
+                "es": "Informe de empresas"
+              },
+              "content": {
+                "en": "Lets you add any number of companies to the list, capturing name, address, country, state, city, company images, time zone, and other details, as well as personal information such as email, password, mobile number, and address. Use the filter icon in the top-right corner to narrow the search; click a company's name for its full report, and use **Export** to download it.",
+                "es": "Le permite agregar cualquier número de empresas a la lista, capturando nombre, dirección, país, estado, ciudad, imágenes de la empresa, zona horaria y otros datos, así como información personal como correo electrónico, contraseña, número de celular y dirección. Utilice el ícono de filtro en la esquina superior derecha para acotar la búsqueda; haga clic en el nombre de una empresa para ver su informe completo, y use **Exportar** para descargarlo."
+              }
+            },
+            {
+              "id": "consumer-logs",
+              "number": null,
+              "title": {
+                "en": "Consumer logs",
+                "es": "Registros de pasajeros"
+              },
+              "content": {
+                "en": "Lists passenger activity, including user ID, login type, login date, and the activity performed. Search filter and export options are also available.",
+                "es": "Enumera la actividad de los pasajeros, incluyendo el ID de usuario, el tipo de inicio de sesión, la fecha de inicio de sesión y la actividad realizada. También cuenta con opciones de filtro de búsqueda y exportación."
+              }
+            },
+            {
+              "id": "user-logs",
+              "number": null,
+              "title": {
+                "en": "User logs",
+                "es": "Registros de usuarios"
+              },
+              "content": {
+                "en": "Catalogs the activity of every user type — passengers, drivers, companies, and dispatchers — including user ID, login type, login date, and activity performed. Search filter and export options are also available.",
+                "es": "Cataloga la actividad de todos los tipos de usuario (pasajeros, conductores, empresas y despachadores), incluyendo el ID de usuario, el tipo de inicio de sesión, la fecha de inicio de sesión y la actividad realizada. También cuenta con opciones de filtro de búsqueda y exportación."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "accounts",
+      "number": "9",
+      "title": {
+        "en": "Accounts",
+        "es": "Cuentas"
+      },
+      "content": {
+        "en": "",
+        "es": ""
+      },
+      "children": [
+        {
+          "id": "payable",
+          "number": "9.1",
+          "title": {
+            "en": "Payable",
+            "es": "Por pagar"
+          },
+          "content": {
+            "en": "**Payable** shows the amounts payable to, and receivable from, each company, including tax calculations. Click a company's name to view the list of drivers working under it, along with their account details; click a driver's name in that list to view their trip details. The status of each request is shown here.",
+            "es": "**Por Pagar** muestra los montos por pagar a, y por cobrar de, cada empresa, incluyendo el cálculo de impuestos. Haga clic en el nombre de una empresa para ver la lista de conductores que trabajan bajo ella, junto con sus datos de cuenta; haga clic en el nombre de un conductor en esa lista para ver los detalles de sus viajes. El estado de cada solicitud se muestra aquí."
+          }
+        },
+        {
+          "id": "settlement-request",
+          "number": "9.2",
+          "title": {
+            "en": "Settlement Request",
+            "es": "Solicitud de liquidación"
+          },
+          "content": {
+            "en": "Any pending settlement request appears here. Use **Change Status** in the bottom-left corner to change its status between Pending and Approved.",
+            "es": "Cualquier solicitud de liquidación pendiente aparece aquí. Use **Cambiar Estado** en la esquina inferior izquierda para cambiar su estado entre Pendiente y Aprobado."
+          }
+        },
+        {
+          "id": "settlement-history",
+          "number": "9.3",
+          "title": {
+            "en": "Settlement History",
+            "es": "Historial de liquidaciones"
+          },
+          "content": {
+            "en": "**Settlement History** lists every settlement made, including the payment date, driver and company names, and the amount paid. Click a settlement ID to view its detailed history. The report can be printed using the **Print** button in the top-right corner.",
+            "es": "**Historial de Liquidaciones** enumera todas las liquidaciones realizadas, incluyendo la fecha de pago, los nombres del conductor y la empresa, y el monto pagado. Haga clic en un ID de liquidación para ver su historial detallado. El informe se puede imprimir mediante el botón **Imprimir** en la esquina superior derecha."
+          }
+        }
+      ]
+    },
+    {
+      "id": "zone-management",
+      "number": "10",
+      "title": {
+        "en": "Zone Management",
+        "es": "Administración de zonas"
+      },
+      "content": {
+        "en": "**Zone Management** lists every configured zone. Click **Edit** in the **Action** column to modify a zone, then click **Submit** to save your changes. Click **Add Geofencing** in the top-right corner to add a new zone.\n\nTo add a new zone:\n\n1. Enter the zone title.\n2. Enter the address.\n3. Click **Draw a shape** to draw the zone's boundary on the map.\n4. Enter the zone-to-zone fare for each vehicle model.\n5. Click **Submit** to save the zone.",
+        "es": "**Administración de Zonas** enumera todas las zonas configuradas. Haga clic en **Editar** en la columna **Acción** para modificar una zona, y luego haga clic en **Enviar** para guardar los cambios. Haga clic en **Agregar Geocerca** en la esquina superior derecha para agregar una nueva zona.\n\nPara agregar una nueva zona:\n\n1. Ingrese el título de la zona.\n2. Ingrese la dirección.\n3. Haga clic en **Dibujar una forma** para trazar el límite de la zona en el mapa.\n4. Ingrese la tarifa de zona a zona para cada modelo de vehículo.\n5. Haga clic en **Enviar** para guardar la zona."
+      }
+    },
+    {
+      "id": "sos",
+      "number": "11",
+      "title": {
+        "en": "SOS",
+        "es": "SOS"
+      },
+      "content": {
+        "en": "",
+        "es": ""
+      },
+      "children": [
+        {
+          "id": "sos-history",
+          "number": "11.1",
+          "title": {
+            "en": "SOS History",
+            "es": "Historial de SOS"
+          },
+          "content": {
+            "en": "**SOS History** gives the admin access to every emergency alert triggered from either the passenger app or the driver app, along with its complete details.",
+            "es": "**Historial de SOS** le da al administrador acceso a todas las alertas de emergencia activadas desde la aplicación del pasajero o la del conductor, junto con todos sus detalles."
+          }
+        }
+      ]
+    },
+    {
+      "id": "settings",
+      "number": "12",
+      "title": {
+        "en": "Settings",
+        "es": "Configuración"
+      },
+      "content": {
+        "en": "",
+        "es": ""
+      },
+      "children": [
+        {
+          "id": "site-settings",
+          "number": "12.1",
+          "title": {
+            "en": "Site Settings",
+            "es": "Configuración del sitio"
+          },
+          "content": {
+            "en": "**Site Settings** brings together the platform's global configuration options. It includes:\n\n- **Trip fare source** — Choose whether trip fares are set by the admin or by individual taxi companies.\n- **Driver request acceptance timer** — The time a driver is given to accept a passenger request; defaults to 20 seconds and can be adjusted to suit dispatcher preferences.\n- **Idle session timeout** — Automatically signs out idle or inactive sessions after a configurable period, to improve system security.\n- **Referral message recording** — Lets a user record a voice message that is automatically sent to a friend as part of the referral program.\n- **Meta keywords / meta description** — SEO metadata fields to improve search visibility.\n- **SMS toggle** — Enable or disable SMS notifications to users.\n- **Distance unit** — Choose kilometers or miles via the **Default Units** setting, and set the minimum distance via **Default Miles** (or the equivalent km setting).\n- **Skip credit card** — Lets a company restrict payment to cash only instead of offering both cash and card.\n- **Cancellation fee toggle** — Lets a company decide whether to charge passengers a fee for canceled rides.\n- **Admin fare vs. company fare** — Choose between an **Admin fare** (one common fare per vehicle type applied across all companies) and a **Company fare** (each company sets its own fare).\n- **Fare calculation basis** — Choose whether fare is calculated by distance, by distance and time combined, or by time alone.\n- **Application language** — Set the language used across both the web admin panel and the mobile apps.\n- **Tooltips** — Show contextual help text when hovering over interface elements.\n- **Referral settings** — Enable referral bonuses for passengers, with the bonus amount configured as **Referral amount**; a matching referral program can be enabled separately for drivers.\n- **Wallet quick-add amounts** — Configure three default top-up amounts (**Wallet amount 1**, **Wallet amount 2**, **Wallet amount 3**) that users can select with one tap, plus a custom range (for example, 5–150, meaning the minimum top-up is 5 and the maximum is 150).\n- **Site name, tagline, and contact details** — Record the site's name, tagline, contact email address, and phone number.\n- **Pagination settings** — Configure how many rows/pages are displayed per screen.\n- **Driver visibility below minimum wallet amount** — Choose (Enable/Disable) whether a driver stays visible to passengers even after their wallet balance drops below the configured minimum.\n- **Multi-model dispatch** — Enable or disable offering the passenger alternative vehicle types at the same fare when their requested vehicle type is unavailable.\n- **Tax toggle** — Lets a company decide whether to charge tax on rides.\n- **Continuous request time** — The interval, in seconds, at which ride requests are re-prompted; defaults to 90 seconds.\n- **Google Maps API and branding** — Configure the Google Maps API key, and upload the company logo, the logo used in emails, and the company image.\n- **App store links** — Configure the download links for the passenger and driver apps on the Android and iOS stores.\n- **Social links** — Configure links to the company's Facebook, Twitter, and Google+ pages.\n- **Activity log toggle** — Choose whether to save logs of user activity.\n- **Multiple-booking toggle** — Allow or prevent a passenger from booking a cab for someone else while they themselves are on a trip.\n- **Subscription reminder channel** — Choose whether subscription reminders are sent by email, SMS, or push notification.\n- **Driver visibility grace time** — Set how long a driver remains visible in the passenger app under this grace period.\n\n  > Note: The socket/service option itself cannot be changed.\n\n- **Google Maps visibility scope** — Choose whether taxi/driver locations on Google Maps are visible on both the front end and back end, on the front end only, or in the admin panel only.\n- **Admin commission** — Automatically generates an admin fee for every trip completed by a taxi company.\n- **Driver wallet recharge and minimum wallet amount** — The admin can recharge a driver's wallet with a set amount. When a passenger pays in cash, the admin's commission is deducted from the driver's wallet; when a passenger pays by card, the driver's commission is credited to the wallet instead. Once the wallet balance falls below the **Minimum wallet amount**, the driver stops receiving ride requests.\n- **Rental / Outstation enablement and duration** — Enable the rental and outstation packages if you offer them, and configure the duration for one-way trips and outstation hours.\n- **Rental / Outstation images** — Upload custom images for the rental and outstation packages to display in the Android, iOS, and web apps.\n- **Default dispatcher map location** — Set the default map location shown to dispatchers.",
+            "es": "**Configuración del Sitio** reúne las opciones de configuración global de la plataforma. Incluye:\n\n- **Origen de la tarifa de viaje** — Elija si las tarifas de viaje las establece el administrador o cada empresa de taxis.\n- **Temporizador de aceptación de solicitud del conductor** — El tiempo que se le da a un conductor para aceptar una solicitud de pasajero; el valor predeterminado es de 20 segundos y se puede ajustar según las preferencias de los despachadores.\n- **Tiempo de espera de sesión inactiva** — Cierra automáticamente las sesiones inactivas después de un periodo configurable, para mejorar la seguridad del sistema.\n- **Grabación de mensaje de referido** — Permite que un usuario grabe un mensaje de voz que se envía automáticamente a un amigo como parte del programa de referidos.\n- **Palabras clave / descripción meta** — Campos de metadatos SEO para mejorar la visibilidad en buscadores.\n- **Activar/desactivar SMS** — Habilite o deshabilite las notificaciones por SMS a los usuarios.\n- **Unidad de distancia** — Elija kilómetros o millas mediante la opción **Unidades Predeterminadas**, y configure la distancia mínima mediante **Millas Predeterminadas** (o el ajuste equivalente en km).\n- **Omitir tarjeta de crédito** — Permite que una empresa restrinja el pago solo a efectivo en lugar de ofrecer efectivo y tarjeta.\n- **Activar/desactivar tarifa de cancelación** — Permite que una empresa decida si cobra a los pasajeros una tarifa por viajes cancelados.\n- **Tarifa de administrador frente a tarifa de empresa** — Elija entre una **Tarifa de administrador** (una tarifa común por tipo de vehículo aplicada a todas las empresas) y una **Tarifa de empresa** (cada empresa fija su propia tarifa).\n- **Base de cálculo de tarifa** — Elija si la tarifa se calcula por distancia, por distancia y tiempo combinados, o solo por tiempo.\n- **Idioma de la aplicación** — Configure el idioma utilizado tanto en el panel web como en las aplicaciones móviles.\n- **Información sobre herramientas (tooltips)** — Muestra texto de ayuda contextual al pasar el cursor sobre los elementos de la interfaz.\n- **Configuración de referidos** — Habilite bonos de referido para los pasajeros, con el monto del bono configurado en **Monto de referido**; se puede habilitar un programa equivalente para los conductores por separado.\n- **Montos rápidos de recarga de cartera** — Configure tres montos predeterminados de recarga (**Monto de cartera 1**, **Monto de cartera 2**, **Monto de cartera 3**) que los usuarios pueden seleccionar con un toque, además de un rango personalizado (por ejemplo, de 5 a 150, lo que significa que la recarga mínima es 5 y la máxima es 150).\n- **Nombre del sitio, eslogan y datos de contacto** — Registre el nombre del sitio, el eslogan, el correo electrónico de contacto y el número telefónico.\n- **Configuración de paginación** — Configure cuántas filas o páginas se muestran por pantalla.\n- **Visibilidad del conductor por debajo del monto mínimo de cartera** — Elija (Habilitar/Deshabilitar) si un conductor sigue siendo visible para los pasajeros incluso después de que su saldo de cartera caiga por debajo del mínimo configurado.\n- **Despacho multimodelo** — Habilite o deshabilite ofrecer al pasajero tipos de vehículo alternativos a la misma tarifa cuando el tipo solicitado no esté disponible.\n- **Activar/desactivar impuesto** — Permite que una empresa decida si cobra impuestos sobre los viajes.\n- **Tiempo de solicitud continua** — El intervalo, en segundos, con el que se reintentan las solicitudes de viaje; el valor predeterminado es 90 segundos.\n- **API de Google Maps e imagen de marca** — Configure la clave de la API de Google Maps, y cargue el logotipo de la empresa, el logotipo utilizado en los correos electrónicos y la imagen de la empresa.\n- **Enlaces de tiendas de aplicaciones** — Configure los enlaces de descarga de las aplicaciones de pasajero y conductor en las tiendas de Android e iOS.\n- **Enlaces sociales** — Configure los enlaces a las páginas de Facebook, Twitter y Google+ de la empresa.\n- **Activar/desactivar registro de actividad** — Elija si se guardan los registros de actividad de los usuarios.\n- **Activar/desactivar reserva múltiple** — Permita o impida que un pasajero reserve un vehículo para otra persona mientras él mismo está en un viaje.\n- **Canal de recordatorio de suscripción** — Elija si los recordatorios de suscripción se envían por correo electrónico, SMS o notificación push.\n- **Tiempo de gracia de visibilidad del conductor** — Configure durante cuánto tiempo permanece visible un conductor en la aplicación del pasajero bajo este periodo de gracia.\n\n  > Nota: la opción de socket/servicio en sí no se puede modificar.\n\n- **Alcance de visibilidad en Google Maps** — Elija si las ubicaciones de taxis y conductores en Google Maps son visibles tanto en el front end como en el back end, solo en el front end, o solo en el panel de administración.\n- **Comisión del administrador** — Genera automáticamente una cuota para el administrador por cada viaje completado por una empresa de taxis.\n- **Recarga de cartera del conductor y monto mínimo de cartera** — El administrador puede recargar la cartera de un conductor con un monto determinado. Cuando un pasajero paga en efectivo, la comisión del administrador se descuenta de la cartera del conductor; cuando el pasajero paga con tarjeta, la comisión del conductor se abona en cambio a su cartera. Una vez que el saldo de la cartera cae por debajo del **Monto mínimo de cartera**, el conductor deja de recibir solicitudes de viaje.\n- **Habilitación y duración de Renta / Foráneo** — Habilite los paquetes de renta y foráneo si los ofrece, y configure la duración de los viajes de ida y las horas foráneas.\n- **Imágenes de Renta / Foráneo** — Cargue imágenes personalizadas para los paquetes de renta y foráneo que se mostrarán en las aplicaciones de Android, iOS y web.\n- **Ubicación predeterminada del mapa para despachadores** — Configure la ubicación predeterminada del mapa que se muestra a los despachadores."
+          }
+        },
+        {
+          "id": "map-settings",
+          "number": "12.2",
+          "title": {
+            "en": "Map Settings",
+            "es": "Configuración de mapas"
+          },
+          "content": {
+            "en": "**Map Settings** configure the maps used across dispatching and booking, heatmaps, route directions, distance calculation, and place-details forms.",
+            "es": "**Configuración de Mapas** configura los mapas utilizados en el despacho y las reservas, los mapas de calor, las indicaciones de ruta, el cálculo de distancias y los formularios de detalles de lugares."
+          }
+        },
+        {
+          "id": "map-api-keys",
+          "number": "12.3",
+          "title": {
+            "en": "Map API Keys",
+            "es": "Claves de API de mapas"
+          },
+          "content": {
+            "en": "**Map API Keys** is where the admin manages the API keys used to access Google Maps, Mapbox, and Foursquare.",
+            "es": "**Claves de API de Mapas** es donde el administrador gestiona las claves de API utilizadas para acceder a Google Maps, Mapbox y Foursquare."
+          }
+        },
+        {
+          "id": "manage-contacts",
+          "number": "12.4",
+          "title": {
+            "en": "Manage Contacts",
+            "es": "Administrar contactos"
+          },
+          "content": {
+            "en": "**Manage Contacts** lists your contacts in date order together with the messages sent to each one, to help manage and speed up communication. Click **Action** on any contact for a comprehensive view of their details, or to remove them from the list.",
+            "es": "**Administrar Contactos** enumera sus contactos en orden de fecha junto con los mensajes enviados a cada uno, para ayudar a gestionar y agilizar la comunicación. Haga clic en **Acción** en cualquier contacto para obtener una vista completa de sus detalles, o para eliminarlo de la lista."
+          }
+        },
+        {
+          "id": "smtp-mail-settings",
+          "number": "12.5",
+          "title": {
+            "en": "SMTP Mail Settings",
+            "es": "Configuración de correo SMTP"
+          },
+          "content": {
+            "en": "SMTP settings configure your outgoing mail server. Most email software is built around SMTP for sending (outgoing) messages only. Once you supply your SMTP details, they are integrated into your application's email delivery. SendGrid is used for all email transactions; its API key must be purchased along with a license, and the free account tier carries certain limitations.",
+            "es": "La configuración SMTP corresponde a su servidor de correo saliente. La mayoría del software de correo electrónico está diseñado para usar SMTP solo para el envío de mensajes salientes. Una vez que proporciona sus datos SMTP, estos se integran en el envío de correo de su aplicación. SendGrid se utiliza para todas las transacciones de correo electrónico; su clave debe adquirirse junto con una licencia, y la cuenta gratuita tiene ciertas limitaciones."
+          }
+        },
+        {
+          "id": "email-templates",
+          "number": "12.6",
+          "title": {
+            "en": "Email Templates",
+            "es": "Plantillas de correo electrónico"
+          },
+          "content": {
+            "en": "**Email Templates** provides a list of templates that can be customized individually for each supported language. Click a template's title to edit it.",
+            "es": "**Plantillas de Correo Electrónico** ofrece una lista de plantillas que se pueden personalizar individualmente para cada idioma compatible. Haga clic en el título de una plantilla para editarla."
+          }
+        },
+        {
+          "id": "sms-settings",
+          "number": "12.7",
+          "title": {
+            "en": "SMS Settings",
+            "es": "Configuración de SMS"
+          },
+          "content": {
+            "en": "**SMS Settings** lets the admin update the credentials for the Twilio SMS gateway. Dynamic SMS gateway configurations are also supported, including options for a personalized recipient label and a message parameter name.",
+            "es": "**Configuración de SMS** permite al administrador actualizar las credenciales de la puerta de enlace SMS de Twilio. También se admiten configuraciones de puertas de enlace SMS dinámicas, incluyendo opciones para una etiqueta de destinatario personalizada y un nombre de parámetro de mensaje."
+          }
+        },
+        {
+          "id": "sms-templates",
+          "number": "12.8",
+          "title": {
+            "en": "SMS Templates",
+            "es": "Plantillas de SMS"
+          },
+          "content": {
+            "en": "**SMS Templates** provides a list of SMS templates for fast, consistent communication. Click a template's title to edit it.",
+            "es": "**Plantillas de SMS** ofrece una lista de plantillas de SMS para una comunicación rápida y consistente. Haga clic en el título de una plantilla para editarla."
+          }
+        },
+        {
+          "id": "social-network-settings",
+          "number": "12.9",
+          "title": {
+            "en": "Social Network Settings",
+            "es": "Configuración de redes sociales"
+          },
+          "content": {
+            "en": "A social network is an online community connected through platforms such as Facebook, LinkedIn, and others. **Social Network Settings** lets the admin manage the links to the social media accounts used to promote the business or its services.",
+            "es": "Una red social es una comunidad en línea conectada a través de plataformas como Facebook, LinkedIn y otras. **Configuración de Redes Sociales** permite al administrador gestionar los enlaces a las cuentas de redes sociales utilizadas para promocionar el negocio o sus servicios."
+          }
+        },
+        {
+          "id": "manage-popular-places",
+          "number": "12.10",
+          "title": {
+            "en": "Manage Popular Places",
+            "es": "Administrar lugares populares"
+          },
+          "content": {
+            "en": "**Manage Popular Places** lets the admin add popular places in a city, which then appear as nearby popular destinations on the passenger app's booking screen. Click **Edit** in the **Action** column to modify an existing place. To add a new one, click the **Add Dispatcher** button in the top-right corner, complete the **Add Popular Place** form, and click **Submit**; the new place then appears in the list.",
+            "es": "**Administrar Lugares Populares** permite al administrador agregar lugares populares de una ciudad, los cuales aparecen como destinos populares cercanos en la pantalla de reserva de la aplicación del pasajero. Haga clic en **Editar** en la columna **Acción** para modificar un lugar existente. Para agregar uno nuevo, haga clic en el botón **Agregar Despachador** en la esquina superior derecha, complete el formulario **Agregar Lugar Popular** y haga clic en **Enviar**; el nuevo lugar aparecerá entonces en la lista."
+          }
+        },
+        {
+          "id": "manage-cms",
+          "number": "12.11",
+          "title": {
+            "en": "Manage CMS",
+            "es": "Administrar CMS"
+          },
+          "content": {
+            "en": "**Manage CMS** lets you add, modify, or remove content shown across both the front-end and back-end panels. Click a content item's name to view it. Click **Edit** in the **Action** column to modify content, including the page's meta title, meta keywords, and meta description.",
+            "es": "**Administrar CMS** le permite agregar, modificar o eliminar contenido que se muestra tanto en el panel front-end como en el back-end. Haga clic en el nombre de un contenido para verlo. Haga clic en **Editar** en la columna **Acción** para modificar el contenido, incluyendo el título meta, las palabras clave meta y la descripción meta de la página."
+          }
+        },
+        {
+          "id": "manage-city",
+          "number": "12.12",
+          "title": {
+            "en": "Manage City",
+            "es": "Administrar ciudad"
+          },
+          "content": {
+            "en": "**Manage City** displays the list of cities together with their details, including the city-based fare percentage. To change the default city, enable your chosen city and click **Update** in the bottom-right corner to save the change.\n\n![Manage City list showing each city's country, state, and city-based fare percentage](assets/admin/p081-1.jpeg)\n\nClick **Edit** in the **Action** column to modify a city's details in the **Edit City** form, then click **Submit** to save your changes. Click **Add City** in the top-right corner to register a new city: select the country and state, enter the city name and zip code, set the city-based fare percentage, and click **Submit** to add it to the list.\n\n![Add City form with country, state, city, zip code, and fare-percentage fields](assets/admin/p082-2.jpeg)",
+            "es": "**Administrar Ciudad** muestra la lista de ciudades junto con sus datos, incluyendo el porcentaje de tarifa por ciudad. Para cambiar la ciudad predeterminada, habilite la ciudad de su elección y haga clic en **Actualizar** en la esquina inferior derecha para guardar el cambio.\n\n![Lista de Administrar Ciudad con el país, estado y porcentaje de tarifa por ciudad de cada una](assets/admin/p081-1.jpeg)\n\nHaga clic en **Editar** en la columna **Acción** para modificar los datos de una ciudad en el formulario **Editar Ciudad**, y luego haga clic en **Enviar** para guardar los cambios. Haga clic en **Agregar Ciudad** en la esquina superior derecha para registrar una nueva ciudad: seleccione el país y el estado, ingrese el nombre de la ciudad y el código postal, configure el porcentaje de tarifa por ciudad, y haga clic en **Enviar** para agregarla a la lista.\n\n![Formulario Agregar Ciudad con los campos de país, estado, ciudad, código postal y porcentaje de tarifa](assets/admin/p082-2.jpeg)"
+          }
+        },
+        {
+          "id": "manage-state",
+          "number": "12.13",
+          "title": {
+            "en": "Manage State",
+            "es": "Administrar estado"
+          },
+          "content": {
+            "en": "**Manage State** lists every state configured in the system, together with the country each belongs to. To set a particular state as the default, enable it and click **Update** in the bottom-right corner to save the change.\n\n![Manage State list showing each state's country and default-state selector](assets/admin/p082-3.jpeg)\n\nClick **Edit** in the **Action** column to modify a state's details. Click **Add State** in the top-right corner to register a new state: select the country it belongs to, enter the state's name, and click **Submit**.\n\n![Add State form with country and state-name fields](assets/admin/p084-1.jpeg)",
+            "es": "**Administrar Estado** enumera todos los estados configurados en el sistema, junto con el país al que pertenece cada uno. Para establecer un estado en particular como predeterminado, habilítelo y haga clic en **Actualizar** en la esquina inferior derecha para guardar el cambio.\n\n![Lista de Administrar Estado con el país y el selector de estado predeterminado](assets/admin/p082-3.jpeg)\n\nHaga clic en **Editar** en la columna **Acción** para modificar los datos de un estado. Haga clic en **Agregar Estado** en la esquina superior derecha para registrar un nuevo estado: seleccione el país al que pertenece, ingrese el nombre del estado y haga clic en **Enviar**.\n\n![Formulario Agregar Estado con los campos de país y nombre del estado](assets/admin/p084-1.jpeg)"
+          }
+        },
+        {
+          "id": "manage-country",
+          "number": "12.14",
+          "title": {
+            "en": "Manage Country",
+            "es": "Administrar país"
+          },
+          "content": {
+            "en": "**Manage Country** lists every country configured in the system, together with its ISO country code, telephone code, currency code, and currency symbol. Configuring the country code and telephone code correctly is important, since they are used throughout the platform for phone-number formatting and SMS delivery. Click **Edit** in the **Action** column to modify a country's details.\n\n![Manage Country list showing ISO country code, telephone code, currency code, and currency symbol](assets/admin/p084-2.jpeg)",
+            "es": "**Administrar País** enumera todos los países configurados en el sistema, junto con su código ISO de país, código telefónico, código de moneda y símbolo de moneda. Es importante configurar correctamente el código de país y el código telefónico, ya que se utilizan en toda la plataforma para el formato de los números telefónicos y el envío de SMS. Haga clic en **Editar** en la columna **Acción** para modificar los datos de un país.\n\n![Lista de Administrar País con el código ISO, código telefónico, código de moneda y símbolo de moneda](assets/admin/p084-2.jpeg)"
+          }
+        },
+        {
+          "id": "manage-theme-settings",
+          "number": "12.15",
+          "title": {
+            "en": "Manage Theme Settings",
+            "es": "Configuración de tema"
+          },
+          "content": {
+            "en": "**Manage Theme Settings** lets the admin control the branding and color scheme of the web application, both at the front end (the passenger-facing website) and the back end (the admin panel), across three tabs.\n\n**Template settings** — Upload the basic branding assets used throughout the platform: the site logo, the frontend site logo, a small logo, the site email logo, the site favicon, the copyright notice, and the sign-in and header logos used in the passenger and driver mobile apps. Choose between the two available front-end templates (Default Theme or New Theme), and upload the About Us banner image, the front banner image, the frontend mobile image, and the frontend car image, along with the app background and footer background colors.\n\n![Template Settings form with site logos, mobile app logos, theme selection, and banner images](assets/admin/p085-1.jpeg)\n\nFor each taxi company, the admin can also set the front banner content and the front app content shown in the back end, along with the desired background color and image. The About Us and Contact Us pages can likewise be edited here, including their background color.\n\n![Front Banner Content, Front App Content, About Us, and Contact Us rich-text editors](assets/admin/p086-1.jpeg)\n\n**Admin theme settings** — Customize the colors used throughout the admin panel itself, including the header background, the dispatch header and package footer backgrounds, the sidebar background and its sub-tabs, the sidebar icon and its active/circle states, and the button and dispatch-button backgrounds and hover states.\n\n![Admin Theme Settings color fields for header, sidebar, and button backgrounds](assets/admin/p087-1.jpeg)\n\n**Website theme settings** — Customize the colors used on the front-end passenger-facing website, including the header, footer, and sidebar backgrounds, the sidebar icon and its active state, and the button background and hover color. These changes are reflected across the site only after a passenger logs in.\n\n![Website Theme Settings color fields for header, footer, sidebar, and button backgrounds](assets/admin/p089-1.jpeg)",
+            "es": "**Configuración de Tema** le permite al administrador controlar la imagen de marca y el esquema de colores de la aplicación web, tanto en el front end (el sitio orientado al pasajero) como en el back end (el panel de administración), a través de tres pestañas.\n\n**Configuración de plantilla** — Cargue los recursos básicos de marca utilizados en toda la plataforma: el logotipo del sitio, el logotipo del sitio para el front end, un logotipo pequeño, el logotipo de correo del sitio, el favicon del sitio, el aviso de derechos de autor, y los logotipos de inicio de sesión y encabezado utilizados en las aplicaciones móviles de pasajero y conductor. Elija entre las dos plantillas de front end disponibles (Tema Predeterminado o Tema Nuevo), y cargue la imagen de banner de Acerca de Nosotros, la imagen del banner principal, la imagen móvil del front end y la imagen del vehículo del front end, junto con los colores de fondo de la aplicación y del pie de página.\n\n![Formulario de Configuración de Plantilla con logotipos del sitio, logotipos de la app móvil, selección de tema e imágenes de banner](assets/admin/p085-1.jpeg)\n\nPara cada empresa de taxis, el administrador también puede configurar el contenido del banner principal y el contenido de la app que se muestran en el back end, junto con el color de fondo y la imagen deseados. Las páginas Acerca de Nosotros y Contáctenos también se pueden editar aquí, incluyendo su color de fondo.\n\n![Editores de texto enriquecido para Contenido del Banner Principal, Contenido de la App, Acerca de Nosotros y Contáctenos](assets/admin/p086-1.jpeg)\n\n**Configuración de tema del administrador** — Personalice los colores utilizados en todo el panel de administración, incluyendo el fondo del encabezado, los fondos del encabezado de despacho y del pie de página de paquetes, el fondo de la barra lateral y sus subpestañas, el ícono de la barra lateral y sus estados activo/círculo, y los fondos de los botones y del botón de despacho junto con sus estados al pasar el cursor.\n\n![Campos de color de Configuración de Tema del Administrador para encabezado, barra lateral y fondos de botones](assets/admin/p087-1.jpeg)\n\n**Configuración de tema del sitio web** — Personalice los colores utilizados en el sitio web orientado al pasajero, incluyendo los fondos del encabezado, pie de página y barra lateral, el ícono de la barra lateral y su estado activo, y el color de fondo y de pase de cursor del botón. Estos cambios se reflejan en todo el sitio únicamente después de que el pasajero inicia sesión.\n\n![Campos de color de Configuración de Tema del Sitio Web para encabezado, pie de página, barra lateral y fondos de botones](assets/admin/p089-1.jpeg)"
+          }
+        },
+        {
+          "id": "payments",
+          "number": "12.16",
+          "title": {
+            "en": "Payments",
+            "es": "Pagos"
+          },
+          "content": {
+            "en": "**Payments** controls how money moves between drivers, passengers, and the platform, across three areas.\n\n**Withdrawal payment mode** — Configure which payment modes drivers can use when requesting a withdrawal from their wallet — Cash, Bank Draft, Cheque, Telegraphic Transfer, and Money Order. Select **Change Status** for any mode to enable or disable it.\n\n![Withdraw Payment Mode list with Cash, Bank Draft, Cheque, Telegraphic Transfer, and Money Order](assets/admin/p089-2.jpeg)\n\n**Payment modes** — Configure the payment modes available for the withdrawal requests drivers submit for amounts earned through referral programs. Each mode — Cash, Credit Card, or New Card — can be enabled or disabled independently, and one of them can be set as the **Default Mode**.\n\n![Payment Gateway Module showing Cash, Credit Card, and New Card enabled with a default-mode selector](assets/admin/p090-1.jpeg)\n\n**Payment gateway** — Configure the PayPal payment gateway used to accept card payments, including the gateway name and description, the currency code and symbol, the API username, password, and signature, and whether the gateway runs in Test Mode or Live Mode. The gateway can be marked Active or Inactive, and set as the default payment gateway.\n\n![Payment gateway configuration form with PayPal API username, password, signature, and mode settings](assets/admin/p091-1.jpeg)",
+            "es": "**Pagos** controla cómo se mueve el dinero entre conductores, pasajeros y la plataforma, en tres áreas.\n\n**Modalidad de pago de retiro** — Configure qué modalidades de pago pueden usar los conductores al solicitar un retiro de su cartera: Efectivo, Giro Bancario, Cheque, Transferencia Telegráfica y Giro Postal. Seleccione **Cambiar Estado** en cualquier modalidad para habilitarla o deshabilitarla.\n\n![Lista de Modalidad de Pago de Retiro con Efectivo, Giro Bancario, Cheque, Transferencia Telegráfica y Giro Postal](assets/admin/p089-2.jpeg)\n\n**Modalidades de pago** — Configure las modalidades de pago disponibles para las solicitudes de retiro que envían los conductores por los montos ganados a través de programas de referidos. Cada modalidad (Efectivo, Tarjeta de Crédito o Tarjeta Nueva) se puede habilitar o deshabilitar de forma independiente, y una de ellas se puede establecer como **Modo Predeterminado**.\n\n![Módulo de Puerta de Enlace de Pago mostrando Efectivo, Tarjeta de Crédito y Tarjeta Nueva habilitadas con un selector de modo predeterminado](assets/admin/p090-1.jpeg)\n\n**Puerta de enlace de pago** — Configure la puerta de enlace de pago de PayPal utilizada para aceptar pagos con tarjeta, incluyendo el nombre y la descripción de la puerta de enlace, el código y símbolo de moneda, el nombre de usuario, la contraseña y la firma de la API, y si la puerta de enlace funciona en Modo de Prueba o Modo en Vivo. La puerta de enlace se puede marcar como Activa o Inactiva, y establecer como la puerta de enlace de pago predeterminada.\n\n![Formulario de configuración de la puerta de enlace de pago con nombre de usuario, contraseña, firma y modo de PayPal](assets/admin/p091-1.jpeg)"
+          }
+        },
+        {
+          "id": "cloud-settings",
+          "number": "12.17",
+          "title": {
+            "en": "Cloud Settings",
+            "es": "Configuración de nube"
+          },
+          "content": {
+            "en": "**Cloud Settings** manages the hosted-account side of your TaxiMobility deployment, across four areas.\n\n**Home** — Shows the current plan details for your account, how many days remain before renewal, and the platform's available features. From here you can also add a company, connect a domain, choose the website language, and select a payment gateway. Click **Upgrade** in the top-right corner to move to a higher plan.\n\n![Cloud Settings home page showing plan status, Add Company, Add Domain, Choose Language, and Choose Payment options](assets/admin/p092-1.jpeg)\n\n**Account** — Shows an overview of your account (member since, current plan, and account status), your billing information and credit card, the account owner and the number of driver accounts used against your plan's limit, and an account summary with any outstanding invoices and fees.\n\n![Account Information page showing account overview, billing information, permissions, and invoices](assets/admin/p093-1.jpeg)\n\n**Preferences** — Customize the language files used by the web application and by the driver, passenger, and dispatcher mobile apps, along with their color codes. Each of these can be set independently for the Web, iOS, and Android platforms, and switched between the platform default and a customized version.\n\n![Preferences screen with driver, passenger, and dispatcher app language and color-code settings for iOS](assets/admin/p095-1.jpeg)\n\n**Domain** — Connect an existing custom domain to your TaxiMobility deployment so passengers and drivers reach your service through your own web address instead of the default one.\n\n![Connect existing domain form](assets/admin/p096-1.jpeg)",
+            "es": "**Configuración de Nube** administra el lado de la cuenta alojada de su implementación de TaxiMobility, en cuatro áreas.\n\n**Inicio** — Muestra los detalles del plan actual de su cuenta, cuántos días faltan para la renovación y las funciones disponibles de la plataforma. Desde aquí también puede agregar una empresa, conectar un dominio, elegir el idioma del sitio web y seleccionar una puerta de enlace de pago. Haga clic en **Actualizar** en la esquina superior derecha para pasar a un plan superior.\n\n![Página de inicio de Configuración de Nube mostrando el estado del plan y las opciones Agregar Empresa, Agregar Dominio, Elegir Idioma y Elegir Pago](assets/admin/p092-1.jpeg)\n\n**Cuenta** — Muestra un resumen de su cuenta (miembro desde, plan actual y estado de la cuenta), su información de facturación y tarjeta de crédito, el propietario de la cuenta y el número de cuentas de conductor utilizadas respecto al límite de su plan, y un resumen de cuenta con cualquier factura o cargo pendiente.\n\n![Página de Información de Cuenta mostrando el resumen de cuenta, información de facturación, permisos y facturas](assets/admin/p093-1.jpeg)\n\n**Preferencias** — Personalice los archivos de idioma utilizados por la aplicación web y por las aplicaciones móviles de conductor, pasajero y despachador, junto con sus códigos de color. Cada uno de estos se puede configurar de forma independiente para las plataformas Web, iOS y Android, y alternar entre el valor predeterminado de la plataforma y una versión personalizada.\n\n![Pantalla de Preferencias con configuración de idioma y código de color de las apps de conductor, pasajero y despachador para iOS](assets/admin/p095-1.jpeg)\n\n**Dominio** — Conecte un dominio personalizado existente a su implementación de TaxiMobility para que los pasajeros y conductores accedan a su servicio a través de su propia dirección web en lugar de la predeterminada.\n\n![Formulario para conectar un dominio existente](assets/admin/p096-1.jpeg)"
+          }
+        }
+      ]
+    }
+  ]
+}

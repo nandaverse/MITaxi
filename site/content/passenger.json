@@ -1,0 +1,503 @@
+{
+  "id": "passenger",
+  "title": {
+    "en": "MiTaxi Passenger App Guide",
+    "es": "Guía de la App MiTaxi para Pasajeros"
+  },
+  "tagline": {
+    "en": "A complete reference for booking, tracking, paying for, and managing rides in the MiTaxiApp passenger mobile app and web portal.",
+    "es": "Una referencia completa para reservar, rastrear, pagar y gestionar viajes en la aplicación móvil y el portal web para pasajeros de MiTaxiApp."
+  },
+  "sections": [
+    {
+      "id": "introduction",
+      "number": "1",
+      "title": {
+        "en": "Introduction",
+        "es": "Introducción"
+      },
+      "content": {
+        "en": "The MiTaxiApp Passenger Ecosystem is an advanced, on-demand taxi booking and dispatch platform built to connect riders with available drivers quickly and reliably.\n\nThe ecosystem is available through two passenger-facing channels:\n\n- **MiTaxiApp Mobile Application** — a native Android app built for immediate, on-the-go bookings. It takes advantage of mobile-specific hardware and services such as GPS tracking, SMS utilities, the device contact list, and instant push notifications.\n- **MiTaxiApp Web Portal** — a browser-based application that lets passengers calculate fares, schedule future bookings, edit account settings, and access trip receipts from a desktop computer or tablet.\n\nThis guide documents the complete passenger workflow, covering everything from registration and booking through in-trip safety protocols and account management.\n\nThe app also includes an **About Us** page describing MiTaxiApp as a ready-made taxi booking and dispatch system, with quick links to rate the app in the Play Store, follow the company on Facebook and Twitter, and review the Terms & Conditions and Privacy Policy.\n\n![About Us screen with social links and legal pages](assets/passenger/p028-1.jpeg)",
+        "es": "El ecosistema de pasajeros de MiTaxiApp es una plataforma avanzada de reserva y despacho de taxis bajo demanda, diseñada para conectar a los pasajeros con conductores disponibles de forma rápida y confiable.\n\nEl ecosistema está disponible a través de dos canales orientados al pasajero:\n\n- **Aplicación móvil de MiTaxiApp** — una app nativa para Android creada para reservas inmediatas y sobre la marcha. Aprovecha funciones y hardware específicos del dispositivo móvil, como el rastreo GPS, utilidades de SMS, la lista de contactos del dispositivo y notificaciones push instantáneas.\n- **Portal web de MiTaxiApp** — una aplicación basada en navegador que permite a los pasajeros calcular tarifas, programar reservas futuras, editar la configuración de su cuenta y consultar los recibos de viaje desde una computadora de escritorio o tablet.\n\nEsta guía documenta el flujo completo del pasajero, desde el registro y la reserva hasta los protocolos de seguridad durante el viaje y la administración de la cuenta.\n\nLa app también incluye una página de **Acerca de nosotros** que describe a MiTaxiApp como un sistema de reserva y despacho de taxis listo para usar, con accesos directos para calificar la app en la Play Store, seguir a la empresa en Facebook y Twitter, y revisar los Términos y Condiciones y el Aviso de Privacidad.\n\n![Pantalla Acerca de Nosotros con enlaces sociales y páginas legales](assets/passenger/p028-1.jpeg)"
+      }
+    },
+    {
+      "id": "getting-started-registration",
+      "number": "2",
+      "title": {
+        "en": "Getting Started & Registration",
+        "es": "Primeros Pasos y Registro"
+      },
+      "content": {
+        "en": "",
+        "es": ""
+      },
+      "children": [
+        {
+          "id": "mobile-app-registration-verification",
+          "number": "2.1",
+          "title": {
+            "en": "Mobile App Registration & Verification",
+            "es": "Registro y Verificación en la App Móvil"
+          },
+          "content": {
+            "en": "To create a new account in the MiTaxiApp mobile application, passengers go through a secure, four-stage verification flow.\n\n1. **Mobile number input**\n   - Launch the application and select the **Register** option.\n   - Enter your mobile phone number together with the correct international country code.\n\n2. **OTP verification**\n   - The system automatically sends a 4-digit One-Time Password (OTP) by SMS to the phone number provided.\n   - Enter the 4-digit code on the verification screen before the countdown timer expires. If the SMS is delayed, a **Resend Code** option becomes available.\n\n3. **Account details**\n   - Provide your full name, email address, and a secure password (minimum 6 characters).\n   - Optionally enter a referral or promotional code shared by a friend to earn account credits.\n\n4. **Finalization**\n   - Read and check the box to accept the Terms & Conditions and Privacy Policy.\n   - Tap **Save & Continue** to complete account setup and land on the main map dashboard.\n\n![Choosing to continue with a mobile number or a Facebook account](assets/passenger/p005-1.jpeg)\n\n**Alternative: Facebook sign-up**\n\nInstead of the mobile-number flow, passengers can tap **Continue with Facebook** on the welcome screen and log in with their existing Facebook credentials to create an account instantly, without filling in the registration form manually.\n\n- **Optional payment setup**: Similar to the web portal flow (see below), the mobile app can also offer to save credit card details right after verification, with a **Skip** option for passengers who prefer to pay by cash.\n\n**Returning users: Signing in**\n\nPassengers who already have an account sign in with their registered mobile number (or Facebook credentials) and password. If a password is forgotten, tapping **Forgot Password** on the sign-in screen starts a reset flow so access can be recovered without creating a new account.\n\n![Sign-in screen with a Forgot Password link](assets/passenger/p008-2.jpeg)",
+            "es": "Para crear una cuenta nueva en la aplicación móvil de MiTaxiApp, el pasajero sigue un flujo de verificación seguro de cuatro etapas.\n\n1. **Ingreso del número móvil**\n   - Abra la aplicación y seleccione la opción **Registrarse**.\n   - Ingrese su número de teléfono móvil junto con el código de país internacional correcto.\n\n2. **Verificación por OTP**\n   - El sistema envía automáticamente una contraseña de un solo uso (OTP) de 4 dígitos por SMS al número proporcionado.\n   - Ingrese el código de 4 dígitos en la pantalla de verificación antes de que expire el temporizador de cuenta regresiva. Si el SMS se retrasa, estará disponible la opción **Reenviar código**.\n\n3. **Datos de la cuenta**\n   - Proporcione su nombre completo, correo electrónico y una contraseña segura (mínimo 6 caracteres).\n   - De manera opcional, ingrese un código de referido o promocional compartido por un amigo para ganar créditos en la cuenta.\n\n4. **Finalización**\n   - Lea y marque la casilla para aceptar los Términos y Condiciones y el Aviso de Privacidad.\n   - Toque **Guardar y continuar** para completar la configuración de la cuenta e ingresar al tablero principal del mapa.\n\n![Elegir continuar con un número móvil o con una cuenta de Facebook](assets/passenger/p005-1.jpeg)\n\n**Alternativa: registro con Facebook**\n\nEn lugar del flujo con número móvil, el pasajero puede tocar **Continuar con Facebook** en la pantalla de bienvenida e iniciar sesión con sus credenciales de Facebook existentes para crear una cuenta al instante, sin llenar manualmente el formulario de registro.\n\n- **Configuración de pago opcional**: De forma similar al flujo del portal web (ver más abajo), la app móvil también puede ofrecer guardar los datos de la tarjeta de crédito justo después de la verificación, con una opción de **Omitir** para quienes prefieren pagar en efectivo.\n\n**Usuarios que regresan: Inicio de sesión**\n\nLos pasajeros que ya tienen una cuenta inician sesión con su número móvil registrado (o sus credenciales de Facebook) y su contraseña. Si olvidan la contraseña, tocar **Olvidé mi contraseña** en la pantalla de inicio de sesión inicia un flujo de restablecimiento para recuperar el acceso sin crear una cuenta nueva.\n\n![Pantalla de inicio de sesión con el enlace Olvidé mi contraseña](assets/passenger/p008-2.jpeg)"
+          }
+        },
+        {
+          "id": "web-portal-registration-credit-cards",
+          "number": "2.2",
+          "title": {
+            "en": "Web Portal Registration & Credit Cards",
+            "es": "Registro en el Portal Web y Tarjetas de Crédito"
+          },
+          "content": {
+            "en": "Passengers booking rides from a browser can register through a streamlined web sign-up flow.\n\n1. **Start sign-up**\n   - Go to the company home page and locate the booking card.\n   - Click **Create Account**.\n\n2. **Onboarding option**\n   - Choose to sign up using your mobile number or link directly through a Facebook account.\n   - If registering with a mobile number, enter your country code and phone number.\n\n3. **SMS verification**\n   - Enter the 4-digit OTP sent to your phone to authenticate the browser session.\n\n4. **Account details**\n   - Enter your name, email address, and create a password.\n\n5. **Credit card registration (optional)**\n   - To set up cashless bookings on the web, passengers may enter their credit card details (cardholder name, card number, expiry date in MM/YYYY format, and CVV).\n   - This card can be saved as the default payment method.\n   - Passengers may also skip this step and add card details later from their payment options.\n\n![Payment Options screen where a new credit card can be entered or skipped](assets/passenger/p006-1.jpeg)\n\nWhen entering card details, passengers can toggle **Default Card** on to make that card the automatic choice for future trips, and must accept the Terms & Conditions checkbox before the card is saved.\n\n![Add Card form with card number, expiry, CVV, and a Default Card toggle](assets/passenger/p021-2.jpeg)",
+            "es": "Los pasajeros que reservan viajes desde un navegador pueden registrarse mediante un flujo de alta simplificado en la web.\n\n1. **Iniciar el registro**\n   - Ingrese a la página de inicio de la empresa y localice la tarjeta de reserva.\n   - Haga clic en **Crear cuenta**.\n\n2. **Opción de incorporación**\n   - Elija registrarse con su número de teléfono móvil o vincular directamente su cuenta de Facebook.\n   - Si se registra con número de teléfono, ingrese su código de país y número telefónico.\n\n3. **Verificación por SMS**\n   - Ingrese el código OTP de 4 dígitos enviado a su teléfono para autenticar la sesión del navegador.\n\n4. **Datos de la cuenta**\n   - Ingrese su nombre, correo electrónico y cree una contraseña.\n\n5. **Registro de tarjeta de crédito (opcional)**\n   - Para configurar reservas sin efectivo desde la web, el pasajero puede ingresar los datos de su tarjeta de crédito (nombre del titular, número de tarjeta, fecha de vencimiento en formato MM/AAAA y CVV).\n   - Esta tarjeta puede guardarse como método de pago predeterminado.\n   - El pasajero también puede omitir este paso y agregar los datos de la tarjeta más adelante desde sus opciones de pago.\n\n![Pantalla de Opciones de Pago donde se puede ingresar o saltar una nueva tarjeta de crédito](assets/passenger/p006-1.jpeg)\n\nAl ingresar los datos de la tarjeta, el pasajero puede activar la opción **Tarjeta predeterminada** para que esa tarjeta se use automáticamente en futuros viajes, y debe aceptar la casilla de Términos y Condiciones antes de que la tarjeta se guarde.\n\n![Formulario para agregar tarjeta con número, vencimiento, CVV y el interruptor de Tarjeta predeterminada](assets/passenger/p021-2.jpeg)"
+          }
+        },
+        {
+          "id": "data-consent-privacy-security",
+          "number": "2.3",
+          "title": {
+            "en": "Data Consent, Privacy & Security (Store & Secure)",
+            "es": "Consentimiento de Datos, Privacidad y Seguridad (Almacenar y Proteger)"
+          },
+          "content": {
+            "en": "",
+            "es": ""
+          },
+          "children": [
+            {
+              "id": "what-data-we-collect",
+              "number": "A",
+              "title": {
+                "en": "What Data We Collect",
+                "es": "Qué Datos Recopilamos"
+              },
+              "content": {
+                "en": "At MiTaxiApp, protecting passenger privacy and securing personal data are top priorities. The sections below explain what data is collected, how it is used, and the measures taken to safeguard it.\n\nTo provide a fully functioning ride-booking service, the application requests access to the following categories of information:\n\n- **Personal data**: Name, password, and registration timestamp, used to identify and maintain the user account.\n- **Contact details**: Email address, physical address, and mobile number, used to send updates and trip notifications.\n- **Geographical location**: Real-time GPS location data, used to verify the availability of the nearest drivers, display map routes, and track trip progress.\n- **Contact lists**: Access to the device's contact list so passengers can set up Emergency SOS contacts or select friends for Split Fare distributions.\n- **Device information**: Manufacturer name, device model, operating system version, SDK version, total and available storage, battery level, and unique device tokens — used to monitor app usage and prevent unauthorized access.\n- **Camera and media gallery**: Access to take or select a photo to set up the passenger's profile picture.\n- **Phone call utility**: Permission to place calls directly from the passenger screen to the driver, without going through the phone's native dialer interface.",
+                "es": "En MiTaxiApp, proteger la privacidad del pasajero y asegurar los datos personales son prioridades fundamentales. Las siguientes secciones explican qué datos se recopilan, cómo se utilizan y qué medidas se toman para protegerlos.\n\nPara ofrecer un servicio de reserva de viajes completamente funcional, la aplicación solicita acceso a las siguientes categorías de información:\n\n- **Datos personales**: Nombre, contraseña y fecha/hora de registro, utilizados para identificar y mantener la cuenta del usuario.\n- **Datos de contacto**: Correo electrónico, dirección física y número de teléfono móvil, utilizados para enviar actualizaciones y notificaciones de viaje.\n- **Ubicación geográfica**: Datos de ubicación GPS en tiempo real, utilizados para verificar la disponibilidad de los conductores más cercanos, mostrar rutas en el mapa y dar seguimiento al progreso del viaje.\n- **Listas de contactos**: Acceso a la lista de contactos del dispositivo para que el pasajero pueda configurar contactos de emergencia (SOS) o seleccionar amigos para las distribuciones de Tarifa Compartida.\n- **Información del dispositivo**: Nombre del fabricante, modelo del dispositivo, versión del sistema operativo, versión del SDK, almacenamiento total y disponible, nivel de batería y tokens únicos del dispositivo, utilizados para monitorear el uso de la aplicación y prevenir accesos no autorizados.\n- **Cámara y galería multimedia**: Acceso para tomar o seleccionar una fotografía y configurar la imagen de perfil del pasajero.\n- **Utilidad de llamadas telefónicas**: Permiso para iniciar llamadas directamente desde la pantalla del pasajero hacia el conductor, sin pasar por la interfaz nativa de marcado del teléfono."
+              }
+            },
+            {
+              "id": "how-we-use-and-store-your-data",
+              "number": "B",
+              "title": {
+                "en": "How We Use and Store Your Data",
+                "es": "Cómo Usamos y Almacenamos sus Datos"
+              },
+              "content": {
+                "en": "- **Account services**: Personal and contact data are used to maintain active accounts and authenticate user sessions.\n- **Trip execution**: Location data is transmitted to nearby drivers to coordinate pickup and drop-off.\n- **Local storage caching**: To minimize network requests and keep the app fast, MiTaxiApp stores geocoding coordinates and search API results in secure local storage on the device.\n- **Background service protection**: On devices running custom operating systems (for example, Huawei devices), MiTaxiApp applies manufacturer-specific background service settings to prevent the device from automatically shutting down the app's location tracker during active trips.",
+                "es": "- **Servicios de cuenta**: Los datos personales y de contacto se utilizan para mantener las cuentas activas y autenticar las sesiones del usuario.\n- **Ejecución del viaje**: Los datos de ubicación se transmiten a los conductores cercanos para coordinar el punto de recogida y el destino.\n- **Almacenamiento local en caché**: Para minimizar las solicitudes de red y mantener la aplicación ágil, MiTaxiApp guarda las coordenadas de geocodificación y los resultados de la API de búsqueda en almacenamiento local seguro dentro del dispositivo.\n- **Protección del servicio en segundo plano**: En dispositivos con sistemas operativos personalizados (por ejemplo, dispositivos Huawei), MiTaxiApp aplica configuraciones de servicio en segundo plano específicas del fabricante para evitar que el dispositivo desactive automáticamente el rastreador de ubicación de la app durante los viajes activos."
+              }
+            },
+            {
+              "id": "how-we-secure-your-data",
+              "number": "C",
+              "title": {
+                "en": "How We Secure Your Data",
+                "es": "Cómo Aseguramos sus Datos"
+              },
+              "content": {
+                "en": "- **Encryption (SSL)**: All data transmitted between MiTaxiApp passenger devices — mobile apps and web browsers — and the centralized servers is encrypted using Secure Sockets Layer (SSL) data transfer.\n- **Security standards**: MiTaxiApp adopts industry-standard technical and organizational security measures to prevent unauthorized data modification, damage, loss, or access.\n- **PCI compliance**: All credit card processing and gateway token storage (Braintree, Stripe, PayPal) is handled through encrypted tokenization, so card details are never stored in plain text.",
+                "es": "- **Cifrado (SSL)**: Todos los datos transmitidos entre los dispositivos del pasajero de MiTaxiApp —aplicaciones móviles y navegadores web— y los servidores centralizados se cifran mediante transferencia de datos con Secure Sockets Layer (SSL).\n- **Estándares de seguridad**: MiTaxiApp adopta medidas de seguridad técnicas y organizativas conforme a los estándares de la industria para prevenir la modificación, el daño, la pérdida o el acceso no autorizado a los datos.\n- **Cumplimiento PCI**: Todo el procesamiento de tarjetas de crédito y el almacenamiento de tokens de las pasarelas de pago (Braintree, Stripe, PayPal) se realiza mediante tokenización cifrada, de modo que los datos de la tarjeta nunca se almacenan en texto plano."
+              }
+            },
+            {
+              "id": "know-your-rights",
+              "number": "D",
+              "title": {
+                "en": "Know Your Rights",
+                "es": "Conozca sus Derechos"
+              },
+              "content": {
+                "en": "Under MiTaxiApp's privacy policy, passengers retain full control over their personal information:\n\n- **Access & edit**: Passengers can view and modify their profile details, phone numbers, and payment cards at any time.\n- **Consent withdrawal**: Passengers can change permission settings in their mobile operating system to restrict access to location, camera, or contacts.\n- **Account deletion**: Passengers can request permanent deactivation and de-registration of their account from the settings screen. This process requires password verification to ensure the request is authorized.",
+                "es": "Conforme al aviso de privacidad de MiTaxiApp, el pasajero conserva el control total sobre su información personal:\n\n- **Acceso y edición**: El pasajero puede consultar y modificar en cualquier momento los datos de su perfil, sus números de teléfono y sus tarjetas de pago.\n- **Retiro del consentimiento**: El pasajero puede cambiar los permisos en el sistema operativo de su dispositivo móvil para restringir el acceso a la ubicación, la cámara o los contactos.\n- **Eliminación de cuenta**: El pasajero puede solicitar la desactivación permanente y la baja de su cuenta desde la pantalla de configuración. Este proceso requiere verificar la contraseña para asegurar que la solicitud esté autorizada."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "core-booking-module",
+      "number": "3",
+      "title": {
+        "en": "Core Booking Module",
+        "es": "Módulo Principal de Reservas"
+      },
+      "content": {
+        "en": "",
+        "es": ""
+      },
+      "children": [
+        {
+          "id": "local-normal-taxi-booking",
+          "number": "3.1",
+          "title": {
+            "en": "Local/Normal Taxi Booking",
+            "es": "Reserva de Taxi Local/Normal"
+          },
+          "content": {
+            "en": "Local bookings are point-to-point taxi requests within city limits.\n\n1. **Set pickup**: The map automatically loads the passenger's current location. Users can manually adjust the pin or type a specific pickup address.\n2. **Set drop-off**: Enter the destination in the **Where to?** address search bar.\n3. **Dispatch request**: Tap the booking confirmation button. The system broadcasts the request to the closest matching drivers within the configured geographic search radius.\n\n![Setting an optional drop-off location on the pickup map](assets/passenger/p004-2.jpeg)\n\n![Confirming the exact pickup point before requesting a taxi](assets/passenger/p014-1.jpeg)",
+            "es": "Las reservas locales son solicitudes de taxi punto a punto dentro de los límites de la ciudad.\n\n1. **Definir el punto de recogida**: El mapa carga automáticamente la ubicación actual del pasajero. El usuario puede ajustar manualmente el pin o escribir una dirección de recogida específica.\n2. **Definir el destino**: Ingrese el destino en la barra de búsqueda de direcciones **¿A dónde vamos?**.\n3. **Enviar la solicitud**: Toque el botón de confirmación de reserva. El sistema transmite la solicitud a los conductores más cercanos que coincidan, dentro del radio de búsqueda geográfico configurado.\n\n![Definición de una ubicación de destino opcional en el mapa de recogida](assets/passenger/p004-2.jpeg)\n\n![Confirmación del punto exacto de recogida antes de solicitar un taxi](assets/passenger/p014-1.jpeg)"
+          }
+        },
+        {
+          "id": "scheduling-rides-book-later",
+          "number": "3.2",
+          "title": {
+            "en": "Scheduling Rides (Book Later)",
+            "es": "Programación de Viajes (Reservar para Después)"
+          },
+          "content": {
+            "en": "Passengers can pre-book rides for a future date and time.\n\n1. **Booking window**: Rides must be scheduled at least one hour ahead of the current local time, to ensure driver availability.\n2. **Scheduling flow**: Tap the **Schedule** icon, select the desired pickup date from the calendar and the pickup time from the clock, confirm the pickup and drop-off addresses, and save.\n3. **Status updates**: The scheduled booking appears under the **Upcoming Trips** section. The dispatch algorithm automatically starts searching for a driver shortly before the scheduled time.\n\n**Managing upcoming trips**: All scheduled and dispatcher-created bookings that have been accepted by a driver appear under **My Bookings > Upcoming**. From this list, passengers can tap **Track Now** to follow the assigned driver, use the **Call** button to reach the driver directly, or tap **Cancel** and select a reason to cancel the trip before it starts.\n\n![Upcoming trips list with Track Now buttons for each scheduled ride](assets/passenger/p018-1.jpeg)",
+            "es": "El pasajero puede reservar viajes con anticipación para una fecha y hora futuras.\n\n1. **Ventana de reserva**: Los viajes deben programarse con al menos una hora de anticipación respecto a la hora local actual, para garantizar la disponibilidad de conductores.\n2. **Flujo de programación**: Toque el ícono **Programar**, seleccione la fecha de recogida deseada en el calendario y la hora de recogida en el reloj, confirme las direcciones de recogida y destino, y guarde los cambios.\n3. **Actualizaciones de estado**: La reserva programada aparece en la sección **Próximos viajes**. El algoritmo de despacho inicia automáticamente la búsqueda de un conductor poco antes de la hora programada.\n\n**Gestión de próximos viajes**: Todas las reservas programadas o creadas por un despachador que ya fueron aceptadas por un conductor aparecen en **Mis Reservas > Próximos**. Desde esta lista, el pasajero puede tocar **Rastrear ahora** para seguir al conductor asignado, usar el botón **Llamar** para comunicarse directamente con él, o tocar **Cancelar** y elegir un motivo para cancelar el viaje antes de que comience.\n\n![Lista de próximos viajes con botones de Rastrear ahora para cada reserva programada](assets/passenger/p018-1.jpeg)"
+          }
+        },
+        {
+          "id": "vehicle-categories-fare-estimation",
+          "number": "3.3",
+          "title": {
+            "en": "Vehicle Categories & Fare Estimation",
+            "es": "Categorías de Vehículos y Estimación de Tarifa"
+          },
+          "content": {
+            "en": "Before completing a booking, passengers see pricing estimates and available car models.\n\n- **Vehicle options slider**: Toggle between Standard, Premium, Utility, or Luxury categories.\n- **Real-time calculations**: The app displays:\n  - **Estimated Time of Arrival (ETA)**: How quickly the nearest driver can reach the pickup location.\n  - **Approximate fare**: A calculated total based on the base fare, estimated distance, travel duration, and any active tax parameters.\n- **Payment surcharges**: Surcharges such as night rates or peak-hour charges are shown if they are active in the backend dashboard.\n\n![Vehicle selection screen showing live fare estimates, a Cash/Card toggle, and passenger count](assets/passenger/p010-2.jpeg)\n\n- **Multi-model dispatch fallback**: If the administrator has enabled multi-model dispatch on the backend and the passenger's first-choice vehicle is unavailable, the app automatically offers other nearby vehicle types at the same fare, so the trip is not delayed.\n- **Payment mode at booking**: From the same screen, passengers pick **Cash** or **Credit Card** as the payment mode for the trip before requesting a taxi.\n- **Standalone Fare module**: A dedicated **Fare** menu option lets passengers check the base fare, per-kilometer and per-minute rates, cancellation fare, and evening/night surcharge percentages for every vehicle model and package plan, even without starting a booking.\n\n![Fare module showing a detailed rate card for a selected vehicle model](assets/passenger/p024-1.jpeg)",
+            "es": "Antes de completar una reserva, el pasajero visualiza estimaciones de precio y los modelos de auto disponibles.\n\n- **Selector de opciones de vehículo**: Alterne entre las categorías Estándar, Premium, Utilitario o Lujo.\n- **Cálculos en tiempo real**: La app muestra:\n  - **Tiempo estimado de llegada (ETA)**: Qué tan rápido puede llegar el conductor más cercano al punto de recogida.\n  - **Tarifa aproximada**: Un total calculado con base en la tarifa base, la distancia estimada, la duración del viaje y los parámetros de impuestos activos.\n- **Recargos de pago**: Recargos como las tarifas nocturnas o los cargos en horas pico se muestran si están activos en el panel de administración.\n\n![Pantalla de selección de vehículo con estimaciones de tarifa en vivo, un interruptor Efectivo/Tarjeta y el número de pasajeros](assets/passenger/p010-2.jpeg)\n\n- **Repartición alternativa multi-modelo**: Si el administrador habilitó el despacho multi-modelo en el backend y el vehículo de primera elección del pasajero no está disponible, la app ofrece automáticamente otros tipos de vehículo cercanos a la misma tarifa, para que el viaje no se retrase.\n- **Modo de pago al reservar**: Desde la misma pantalla, el pasajero elige **Efectivo** o **Tarjeta de crédito** como modo de pago del viaje antes de solicitar el taxi.\n- **Módulo independiente de Tarifa**: Una opción de menú dedicada llamada **Tarifa** permite al pasajero consultar la tarifa base, las tarifas por kilómetro y por minuto, la tarifa de cancelación y los porcentajes de recargo nocturno o vespertino de cada modelo de vehículo y paquete, incluso sin iniciar una reserva.\n\n![Módulo de Tarifa mostrando una tarjeta de tarifas detallada para un modelo de vehículo seleccionado](assets/passenger/p024-1.jpeg)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "advanced-booking-features",
+      "number": "4",
+      "title": {
+        "en": "Advanced Booking Features",
+        "es": "Funciones Avanzadas de Reserva"
+      },
+      "content": {
+        "en": "",
+        "es": ""
+      },
+      "children": [
+        {
+          "id": "multi-stop-booking",
+          "number": "4.1",
+          "title": {
+            "en": "Multi-Stop Booking (Adding Stops)",
+            "es": "Reserva con Múltiples Paradas (Agregar Paradas)"
+          },
+          "content": {
+            "en": "Passengers can customize their route by adding intermediate destinations.\n\n- **Adding stops**: Tap the **+** icon next to the address input bar to add mid-route stops.\n- **System guidance**: The app displays a notification alert warning the passenger that adding stops may change the final fare, due to route deviations and increased travel time.\n- **Fare integration**: The pricing algorithm automatically calculates the optimized route connecting all stops in sequence and computes the adjusted approximate fare.",
+            "es": "El pasajero puede personalizar su ruta agregando destinos intermedios.\n\n- **Agregar paradas**: Toque el ícono **+** junto a la barra de direcciones para añadir paradas intermedias en la ruta.\n- **Aviso del sistema**: La app muestra una notificación advirtiendo al pasajero que agregar paradas puede modificar la tarifa final, debido a las desviaciones de ruta y al mayor tiempo de viaje.\n- **Integración con la tarifa**: El algoritmo de precios calcula automáticamente la ruta optimizada que conecta todas las paradas en secuencia y recalcula la tarifa aproximada ajustada."
+          }
+        },
+        {
+          "id": "split-fare-with-friends",
+          "number": "4.2",
+          "title": {
+            "en": "Split Fare with Friends",
+            "es": "Tarifa Compartida con Amigos"
+          },
+          "content": {
+            "en": "For shared rides, MiTaxiApp lets passengers split the bill directly from the app.\n\n1. **Setup**: During trip configuration, tap the **Split Fare** icon.\n2. **Friend selection**: Select the phone numbers of companions from the mobile contact list.\n3. **Allocation**: Define the percentage split for each passenger. The combined percentages across all passengers must equal 100%.\n4. **Verification**: Companions receive a split-fare notification. The app shows their status as **Pending**, **Accepted**, or **Rejected**.\n\n> Note: Once split fare is enabled, the payment method cannot be changed until the ride configuration is reset or the trip is completed.\n\n**Enabling the feature**: Split Fare must first be turned on from the **Settings** menu before the Split Fare icon becomes available during trip configuration.\n\n![Settings screen with the Split Fare toggle alongside Favourite Drivers and language options](assets/passenger/p027-1.jpeg)",
+            "es": "Para viajes compartidos, MiTaxiApp permite dividir la cuenta directamente desde la app.\n\n1. **Configuración**: Durante la configuración del viaje, toque el ícono **Tarifa Compartida**.\n2. **Selección de acompañantes**: Seleccione los números telefónicos de los acompañantes desde la lista de contactos del celular.\n3. **Distribución**: Defina el porcentaje que corresponde a cada pasajero. La suma de los porcentajes de todos los pasajeros debe ser igual a 100%.\n4. **Verificación**: Los acompañantes reciben una notificación de tarifa compartida. La app muestra su estado como **Pendiente**, **Aceptado** o **Rechazado**.\n\n> Nota: Una vez activada la tarifa compartida, el método de pago queda bloqueado y no se puede modificar hasta que se reinicie la configuración del viaje o este se complete.\n\n**Activación de la función**: La Tarifa Compartida debe activarse primero desde el menú de **Configuración** antes de que el ícono de Tarifa Compartida esté disponible durante la configuración del viaje.\n\n![Pantalla de Configuración con el interruptor de Tarifa Compartida junto a las opciones de Conductores Favoritos e idioma](assets/passenger/p027-1.jpeg)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "specialized-travel-packages",
+      "number": "5",
+      "title": {
+        "en": "Specialized Travel Packages",
+        "es": "Paquetes Especializados de Viaje"
+      },
+      "content": {
+        "en": "",
+        "es": ""
+      },
+      "children": [
+        {
+          "id": "rental-package-long-hire",
+          "number": "5.1",
+          "title": {
+            "en": "Rental Package (Long Hire)",
+            "es": "Paquete de Renta (Alquiler Prolongado)"
+          },
+          "content": {
+            "en": "Rental packages are designed for passengers who need a dedicated vehicle and driver for multiple stops over an extended period of time.\n\n- **Configuration**: Select the **Rental** package option, then choose from fixed duration-and-distance plans (for example, 2 hours / 20 km, or 4 hours / 40 km).\n- **Usage**: The passenger has the taxi at their disposal to travel to multiple stops during the rental window.\n- **Overage charges**: If the passenger exceeds the plan's time or distance limits, the system automatically bills nominal per-minute and per-kilometer rates for the overage.\n\n![Package Plan screen with the Rental option selected and a list of duration/distance plans](assets/passenger/p013-1.jpeg)\n\n![Rental fare details showing the base fare plus additional per-distance and per-hour rates](assets/passenger/p024-2.jpeg)",
+            "es": "Los paquetes de renta están diseñados para pasajeros que necesitan un vehículo y conductor dedicados para realizar múltiples paradas durante un periodo extendido de tiempo.\n\n- **Configuración**: Seleccione la opción de paquete **Renta** y elija entre los planes fijos de duración y distancia (por ejemplo, 2 horas / 20 km, o 4 horas / 40 km).\n- **Uso**: El pasajero tiene el taxi a su disposición para trasladarse a múltiples paradas durante la ventana de renta.\n- **Cargos por excedente**: Si el pasajero supera los límites de tiempo o distancia del plan, el sistema factura automáticamente tarifas nominales por minuto y por kilómetro adicionales.\n\n![Pantalla de Plan de Paquete con la opción Renta seleccionada y una lista de planes por duración/distancia](assets/passenger/p013-1.jpeg)\n\n![Detalles de tarifa de renta mostrando la tarifa base más las tarifas adicionales por distancia y por hora](assets/passenger/p024-2.jpeg)"
+          }
+        },
+        {
+          "id": "outstation-intercity-travel",
+          "number": "5.2",
+          "title": {
+            "en": "Outstation (Intercity Travel)",
+            "es": "Outstation (Viaje Foráneo entre Ciudades)"
+          },
+          "content": {
+            "en": "Outstation bookings let passengers schedule trips to destinations located outside the standard municipal limits.\n\n- **Booking types**: Both One-Way and Round Trip intercity bookings are supported.\n- **Scheduling**: Outstation trips require scheduling in advance of the travel date and time.\n- **System boundaries**: If a passenger tries to enter a drop-off address outside city limits during a Local booking, the system alerts the user and suggests switching to the Outstation or Rental options instead.\n\n![Outstation fare details showing the base fare for a 12-hour intercity plan](assets/passenger/p024-3.jpeg)",
+            "es": "Las reservas Outstation (foráneas) permiten al pasajero programar viajes hacia destinos ubicados fuera de los límites municipales estándar.\n\n- **Tipos de reserva**: Se admiten viajes foráneos de Ida y de Ida y vuelta.\n- **Programación**: Los viajes Outstation requieren programarse con anticipación a la fecha y hora del viaje.\n- **Límites del sistema**: Si el pasajero intenta ingresar una dirección de destino fuera de los límites de la ciudad durante una reserva Local, el sistema le muestra una alerta y le sugiere cambiar a las opciones Outstation o Renta.\n\n![Detalles de tarifa Outstation mostrando la tarifa base para un plan foráneo de 12 horas](assets/passenger/p024-3.jpeg)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "corporate-airport-transport-portal",
+      "number": "6",
+      "title": {
+        "en": "Corporate & Airport Transport Portal",
+        "es": "Portal de Transporte Corporativo y Aeroportuario"
+      },
+      "content": {
+        "en": "",
+        "es": ""
+      },
+      "children": [
+        {
+          "id": "airport-pickups-dropoffs",
+          "number": "6.1",
+          "title": {
+            "en": "Airport Pick-ups & Drop-offs (Flight/Gate/Luggage)",
+            "es": "Recogidas y Entregas en el Aeropuerto (Vuelo/Puerta/Equipaje)"
+          },
+          "content": {
+            "en": "A dedicated booking workflow is available for airport travelers.\n\n1. **Portal entry**: Select the **Airport Booking** menu option.\n2. **Route types**: Choose from **Airport to Destination**, **Destination to Airport**, or **Destination to Destination**.\n3. **Airport selection**: Pick the target airport and the matching taxi fleet companies.\n4. **Travel details**: Enter the flight number, gate number, luggage count, and any custom pickup notes.",
+            "es": "Existe un flujo de reserva dedicado para pasajeros que viajan hacia o desde el aeropuerto.\n\n1. **Acceso al portal**: Seleccione la opción de menú **Reserva de Aeropuerto**.\n2. **Tipos de ruta**: Elija entre **Aeropuerto a Destino**, **Destino a Aeropuerto** o **Destino a Destino**.\n3. **Selección de aeropuerto**: Elija el aeropuerto de destino y las compañías de flotilla de taxis correspondientes.\n4. **Detalles del viaje**: Ingrese el número de vuelo, el número de puerta de embarque, la cantidad de equipaje y cualquier nota personalizada para la recogida."
+          }
+        },
+        {
+          "id": "corporate-business-account-bookings",
+          "number": "6.2",
+          "title": {
+            "en": "Corporate/Business Account Bookings",
+            "es": "Reservas de Cuenta Corporativa/Empresarial"
+          },
+          "content": {
+            "en": "For business accounts, the system connects directly to corporate profiles.\n\n- **Company selection**: Select the corporate profile linked to the user account.\n- **Direct billing**: Trips booked under a corporate profile are charged directly to the corporate account balance, or invoiced through corporate billing, bypassing personal card or cash payment methods.",
+            "es": "Para las cuentas empresariales, el sistema se conecta directamente con los perfiles corporativos.\n\n- **Selección de empresa**: Seleccione el perfil corporativo vinculado a la cuenta del usuario.\n- **Facturación directa**: Los viajes reservados bajo un perfil corporativo se cargan directamente al saldo de la cuenta corporativa, o se facturan a través de la facturación corporativa, sin utilizar los métodos de pago personales de tarjeta o efectivo."
+          }
+        }
+      ]
+    },
+    {
+      "id": "active-trip-transit-experience",
+      "number": "7",
+      "title": {
+        "en": "Active Trip Transit Experience",
+        "es": "Experiencia de Tránsito Durante el Viaje Activo"
+      },
+      "content": {
+        "en": "",
+        "es": ""
+      },
+      "children": [
+        {
+          "id": "real-time-route-driver-tracking",
+          "number": "7.1",
+          "title": {
+            "en": "Real-Time Route & Driver Tracking",
+            "es": "Ruta en Tiempo Real y Rastreo del Conductor"
+          },
+          "content": {
+            "en": "Once a driver accepts the booking, the passenger can follow the trip from start to finish.\n\n- **Driver arrival status**: The screen shows the assigned driver's coordinates on the map as they navigate toward the pickup location, along with an ETA.\n- **Trip transit tracking**: Once the passenger boards the vehicle, the map displays the transit route. The pickup address is locked and cannot be changed during the active trip.\n- **Share location**: Passengers can share a live tracking link with family or friends so they can follow the travel path in real time.\n\n![Driver assigned confirmation showing name, plate number, rating, and ETA](assets/passenger/p014-2.jpeg)\n\n![Trip in progress screen tracking the route toward the destination](assets/passenger/p016-1.jpeg)",
+            "es": "Una vez que un conductor acepta la reserva, el pasajero puede seguir el viaje de principio a fin.\n\n- **Estado de llegada del conductor**: La pantalla muestra las coordenadas del conductor asignado en el mapa mientras se dirige al punto de recogida, junto con un ETA.\n- **Seguimiento del tránsito del viaje**: Una vez que el pasajero aborda el vehículo, el mapa muestra la ruta de tránsito. La dirección de recogida queda bloqueada y no puede modificarse durante el viaje activo.\n- **Compartir ubicación**: El pasajero puede compartir un enlace de rastreo en vivo con familiares o amigos para que puedan seguir la ruta de viaje en tiempo real.\n\n![Confirmación de conductor asignado mostrando nombre, placas, calificación y ETA](assets/passenger/p014-2.jpeg)\n\n![Pantalla de viaje en curso rastreando la ruta hacia el destino](assets/passenger/p016-1.jpeg)"
+          }
+        },
+        {
+          "id": "passenger-driver-chat-calls",
+          "number": "7.2",
+          "title": {
+            "en": "In-App Passenger-Driver Chat & Calls",
+            "es": "Chat y Llamadas entre Pasajero y Conductor Dentro de la App"
+          },
+          "content": {
+            "en": "Built-in communication channels keep passengers and drivers in sync.\n\n- **Real-time chat**: A secure in-app chat interface lets passengers and drivers exchange text messages without disclosing personal phone numbers.\n- **Direct phone calling**: A quick-action dialer button lets the passenger call the driver directly. The call is routed securely to protect user privacy.",
+            "es": "Los canales de comunicación integrados mantienen sincronizados a pasajeros y conductores.\n\n- **Chat en tiempo real**: Una interfaz de chat segura dentro de la app permite intercambiar mensajes de texto entre pasajero y conductor sin revelar los números de teléfono personales.\n- **Llamada telefónica directa**: Un botón de acción rápida permite al pasajero llamar directamente al conductor. La llamada se enruta de forma segura para proteger la privacidad del usuario."
+          }
+        },
+        {
+          "id": "ride-cancellations-penalty-rules",
+          "number": "7.3",
+          "title": {
+            "en": "Ride Cancellations & Penalty Rules",
+            "es": "Cancelaciones de Viaje y Reglas de Penalización"
+          },
+          "content": {
+            "en": "Passengers have the flexibility to cancel a booking request.\n\n- **Before driver arrival**: Passengers can cancel a booking from the tracking screen.\n- **Cancellation reasons**: Users choose from a predefined list of reasons (for example: cab delay, driver unresponsive, wrong address, or booking placed in error).\n- **Cancellation fees**: Depending on backend settings, a cancellation charge may apply if the ride is cancelled after the driver has been traveling toward the pickup point for a specific amount of time.\n\n![Past bookings list showing a completed cash trip, a canceled trip, and a completed card trip](assets/passenger/p019-1.jpeg)",
+            "es": "El pasajero tiene la flexibilidad de cancelar una solicitud de reserva.\n\n- **Antes de la llegada del conductor**: El pasajero puede cancelar una reserva desde la pantalla de seguimiento.\n- **Motivos de cancelación**: El usuario elige entre una lista predefinida de motivos (por ejemplo: retraso del taxi, conductor sin respuesta, dirección incorrecta o reserva realizada por error).\n- **Cargos por cancelación**: Dependiendo de la configuración del backend, puede aplicarse un cargo por cancelación si el viaje se cancela después de que el conductor ha viajado hacia el punto de recogida durante un tiempo determinado.\n\n![Lista de reservas pasadas mostrando un viaje completado en efectivo, uno cancelado y uno completado con tarjeta](assets/passenger/p019-1.jpeg)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "post-trip-processes-financials",
+      "number": "8",
+      "title": {
+        "en": "Post-Trip Processes & Financials",
+        "es": "Procesos y Finanzas Posteriores al Viaje"
+      },
+      "content": {
+        "en": "",
+        "es": ""
+      },
+      "children": [
+        {
+          "id": "e-receipts-fare-breakdowns",
+          "number": "8.1",
+          "title": {
+            "en": "E-Receipts & Detailed Fare Breakdowns",
+            "es": "Recibos Electrónicos y Desglose Detallado de Tarifas"
+          },
+          "content": {
+            "en": "Upon completion of a trip, the application generates a detailed electronic invoice.\n\nThe interactive fare summary breaks down the total as follows:\n\n| Component | Description |\n|---|---|\n| Base Fare | Flat starting rate for the vehicle category. |\n| Distance Fare | Charge computed per kilometer traveled. |\n| Minutes Fare | Charge computed based on travel duration. |\n| Waiting Fare | Charge applied for driver waiting time. |\n| Surcharges | Additional charges such as night rates or evening peak-hour rates. |\n| Discounts | Promotional discounts deducted from the total. |\n| Net Total | The final amount paid, along with the payment method used (Cash, Wallet, or Card). |\n\n![Trip summary breakdown with distance, minutes, waiting fare, surcharges, tax, and total paid](assets/passenger/p020-2.jpeg)\n\n**Complete booking history**: Beyond the most recent ride, the **My Bookings > Past Bookings** list keeps every completed and canceled trip on file, showing the date, time, pickup/drop-off locations, payment type, and payment status. Tapping any trip opens its full summary, and swiping the trip ribbon reveals the detailed breakdown shown above.\n\n**Getting help with a past trip**: If something went wrong, passengers can tap **Help** from a trip's summary and choose from common issues — a lost item, a fare dispute, an unprofessional driver, an unexpected vehicle, or a receipt/payment problem — then submit comments describing the issue.\n\n![Trip summary screen showing the route, trip fare, driver rating, and a Help button](assets/passenger/p019-2.jpeg)",
+            "es": "Al finalizar un viaje, la aplicación genera un recibo electrónico detallado.\n\nEl resumen interactivo de la tarifa desglosa el total de la siguiente manera:\n\n| Componente | Descripción |\n|---|---|\n| Tarifa Base | Tarifa fija inicial correspondiente a la categoría del vehículo. |\n| Tarifa por Distancia | Cargo calculado por kilómetro recorrido. |\n| Tarifa por Minutos | Cargo calculado según la duración del viaje. |\n| Tarifa de Espera | Cargo aplicado por el tiempo de espera del conductor. |\n| Recargos | Cargos adicionales, como tarifas nocturnas o de horas pico. |\n| Descuentos | Descuentos promocionales deducidos del total. |\n| Total Neto | El monto final pagado, junto con el método de pago utilizado (Efectivo, Monedero o Tarjeta). |\n\n![Desglose del resumen del viaje con distancia, minutos, tarifa de espera, recargos, impuestos y total pagado](assets/passenger/p020-2.jpeg)\n\n**Historial completo de reservas**: Más allá del viaje más reciente, la lista de **Mis Reservas > Reservas Pasadas** conserva todos los viajes completados y cancelados, mostrando la fecha, la hora, los puntos de recogida y destino, el tipo de pago y el estado del pago. Al tocar cualquier viaje se abre su resumen completo, y al deslizar la cinta del viaje se revela el desglose detallado que se muestra arriba.\n\n**Obtener ayuda con un viaje pasado**: Si algo salió mal, el pasajero puede tocar **Ayuda** desde el resumen de un viaje y elegir entre los problemas comunes —un objeto perdido, una disputa de tarifa, un conductor poco profesional, un vehículo inesperado o un problema con el recibo o el pago— y luego enviar comentarios describiendo el inconveniente.\n\n![Pantalla de resumen del viaje mostrando la ruta, la tarifa del viaje, la calificación del conductor y un botón de Ayuda](assets/passenger/p019-2.jpeg)"
+          }
+        },
+        {
+          "id": "driver-ratings-quality-feedback",
+          "number": "8.2",
+          "title": {
+            "en": "Driver Ratings & Quality Feedback",
+            "es": "Calificación de Conductores y Retroalimentación de Calidad"
+          },
+          "content": {
+            "en": "To maintain service quality across the platform, passengers rate each ride.\n\n- **Star rating**: Give a rating from 1 to 5 stars.\n- **Comments**: Enter text feedback describing the experience. If the passenger tries to submit feedback without selecting a star rating, the system prompts a validation check.\n\n![E-receipt screen with the star rating, a comments box, and a Share this App button](assets/passenger/p017-1.jpeg)\n\n**Sharing the trip experience**: After rating the driver, passengers can optionally share their comments and feedback about the trip through email, SMS, or social networking sites such as Facebook and Twitter — a convenient way to recommend (or flag) a ride to friends and followers.",
+            "es": "Para mantener la calidad del servicio en toda la plataforma, el pasajero califica cada viaje.\n\n- **Calificación por estrellas**: Otorgue una calificación de 1 a 5 estrellas.\n- **Comentarios**: Ingrese comentarios de texto describiendo la experiencia. Si el pasajero intenta enviar comentarios sin seleccionar una calificación por estrellas, el sistema muestra una validación de verificación.\n\n![Pantalla del recibo electrónico con la calificación por estrellas, un cuadro de comentarios y un botón para Compartir esta App](assets/passenger/p017-1.jpeg)\n\n**Compartir la experiencia del viaje**: Después de calificar al conductor, el pasajero puede, de manera opcional, compartir sus comentarios y retroalimentación sobre el viaje por correo electrónico, SMS o redes sociales como Facebook y Twitter, una forma práctica de recomendar (o señalar) un viaje a amigos y seguidores."
+          }
+        }
+      ]
+    },
+    {
+      "id": "prepaid-wallet-promotions",
+      "number": "9",
+      "title": {
+        "en": "Prepaid Wallet & Promotions",
+        "es": "Monedero Prepago y Promociones"
+      },
+      "content": {
+        "en": "",
+        "es": ""
+      },
+      "children": [
+        {
+          "id": "wallet-recharge-payment-gateways",
+          "number": "9.1",
+          "title": {
+            "en": "Wallet Recharge & Payment Gateways (Stripe, Braintree, PayPal)",
+            "es": "Recarga de Monedero y Pasarelas de Pago (Stripe, Braintree, PayPal)"
+          },
+          "content": {
+            "en": "The prepaid digital wallet allows passengers to pay for rides without cash or a card.\n\n- **Cashless checkout**: When the wallet is selected as the primary payment method, trip costs are automatically deducted from the wallet balance.\n- **Recharging**: Tap **Add Money**, choose from the preset recharge amounts or enter a custom amount, and process the payment securely through the Braintree, Stripe, or PayPal gateways.\n- **Insufficient funds alert**: If the wallet balance is lower than the booking's estimated fare, the system displays an alert recommending a wallet top-up before confirming the ride.\n\n![Wallet screen showing the current balance and preset recharge amounts](assets/passenger/p022-1.jpeg)\n\n![Add Money screen for entering card details to fund the wallet](assets/passenger/p022-2.jpeg)",
+            "es": "El monedero digital prepago permite al pasajero pagar sus viajes sin efectivo ni tarjeta.\n\n- **Pago sin efectivo**: Cuando el monedero se selecciona como método de pago principal, el costo del viaje se descuenta automáticamente del saldo del monedero.\n- **Recarga**: Toque **Agregar dinero**, elija entre los montos de recarga preestablecidos o ingrese un monto personalizado, y procese el pago de forma segura a través de las pasarelas Braintree, Stripe o PayPal.\n- **Alerta de fondos insuficientes**: Si el saldo del monedero es menor que la tarifa estimada de la reserva, el sistema muestra una alerta recomendando recargar el monedero antes de confirmar el viaje.\n\n![Pantalla del Monedero mostrando el saldo actual y los montos de recarga preestablecidos](assets/passenger/p022-1.jpeg)\n\n![Pantalla Agregar Dinero para ingresar los datos de la tarjeta y recargar el monedero](assets/passenger/p022-2.jpeg)"
+          }
+        },
+        {
+          "id": "promo-codes-referrals",
+          "number": "9.2",
+          "title": {
+            "en": "Promo Codes & Referrals (Invite Friends)",
+            "es": "Códigos Promocionales y Referidos (Invitar Amigos)"
+          },
+          "content": {
+            "en": "Promotions provide additional savings for riders.\n\n- **Promo code entry**: Enter promotional coupon codes during booking, or from within the wallet tab, to apply instant discounts.\n- **Invite friends**: Passengers can share their unique referral code via SMS, email, Facebook, WhatsApp, or Twitter. When a new user registers and completes a ride using the code, the referrer earns account credits.\n\n![Promo code entry dialog shown on the booking map](assets/passenger/p011-1.jpeg)\n\n**Worked example**: If a passenger adds $200 to the wallet while a 10%-off promo code is applied, the wallet is credited with a total of $220.\n\n![Invite Friends screen showing the referral code and earned credit](assets/passenger/p026-1.jpeg)\n\n**Worked example**: With a $20 referral bonus, sharing a code with a friend credits $20 to the friend's wallet as soon as they sign up; when that friend completes their first ride using the code, the original referrer also receives $20 — so both sides benefit.",
+            "es": "Las promociones brindan ahorros adicionales para los pasajeros.\n\n- **Ingreso de código promocional**: Ingrese códigos de cupón promocional durante la reserva, o desde la pestaña del monedero, para aplicar descuentos instantáneos.\n- **Invitar amigos**: El pasajero puede compartir su código de referido único por SMS, correo electrónico, Facebook, WhatsApp o Twitter. Cuando un nuevo usuario se registra y completa un viaje utilizando el código, quien lo refirió gana créditos en su cuenta.\n\n![Cuadro de diálogo para ingresar el código promocional, mostrado sobre el mapa de reserva](assets/passenger/p011-1.jpeg)\n\n**Ejemplo práctico**: Si un pasajero agrega $200 al monedero mientras aplica un código promocional del 10% de descuento, el monedero se acredita con un total de $220.\n\n![Pantalla de Invitar Amigos mostrando el código de referido y el crédito ganado](assets/passenger/p026-1.jpeg)\n\n**Ejemplo práctico**: Con un bono de referido de $20, al compartir un código con un amigo se acreditan $20 al monedero del amigo en cuanto se registra; cuando ese amigo completa su primer viaje usando el código, quien lo refirió también recibe $20, de modo que ambas partes se benefician."
+          }
+        }
+      ]
+    },
+    {
+      "id": "passenger-preferences-safety",
+      "number": "10",
+      "title": {
+        "en": "Passenger Preferences & Safety",
+        "es": "Preferencias y Seguridad del Pasajero"
+      },
+      "content": {
+        "en": "",
+        "es": ""
+      },
+      "children": [
+        {
+          "id": "favorite-places-favorite-drivers",
+          "number": "10.1",
+          "title": {
+            "en": "Favorite Places & Favorite Drivers",
+            "es": "Lugares Favoritos y Conductores Favoritos"
+          },
+          "content": {
+            "en": "Personalized settings speed up the booking process.\n\n- **Favorite places**: Bookmark addresses as Home, Office, Airport, or Other.\n- **Favorite drivers**: Add reliable drivers to a favorites list. Passengers can also remove drivers from this list at any time.\n\n![Favorites list with saved locations and a Book Now button for each](assets/passenger/p023-1.jpeg)\n\n![Add Favourite screen for saving a new pickup/drop-off location with a label](assets/passenger/p023-2.jpeg)\n\n**Settings menu**: Favorite Places, Favorite Drivers, and Split Fare can each be switched on or off from the app's **Settings** menu, which also lets passengers choose their preferred display language (including English, Russian, Turkish, German, Portuguese, and Arabic); a changed language takes effect the next time the app is closed and reopened.",
+            "es": "Los ajustes personalizados agilizan el proceso de reserva.\n\n- **Lugares favoritos**: Guarde direcciones como Casa, Oficina, Aeropuerto u Otro.\n- **Conductores favoritos**: Agregue a conductores de confianza a una lista de favoritos. El pasajero también puede eliminar conductores de esta lista en cualquier momento.\n\n![Lista de favoritos con ubicaciones guardadas y un botón Reservar ahora para cada una](assets/passenger/p023-1.jpeg)\n\n![Pantalla para agregar un favorito, guardando una nueva ubicación de recogida/destino con una etiqueta](assets/passenger/p023-2.jpeg)\n\n**Menú de Configuración**: Los Lugares Favoritos, los Conductores Favoritos y la Tarifa Compartida pueden activarse o desactivarse desde el menú de **Configuración** de la app, el cual también permite elegir el idioma de visualización preferido (incluyendo inglés, ruso, turco, alemán, portugués y árabe); un cambio de idioma se aplica la próxima vez que se cierra y se vuelve a abrir la app."
+          }
+        },
+        {
+          "id": "emergency-contacts-sos-system",
+          "number": "10.2",
+          "title": {
+            "en": "Emergency Contacts & SOS System",
+            "es": "Contactos de Emergencia y Sistema SOS"
+          },
+          "content": {
+            "en": "MiTaxiApp includes real-time emergency safety tools.\n\n- **SOS button**: A visible emergency button is located in the top dashboard header.\n- **Configuration**: Add up to 3 emergency contacts from the phone's contact list.\n- **SOS behavior**: Tapping the SOS button triggers an immediate confirmation prompt. Once confirmed, the system sends an SMS alert containing the passenger's coordinates and a live tracking link to each emergency contact.\n\n![Emergency setup screen inviting passengers to add up to 3 contacts](assets/passenger/p025-1.jpeg)\n\n![Sample SOS text message showing the passenger's coordinates and a Google Maps link](assets/passenger/p025-3.jpeg)",
+            "es": "MiTaxiApp incluye herramientas de seguridad de emergencia en tiempo real.\n\n- **Botón SOS**: Un botón de emergencia visible se encuentra en la parte superior del encabezado del tablero.\n- **Configuración**: Agregue hasta 3 contactos de emergencia desde la lista de contactos del teléfono.\n- **Comportamiento del SOS**: Al tocar el botón SOS se activa una confirmación inmediata. Una vez confirmada, el sistema envía una alerta por SMS que contiene las coordenadas del pasajero y un enlace de rastreo en vivo a cada contacto de emergencia.\n\n![Pantalla de configuración de Emergencia invitando al pasajero a agregar hasta 3 contactos](assets/passenger/p025-1.jpeg)\n\n![Ejemplo de mensaje de texto SOS mostrando las coordenadas del pasajero y un enlace de Google Maps](assets/passenger/p025-3.jpeg)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "account-management-security",
+      "number": "11",
+      "title": {
+        "en": "Account Management & Security",
+        "es": "Gestión de la Cuenta y Seguridad"
+      },
+      "content": {
+        "en": "",
+        "es": ""
+      },
+      "children": [
+        {
+          "id": "profile-editing-password-updates",
+          "number": "11.1",
+          "title": {
+            "en": "Profile Editing & Password Updates",
+            "es": "Edición de Perfil y Actualización de Contraseña"
+          },
+          "content": {
+            "en": "Passengers can keep their profile information up to date.\n\n- **Profile details**: Edit first name, last name, phone number, and physical address, and upload a profile picture.\n- **Password updates**: Securely change the account password by verifying the old password before setting and confirming a new one.\n\n![Profile screen with editable fields and Log Out / Save buttons](assets/passenger/p009-1.jpeg)\n\n![Change Password dialog requiring the old password before setting a new one](assets/passenger/p009-2.jpeg)",
+            "es": "El pasajero puede mantener actualizada la información de su perfil.\n\n- **Detalles del perfil**: Edite nombre, apellido, número de teléfono y dirección física, y suba una foto de perfil.\n- **Actualización de contraseña**: Cambie de forma segura la contraseña de la cuenta verificando la contraseña anterior antes de establecer y confirmar una nueva.\n\n![Pantalla de Perfil con campos editables y los botones Cerrar sesión / Guardar](assets/passenger/p009-1.jpeg)\n\n![Cuadro de diálogo para Cambiar Contraseña, que requiere la contraseña anterior antes de establecer una nueva](assets/passenger/p009-2.jpeg)"
+          }
+        },
+        {
+          "id": "account-deactivation-deletion",
+          "number": "11.2",
+          "title": {
+            "en": "Account Deactivation & Deletion",
+            "es": "Desactivación y Eliminación de la Cuenta"
+          },
+          "content": {
+            "en": "From the privacy settings, passengers can delete their profile entirely.\n\n- **Account deletion request**: Selecting **Delete Account** starts the account termination workflow.\n- **Verification**: The user must enter their account password to confirm the deactivation request, preventing accidental or unauthorized deletions.\n\n![Password verification screen shown before an account deletion request is processed](assets/passenger/p027-4.jpeg)",
+            "es": "Desde la configuración de privacidad, el pasajero puede eliminar su perfil por completo.\n\n- **Solicitud de eliminación de cuenta**: Al seleccionar **Eliminar cuenta** se inicia el proceso de baja de la cuenta.\n- **Verificación**: El usuario debe ingresar la contraseña de su cuenta para confirmar la solicitud de desactivación, lo que evita eliminaciones accidentales o no autorizadas.\n\n![Pantalla de verificación de contraseña mostrada antes de procesar una solicitud de eliminación de cuenta](assets/passenger/p027-4.jpeg)"
+          }
+        },
+        {
+          "id": "log-out-session-management",
+          "number": "11.3",
+          "title": {
+            "en": "Log Out & Session Management",
+            "es": "Cerrar Sesión y Gestión de Sesiones"
+          },
+          "content": {
+            "en": "- **Logging out**: Tap **Logout** at the bottom of the navigation drawer.\n- **Session clearing**: Confirming the action deactivates the user's session on the server and clears locally cached tokens, returning the user to the Sign In screen.",
+            "es": "- **Cerrar sesión**: Toque **Cerrar sesión** en la parte inferior del menú de navegación.\n- **Eliminación de la sesión**: Al confirmar la acción se desactiva la sesión del usuario en el servidor y se eliminan los tokens almacenados localmente en caché, regresando al usuario a la pantalla de inicio de sesión."
+          }
+        }
+      ]
+    }
+  ]
+}
