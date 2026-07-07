@@ -1,0 +1,41 @@
+# Optional: auto-deploy to client server on every push to main.
+#
+# Required GitHub repo secrets:
+#   DEPLOY_HOST     — server IP or hostname
+#   DEPLOY_USER     — SSH user (e.g. ndotusr)
+#   DEPLOY_SSH_KEY  — private key (github_to_server from authorized_keys setup)
+#   DEPLOY_PATH     — optional, default /var/www/mitaxi-docs
+#
+# Server must have:
+#   - Repo cloned at DEPLOY_PATH
+#   - deploy/deploy.sh executable
+#   - SSH key in ~/.ssh/authorized_keys
+#   - nginx configured (see deploy/setup-server.sh)
+
+name: Deploy to client server
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'site/**'
+      - 'deploy/**'
+      - '.github/workflows/deploy-server.yml'
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy over SSH
+        uses: appleboy/ssh-action@v1.2.0
+        with:
+          host: ${{ secrets.DEPLOY_HOST }}
+          username: ${{ secrets.DEPLOY_USER }}
+          key: ${{ secrets.DEPLOY_SSH_KEY }}
+          script: |
+            set -e
+            BASE="${{ secrets.DEPLOY_PATH }}"
+            if [ -z "$BASE" ]; then BASE="/var/www/mitaxi-docs"; fi
+            cd "$BASE"
+            ./deploy/deploy.sh
